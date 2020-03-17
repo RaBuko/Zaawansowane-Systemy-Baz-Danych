@@ -16,6 +16,7 @@ GROUP BY CUSTOMERS.CONTACTLASTNAME;
 
 
 --3
+-- Brak wyników u mnie @Kuba 
 SELECT PR.PRODUCTNAME FROM PRODUCTS PR 
 INNER JOIN ORDERDETAILS OD ON PR.PRODUCTCODE = OD.PRODUCTCODE
 INNER JOIN ORDERS ORD ON ORD.CUSTOMERNUMBER = OD.ORDERNUMBER
@@ -40,6 +41,7 @@ AND ORD.ORDERDATE <to_date('2003-05-01','YYYY-MM-DD')
 ORDER BY ORD.ORDERNUMBER DESC;
 
 --6
+-- Błędy z kluczami obcymi u mnie @Kuba
 insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336336',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
 insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336336',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
 insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336336',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
