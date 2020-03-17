@@ -1,6 +1,4 @@
 /*Data for the table `productlines` */
-REM INSERTING into productlines
-SET DEFINE OFF;
 
 Insert  into productlines(productLine,textDescription,htmlDescription,image) values ('Classic Cars','Attention car enthusiasts: Make your wildest car ownership dreams come true. Whether you are looking for classic muscle cars, dream sports cars or movie-inspired miniatures, you will find great choices in this category. These replicas feature superb attention to detail and craftsmanship and offer features such as working steering system, opening forward compartment, opening rear trunk with removable spare wheel, 4-wheel independent spring suspension, and so on. The models range in size from 1:10 to 1:24 scale and include numerous limited edition and several out-of-production vehicles. All models include a certificate of authenticity from their manufacturers and come fully assembled and ready for display in the home or office.',null,null);
 Insert  into productlines(productLine,textDescription,htmlDescription,image) values ('Motorcycles','Our motorcycles are state of the art replicas of classic as well as contemporary motorcycle legends such as Harley Davidson, Ducati and Vespa. Models contain stunning details such as official logos, rotating wheels, working kickstand, front suspension, gear-shift lever, footbrake lever, and drive chain. Materials used include diecast and plastic. The models range in size from 1:10 to 1:50 scale and include numerous limited edition and several out-of-production vehicles. All models come fully assembled and ready for display in the home or office. Most include a certificate of authenticity.',null,null);
@@ -13,8 +11,6 @@ Insert  into productlines(productLine,textDescription,htmlDescription,image) val
 
 /*Data for the table `products` */
 
-REM INSERTING into products
-SET DEFINE OFF;
 
 Insert  into products(productCode,productName,productLine,productScale,productVendor,productDescription,quantityInStock,buyPrice,MSRP) values ('S10_1678','1969 Harley Davidson Ultimate Chopper','Motorcycles','1:10','Min Lin Diecast','This replica features working kickstand, front suspension, gear-shift lever, footbrake lever, drive chain, wheels and steering. All parts are particularly delicate due to their precise scale and require special care and attention.',7933,48.81,95.70);
 
@@ -238,9 +234,6 @@ Insert  into products(productCode,productName,productLine,productScale,productVe
 
 /*Data for the table `offices` */
 
-REM INSERTING into offices
-SET DEFINE OFF;
-
 insert  into offices(officeCode,city,phone,addressLine1,addressLine2,state,country,postalCode,territory) values ('1','San Francisco','+1 650 219 4782','100 Market Street','Suite 300','CA','USA','94080','NA');
 
 insert  into offices(officeCode,city,phone,addressLine1,addressLine2,state,country,postalCode,territory) values ('2','Boston','+1 215 837 0825','1550 Court Place','Suite 102','MA','USA','02107','NA');
@@ -257,8 +250,6 @@ insert  into offices(officeCode,city,phone,addressLine1,addressLine2,state,count
 
 
 /*Data for the table `employees` */
-REM INSERTING into employees
-SET DEFINE OFF;
 
 
 insert  into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (1002,'Murphy','Diane','x5800','dmurphy@classicmodelcars.com','1',NULL,'President');
@@ -309,8 +300,6 @@ insert  into employees(employeeNumber,lastName,firstName,extension,email,officeC
 
 
 /*Data for the table `customers` */
-REM INSERTING into customers
-SET DEFINE OFF;
 
 insert  into customers(customerNumber,customerName,contactLastName,contactFirstName,phone,addressLine1,addressLine2,city,state,postalCode,country,salesRepEmployeeNumber,creditLimit) values (103,'Atelier graphique','Schmitt','Carine ','40.32.2555','54, rue Royale',NULL,'Nantes',NULL,'44000','France',1370,21000.00);
 
@@ -560,8 +549,6 @@ insert  into customers(customerNumber,customerName,contactLastName,contactFirstN
 
 /*Data for the table `payments` */
 
-REM INSERTING into payments
-SET DEFINE OFF;
 
 insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQ336336',to_date('2004-10-19','YYYY-MM-DD'),6066.78);
 
@@ -1112,8 +1099,6 @@ insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (496
 
 /*Data for the table `orders` */
 
-REM INSERTING into orders
-SET DEFINE OFF;
 
 
 
@@ -1770,9 +1755,6 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,comments,customerNumber) values (10425,to_date('2005-05-31','YYYY-MM-DD'),to_date('2005-06-07','YYYY-MM-DD'),NULL,'In Process',NULL,119);
 
 /*Data for the table `orderdetails` */
-
-REM INSERTING into orderdetails
-SET DEFINE OFF;
 
 
 insert  into orderdetails(orderNumber,productCode,quantityOrdered,priceEach,orderLineNumber) values (10100,'S18_1749',30,136.00,3);
