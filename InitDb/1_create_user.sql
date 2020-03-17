@@ -1,0 +1,9 @@
+-- ZALOGUJ SIĘ JAKO SYSDBA I WYKONAJ TO
+
+CREATE USER c##test1 IDENTIFIED BY password1 CONTAINER=ALL; 
+
+GRANT CREATE SESSION TO c##test1 CONTAINER=ALL;
+
+GRANT ALL PRIVILEGES TO c##test1;
+
+-- OD TERAZ BĄDŹ ZALOGOWANY NA c##test1 i wykonuj wszystko na schemacie tego użytkownika

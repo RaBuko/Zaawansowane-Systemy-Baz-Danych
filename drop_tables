@@ -1,8 +1,0 @@
-DROP TABLE productlines;  
-DROP TABLE products;
-DROP TABLE offices;
-DROP TABLE employees;
-DROP TABLE customers;
-DROP TABLE payments;
-DROP TABLE orders;
-DROP TABLE orderdetails;
