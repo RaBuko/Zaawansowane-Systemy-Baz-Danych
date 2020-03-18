@@ -17,6 +17,7 @@ GROUP BY CUSTOMERS.CONTACTLASTNAME;
 
 --3
 -- Brak wyników u mnie @Kuba 
+-- Ma tak byc, tu sprawdzamy czy cos bylo dostarczone nie na czas, a wszytko bylo na czas
 SELECT PR.PRODUCTNAME FROM PRODUCTS PR 
 INNER JOIN ORDERDETAILS OD ON PR.PRODUCTCODE = OD.PRODUCTCODE
 INNER JOIN ORDERS ORD ON ORD.CUSTOMERNUMBER = OD.ORDERNUMBER
@@ -42,20 +43,21 @@ ORDER BY ORD.ORDERNUMBER DESC;
 
 --6
 -- Błędy z kluczami obcymi u mnie @Kuba
+-- Poprawilem
+insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336331',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
+insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336332',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
+insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336333',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
+insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336334',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
+insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336335',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
 insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336336',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
-insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336336',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
-insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336336',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
-insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336336',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
-insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336336',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
-insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336336',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
-insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336336',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
-insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336336',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
-insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336336',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
-insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336336',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
-insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336336',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
-insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336336',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
-insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336336',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
-
+insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336337',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
+insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336338',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
+insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336339',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
+insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR236331',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
+insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR236332',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
+insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR236333',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
+insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR236334',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
+insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR236335',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
 
 --7
 UPDATE ORDERS ORD
