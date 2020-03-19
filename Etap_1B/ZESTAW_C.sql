@@ -44,4 +44,11 @@ SELECT COUNT(*) FROM CUSTOMERS c WHERE SALESREPEMPLOYEENUMBER  = 1216;
 
 UPDATE CUSTOMERS SET SALESREPEMPLOYEENUMBER = 1076 WHERE SALESREPEMPLOYEENUMBER = 1216;
 
---8. Zmniejszenie limitu kredytowego o 10% dla klientów którzy w wybranym miesiącu zrobili zamówienie na kwotę mniej niż 1000
+--8. Zmniejszenie limitu kredytowego o 10% dla klientów którzy w wybranym miesiącu zrobili zamówienie na kwotę mniej niż 20 000
+-- Na razie tylko select z id klientów którym trzeba zmienić kredyt
+
+SELECT customernumber FROM (
+SELECT SUM(payment) AS payment, CUSTOMERNUMBER FROM (
+SELECT SUM(PRICEEACH * QUANTITYORDERED) AS payment, c.CUSTOMERNUMBER FROM CUSTOMERS c
+LEFT JOIN ORDERS o ON o.CUSTOMERNUMBER = c.CUSTOMERNUMBER
+LEFT JOIN ORDERDETAILS od ON o.ORDERNUMBER = od.ORDERNUMBER WHERE EXTRACT(MONTH FROM o.ORDERDATE) = 1 AND EXTRACT(YEAR FROM o.ORDERDATE) = 2005 GROUP BY c.CUSTOMERNUMBER, od.ORDERNUMBER, od.PRODUCTCODE) a GROUP BY Customernumber) WHERE payment < 20000;
