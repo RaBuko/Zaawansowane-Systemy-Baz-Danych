@@ -15,16 +15,8 @@ AND O.ORDERDATE <to_date('2003-05-01','YYYY-MM-DD')
 GROUP BY CUSTOMERS.CONTACTLASTNAME;
 
 
+
 --3
--- Brak wyników u mnie @Kuba 
--- Ma tak byc, tu sprawdzamy czy cos bylo dostarczone nie na czas, a wszytko bylo na czas
-SELECT PR.PRODUCTNAME FROM PRODUCTS PR 
-INNER JOIN ORDERDETAILS OD ON PR.PRODUCTCODE = OD.PRODUCTCODE
-INNER JOIN ORDERS ORD ON ORD.CUSTOMERNUMBER = OD.ORDERNUMBER
-WHERE ORD.SHIPPEDDATE > ORD.REQUIREDDATE;
-
-
---4
 SELECT ORD.ORDERNUMBER, OD.QUANTITYORDERED * (PD.BUYPRICE - PD.MSRP) AS PRICE FROM ORDERS ORD
 INNER JOIN ORDERDETAILS OD ON OD.ORDERNUMBER = ORD.ORDERNUMBER
 INNER JOIN PRODUCTS PD ON PD.PRODUCTCODE = OD.PRODUCTCODE
@@ -33,7 +25,7 @@ AND ORD.ORDERDATE <to_date('2003-05-01','YYYY-MM-DD')
 ORDER BY PRICE DESC; 
 
 
---5 PROBLEM
+--4 PROBLEM
 SELECT * FROM (SELECT (SUMACTS - PARAGON) AS ZADLUZENIE, CSTN  FROM (SELECT SUM(SUMA) AS SUMACTS, CSTN FROM (SELECT SUM(ORD.PRICEEACH*ORD.QUANTITYORDERED) AS SUMA , ORD.ORDERNUMBER AS ORDN, CST.CUSTOMERNUMBER AS CSTN  FROM ORDERDETAILS ORD
 INNER JOIN ORDERS ORS ON ORS.ORDERNUMBER = ORD.ORDERNUMBER
 INNER JOIN CUSTOMERS CST ON ORS.CUSTOMERNUMBER = CST.CUSTOMERNUMBER
@@ -47,9 +39,8 @@ INNER JOIN CUSTOMERS CUST ON PMN.CUSTOMERNUMBER = CUST.CUSTOMERNUMBER
 GROUP BY PMN.CUSTOMERNUMBER) ON PCSTN = CST.CUSTOMERNUMBER)
 WHERE ZADLUZENIE > 0;
 
---6
--- Błędy z kluczami obcymi u mnie @Kuba
--- Poprawilem
+
+--5
 insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336331',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
 insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336332',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
 insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR336333',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
@@ -64,6 +55,11 @@ insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103
 insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR236333',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
 insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR236334',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
 insert  into payments(customerNumber,checkNumber,paymentDate,amount) values (103,'HQR236335',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
+
+
+--6
+DELETE FROM PAYMENTS PMN
+WHERE PMN.PAYMENTDATE = to_date('2020-02-19','YYYY-MM-DD');
 
 --7
 UPDATE ORDERS ORD
