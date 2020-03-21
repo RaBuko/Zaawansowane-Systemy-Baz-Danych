@@ -1,5 +1,6 @@
 -- FLUSH 
-ALTER SYSTEM FLUSH shared_pool
+ALTER SYSTEM FLUSH buffer_cache;
+ALTER SYSTEM FLUSH shared_pool;
 
 --ZESTAW A
 
