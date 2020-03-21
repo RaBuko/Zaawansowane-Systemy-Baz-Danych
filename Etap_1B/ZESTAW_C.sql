@@ -56,3 +56,25 @@ SELECT SUM(payment) AS payment, CUSTOMERNUMBER FROM (
 SELECT SUM(PRICEEACH * QUANTITYORDERED) AS payment, c.CUSTOMERNUMBER FROM CUSTOMERS c
 LEFT JOIN ORDERS o ON o.CUSTOMERNUMBER = c.CUSTOMERNUMBER
 LEFT JOIN ORDERDETAILS od ON o.ORDERNUMBER = od.ORDERNUMBER WHERE EXTRACT(MONTH FROM o.ORDERDATE) = 1 AND EXTRACT(YEAR FROM o.ORDERDATE) = 2005 GROUP BY c.CUSTOMERNUMBER, od.ORDERNUMBER, od.PRODUCTCODE) a GROUP BY Customernumber) WHERE payment < 20000;
+
+-- 9 Dodanie 10 pracowników
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3000,'Williams','Stephen','x5000','Stephen.Williams@pwr.edu.pl','3',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3001,'Levine','Roy','x5000','Roy.Levine@pwr.edu.pl','7',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3002,'Wong','Crystal','x5000','Crystal.Wong@pwr.edu.pl','1',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3003,'Perry','Matthew','x5000','Matthew.Perry@pwr.edu.pl','1',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3004,'Abbott','Yolanda','x5000','Yolanda.Abbott@pwr.edu.pl','6',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3005,'Ramirez','Jason','x5000','Jason.Ramirez@pwr.edu.pl','2',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3006,'Perez','Alexa','x5000','Alexa.Perez@pwr.edu.pl','5',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3007,'Morgan','Steve','x5000','Steve.Morgan@pwr.edu.pl','2',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3008,'Velez','Melissa','x5000','Melissa.Velez@pwr.edu.pl','7',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3009,'Dodson','Michelle','x5000','Michelle.Dodson@pwr.edu.pl','2',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3010,'Schwartz','Jonathan','x5000','Jonathan.Schwartz@pwr.edu.pl','2',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3011,'Snyder','Whitney','x5000','Whitney.Snyder@pwr.edu.pl','2',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3012,'Johnson','Vanessa','x5000','Vanessa.Johnson@pwr.edu.pl','1',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3013,'Mitchell','Charles','x5000','Charles.Mitchell@pwr.edu.pl','4',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3014,'Smith','Gregory','x5000','Gregory.Smith@pwr.edu.pl','6',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3015,'Destiny','Mrs.','x5000','Mrs..Destiny@pwr.edu.pl','6',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3016,'Jones','William','x5000','William.Jones@pwr.edu.pl','1',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3017,'Collins','Amanda','x5000','Amanda.Collins@pwr.edu.pl','4',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3018,'Choi','Lori','x5000','Lori.Choi@pwr.edu.pl','7',1102,'`TEST`');
+insert into employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) values (3019,'Weaver','Cody','x5000','Cody.Weaver@pwr.edu.pl','5',1102,'`TEST`');
