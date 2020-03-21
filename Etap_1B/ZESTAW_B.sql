@@ -1,3 +1,7 @@
+-- FLUSH 
+ALTER SYSTEM FLUSH shared_pool
+
+
 --SELECT
 --Średnia wysokość płatności dla wybranego miasta i okresu czasu
 SELECT AVG(p.AMOUNT) 

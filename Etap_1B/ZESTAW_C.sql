@@ -1,3 +1,6 @@
+-- FLUSH 
+ALTER SYSTEM FLUSH shared_pool
+
 --SELECTY
 --1. Zarobek wygenerowany z zamówień przez wybranego pracownika
 

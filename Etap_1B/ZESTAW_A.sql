@@ -1,3 +1,6 @@
+-- FLUSH 
+ALTER SYSTEM FLUSH shared_pool
+
 --ZESTAW A
 
 --1 
