@@ -72,3 +72,11 @@ BEGIN
 	VALUES ('F00_0002', 'Orange', 'Food', '1:1', 'Biedronka', 'Orange', 5000, 3.99, 4.49);
 END;
 
+-- Usuniecie product line wraz z produktami
+BEGIN
+	DELETE FROM PRODUCTS
+	WHERE PRODUCTLINE = 'Food'
+	
+	DELETE FROM PRODUCTLINES p 
+	WHERE PRODUCTLINE = 'Food'
+END;
