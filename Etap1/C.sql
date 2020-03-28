@@ -108,6 +108,6 @@ delete from employees where employeenumber = 3019;
 VARIABLE  TIME_FOR_ZESTAW_C NUMBER;
 EXEC :TIME_FOR_ZESTAW_C := EXTRACT(SECOND FROM SYSTIMESTAMP)-:START_TIME_ZESTAW_C;
 
-spool results.txt append;
+spool etap1_results.txt append;
 PRINT TIME_FOR_ZESTAW_C;
 spool off;
