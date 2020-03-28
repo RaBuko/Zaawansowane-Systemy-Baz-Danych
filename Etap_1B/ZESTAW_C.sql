@@ -1,6 +1,11 @@
+
 -- FLUSH 
 ALTER SYSTEM FLUSH buffer_cache;
 ALTER SYSTEM FLUSH shared_pool;
+
+VARIABLE  START_TIME_ZESTAW_C NUMBER;
+EXEC :START_TIME_ZESTAW_C := EXTRACT(SECOND FROM SYSTIMESTAMP);
+-- START MIERZENIA CZASU
 
 --SELECTY
 --1. Zarobek wygenerowany z zamówień przez wybranego pracownika
@@ -99,3 +104,9 @@ delete from employees where employeenumber = 3016;
 delete from employees where employeenumber = 3017;
 delete from employees where employeenumber = 3018;
 delete from employees where employeenumber = 3019;
+
+
+VARIABLE  TIME_FOR_ZESTAW_C NUMBER;
+EXEC :TIME_FOR_ZESTAW_C := EXTRACT(SECOND FROM SYSTIMESTAMP)-:START_TIME_ZESTAW_C;
+
+PRINT TIME_FOR_ZESTAW_C;
