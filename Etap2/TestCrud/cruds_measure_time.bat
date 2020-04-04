@@ -1,4 +1,4 @@
-
-echo @Etap1\A.sql | sqlplus -s C##test1/password1
-echo @Etap1\B.sql | sqlplus -s C##test1/password1
-echo @Etap1\C.sql | sqlplus -s C##test1/password1
+echo @CRUD_1.sql | sqlplus -s C##test1/password1
+echo @CRUD_2.sql | sqlplus -s C##test1/password1
+echo @CRUD_3.sql | sqlplus -s C##test1/password1
+echo @CRUD_4.sql | sqlplus -s C##test1/password1
