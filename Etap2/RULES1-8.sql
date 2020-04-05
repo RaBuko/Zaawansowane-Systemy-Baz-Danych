@@ -15,17 +15,6 @@ BEGIN
 END;
 
 
---Test:
-SELECT STATUS, REQUIREDDATE FROM ORDERS o WHERE o.ORDERNUMBER = 10420;
-
-UPDATE ORDERS ORD
-SET ORD.STATUS = 'On Road'
-WHERE ORD.ORDERNUMBER = 10420;
-
-
-
-
-
 /*
 2
 Zwiększenie limitu kredytowego konkretnego klienta o 100 po dokonaniu płatności (insert).
@@ -43,13 +32,6 @@ BEGIN
 	SET CUST.CREDITLIMIT = CUST.CREDITLIMIT+100
 	WHERE CUST.CUSTOMERNUMBER = :NEW.CUSTOMERNUMBER;
 END;
-
---Test:
-SELECT CREDITLIMIT FROM CUSTOMERS c WHERE CUSTOMERNUMBER = 103;
-
-INSERT INTO payments(customerNumber,checkNumber,paymentDate,amount) 
-VALUES (103,'NEW236336',to_date('2020-02-19','YYYY-MM-DD'),6066.78);
-
 
 
 /*
@@ -78,22 +60,6 @@ BEGIN
     );
 END;
     
-    
---Test:
-SELECT  * 
-FROM (SELECT EMP.REPORTSTO, EMP.JOBTITLE, COUNT(EMP.EMPLOYEENUMBER) AS NUMER FROM EMPLOYEES EMP
-GROUP BY EMP.REPORTSTO, EMP.JOBTITLE)
-WHERE NUMER > 5 AND JOBTITLE NOT LIKE 'Sales Manager';
-
-INSERT INTO employees(employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle) 
-VALUES (17002,'Gerard','Martin','x2312','mgerard@classicmodelcars.com','4',2501,'Sales Rep');
-
-SELECT  * 
-FROM (SELECT EMP.REPORTSTO, EMP.JOBTITLE, COUNT(EMP.EMPLOYEENUMBER) AS NUMER FROM EMPLOYEES EMP
-GROUP BY EMP.REPORTSTO, EMP.JOBTITLE)
-WHERE NUMER > 5 AND JOBTITLE LIKE 'Sales Manager';
-
-
 /*
 4
 Aktualizacja danych o towarach w magazynie po dokonaniu zamówienia (update).
@@ -111,22 +77,6 @@ BEGIN
 	SET PRD.QUANTITYINSTOCK = PRD.QUANTITYINSTOCK - :NEW.QUANTITYORDERED
 	WHERE PRD.PRODUCTCODE = :NEW.PRODUCTCODE;
 END;
-
-INSERT INTO orderdetails(orderNumber,productCode,quantityOrdered,priceEach,orderLineNumber) 
-VALUES (10586,'S50_1392',1000,94.92,2);
-
-UPDATE PRODUCTS PRD
-SET PRD.QUANTITYINSTOCK = PRD.QUANTITYINSTOCK - 1000
-WHERE PRD.PRODUCTCODE = 'S50_1392';
-
-
-
--- TEST
-SELECT P.QUANTITYINSTOCK FROM PRODUCTS p WHERE P.PRODUCTCODE = 'S50_1392';
-
-INSERT INTO orderdetails(orderNumber,productCode,quantityOrdered,priceEach,orderLineNumber) 
-VALUES (10586,'S50_1392',1000,94.92,2);
-
 
 
 /*
@@ -182,11 +132,6 @@ BEGIN
     END IF;
 END;
 
-
-INSERT INTO orderdetails(orderNumber,productCode,quantityOrdered,priceEach,orderLineNumber) 
-VALUES (10586,'S50_1392',1017,94.92,2);
-
-
 /* 7
 Zapisywanie zmian na bazie przez użytkowników (Trigger)
 Opis: Zapisanie usunięcia lub dodania tabeli do bazy danych przez użytkownika bazy do tabeli z logami.
@@ -211,18 +156,6 @@ BEGIN
     INSERT INTO tables_log(object_name, object_type, action, action_date, who)
 VALUES(SYS.DICTIONARY_OBJ_NAME,SYS.DICTIONARY_OBJ_TYPE,SYS.sysevent,systimestamp,USER);
 END;
-
--- Test
-CREATE TABLE test(
-	action_id int GENERATED ALWAYS AS IDENTITY,
-	object_name VARCHAR2(30) NOT NULL,
-	object_type VARCHAR2(30) NOT NULL,
-	action VARCHAR2(30) NOT NULL,
-	action_date TIMESTAMP NOT NULL,
-	who VARCHAR2(30) NOT NULL
- );
-
-
 
 /* 8
 Zapisywanie historii logowania użytkownika (Trigger)
@@ -254,7 +187,3 @@ BEGIN
 	INSERT INTO users_log (user_name, activity, event_date)
 	VALUES (USER, 'LOGOFF', CURRENT_TIMESTAMP);
 END;
-
-
-
-
