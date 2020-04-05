@@ -1,0 +1,45 @@
+CREATE TABLE exp1_T1 (
+	LogID int GENERATED ALWAYS AS IDENTITY,
+	rule_name VARCHAR2(30),
+	event_time TIMESTAMP
+);
+
+CREATE TABLE exp1_T2 (
+	LogID int GENERATED ALWAYS AS IDENTITY,
+	rule_name VARCHAR2(30),
+	event_time TIMESTAMP
+);
+
+CREATE TABLE exp1_T3 (
+	LogID int GENERATED ALWAYS AS IDENTITY,
+	rule_name VARCHAR2(30),
+	event_time TIMESTAMP
+);
+
+-----------
+CREATE OR REPLACE TRIGGER exp1_r1
+AFTER INSERT ON exp1_T1
+BEGIN
+	INSERT INTO exp1_T2  (rule_name, event_time)
+	VALUES ('exp1_r1', CURRENT_TIMESTAMP);
+END;
+
+CREATE OR REPLACE TRIGGER exp1_r2
+AFTER INSERT ON exp1_T2
+BEGIN
+	INSERT INTO exp1_T3  (rule_name, event_time)
+	VALUES ('exp1_r2', CURRENT_TIMESTAMP); 
+END;
+
+CREATE OR REPLACE TRIGGER exp1_r3
+AFTER INSERT ON exp1_T3
+BEGIN
+	INSERT INTO exp1_T1  (rule_name, event_time)
+	VALUES ('exp1_r3', CURRENT_TIMESTAMP);
+END;
+
+
+
+--Test:
+INSERT INTO exp1_T1  (rule_name, event_time)
+VALUES ('exp1_r3', CURRENT_TIMESTAMP);
