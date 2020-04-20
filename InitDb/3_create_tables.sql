@@ -22,6 +22,7 @@ CREATE TABLE products (
   PRIMARY KEY (productCode)
  ,
   CONSTRAINT products_ibfk_1 FOREIGN KEY (productLine) REFERENCES productlines (productLine)
+  ON delete cascade
 ) ;
 
 CREATE INDEX productLine ON products (productLine);
@@ -54,8 +55,8 @@ CREATE TABLE employees (
   jobTitle varchar2(50) NOT NULL,
   PRIMARY KEY (employeeNumber)
  ,
-  CONSTRAINT employees_ibfk_1 FOREIGN KEY (reportsTo) REFERENCES employees (employeeNumber),
-  CONSTRAINT employees_ibfk_2 FOREIGN KEY (officeCode) REFERENCES offices (officeCode)
+  CONSTRAINT employees_ibfk_1 FOREIGN KEY (reportsTo) REFERENCES employees (employeeNumber) on delete cascade,
+  CONSTRAINT employees_ibfk_2 FOREIGN KEY (officeCode) REFERENCES offices (officeCode) on delete cascade
 ) ;
 
 CREATE INDEX reportsTo ON employees (reportsTo);
@@ -80,7 +81,7 @@ CREATE TABLE customers (
   creditLimit number(10,2) DEFAULT NULL,
   PRIMARY KEY (customerNumber)
  ,
-  CONSTRAINT customers_ibfk_1 FOREIGN KEY (salesRepEmployeeNumber) REFERENCES employees (employeeNumber)
+  CONSTRAINT customers_ibfk_1 FOREIGN KEY (salesRepEmployeeNumber) REFERENCES employees (employeeNumber) on delete cascade
 ) ;
 
 CREATE INDEX salesRepEmployeeNumber ON customers (salesRepEmployeeNumber);
@@ -93,7 +94,7 @@ CREATE TABLE payments (
   paymentDate date NOT NULL,
   amount number(10,2) NOT NULL,
   PRIMARY KEY (customerNumber,checkNumber),
-  CONSTRAINT payments_ibfk_1 FOREIGN KEY (customerNumber) REFERENCES customers (customerNumber)
+  CONSTRAINT payments_ibfk_1 FOREIGN KEY (customerNumber) REFERENCES customers (customerNumber) on delete cascade
 ) ;
 
 /*Table structure for table `orders` */
@@ -108,7 +109,7 @@ CREATE TABLE orders (
   customerNumber number(10) NOT NULL,
   PRIMARY KEY (orderNumber)
  ,
-  CONSTRAINT orders_ibfk_1 FOREIGN KEY (customerNumber) REFERENCES customers (customerNumber)
+  CONSTRAINT orders_ibfk_1 FOREIGN KEY (customerNumber) REFERENCES customers (customerNumber) on delete cascade
 ) ;
 
 CREATE INDEX customerNumber ON orders (customerNumber);
@@ -125,8 +126,8 @@ CREATE TABLE orderdetails (
   orderLineNumber number(5) NOT NULL,
   PRIMARY KEY (orderNumber,productCode)
  ,
-  CONSTRAINT orderdetails_ibfk_1 FOREIGN KEY (orderNumber) REFERENCES orders (orderNumber),
-  CONSTRAINT orderdetails_ibfk_2 FOREIGN KEY (productCode) REFERENCES products (productCode)
+  CONSTRAINT orderdetails_ibfk_1 FOREIGN KEY (orderNumber) REFERENCES orders (orderNumber) on delete cascade,
+  CONSTRAINT orderdetails_ibfk_2 FOREIGN KEY (productCode) REFERENCES products (productCode) on delete cascade
 ) ;
 
 CREATE INDEX productCode ON orderdetails (productCode);
