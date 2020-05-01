@@ -87,7 +87,7 @@ Insert INTO payments VALUES ('<?xml version="1.0" encoding="UTF-8"?>
             <payment>
                 <customerNumber>103</customerNumber>
                 <checkNumber>ny213802</checkNumber>
-                <paymentDate>2020-05-01</paymentDate>
+                <paymentDate>01.05.2020</paymentDate>
                 <amount>10672.0</amount>
             </payment>');          
         END IF;
