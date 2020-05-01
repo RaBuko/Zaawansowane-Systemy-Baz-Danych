@@ -98,6 +98,30 @@ END;
 
 --4
 
+DECLARE
+	parser xmlparser.parser;
+	xmldoc xmldom.domdocument;       
+	mydoc VARCHAR2(4000);    
+BEGIN
+    FOR rec IN (
+        SELECT CUSTOMERNUMBER 
+		FROM CUSTOMERS c 
+		JOIN EMPLOYEES e ON c.SALESREPEMPLOYEENUMBER = e.EMPLOYEENUMBER 
+		JOIN OFFICES o ON o.OFFICECODE = e.OFFICECODE 
+		WHERE O.DETAILS.EXTRACT('//office/country/text()').getStringVal() = 'Japan'
+    ) LOOP
+        mydoc := rec.customernumber;
+        parser := xmlparser.newparser;
+        xmldoc := xmlparser.getdocument(parser); 
+       
+       	DELETE FROM CUSTOMERS c 
+       	WHERE c.CUSTOMERNUMBER = rec.CUSTOMERNUMBER;
+       
+        xmldom.freedocument(xmldoc);
+        xmlparser.freeparser(parser);
+    END LOOP;
+END;
+
 
 --5 POCZATEK
 SELECT  XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/checkNumber/text()').getStringVal() AS NUMER_ZAMUWIENIA, 
