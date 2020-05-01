@@ -30,8 +30,8 @@ CREATE TABLE employees (
   reportsTo number(10) DEFAULT NULL,
   jobTitle varchar2(50) NOT NULL,
   PRIMARY KEY (employeeNumber),
-  CONSTRAINT employees_ibfk_1 FOREIGN KEY (reportsTo) REFERENCES employees (employeeNumber),
-  CONSTRAINT employees_ibfk_2 FOREIGN KEY (officeCode) REFERENCES offices (officeCode)
+  CONSTRAINT employees_ibfk_1 FOREIGN KEY (reportsTo) REFERENCES employees (employeeNumber) ON delete cascade,
+  CONSTRAINT employees_ibfk_2 FOREIGN KEY (officeCode) REFERENCES offices (officeCode) ON delete cascade
 );
 
 CREATE TABLE customers (
@@ -49,7 +49,7 @@ CREATE TABLE customers (
   salesRepEmployeeNumber number(11) DEFAULT NULL,
   creditLimit number(10,2) DEFAULT NULL,
   PRIMARY KEY (customerNumber),
-  CONSTRAINT customers_ibfk_1 FOREIGN KEY (salesRepEmployeeNumber) REFERENCES employees (employeeNumber)
+  CONSTRAINT customers_ibfk_1 FOREIGN KEY (salesRepEmployeeNumber) REFERENCES employees (employeeNumber) ON delete cascade
 );
 
 CREATE TABLE payments(payment clob);
@@ -73,7 +73,7 @@ CREATE TABLE products (
   buyPrice number(10,2) NOT NULL,
   MSRP number(10,2) NOT NULL,
   PRIMARY KEY (productCode),
-  CONSTRAINT products_ibfk_1 FOREIGN KEY (productLine) REFERENCES productlines (productLine)
+  CONSTRAINT products_ibfk_1 FOREIGN KEY (productLine) REFERENCES productlines (productLine) ON delete cascade
 );
 
 
@@ -87,7 +87,7 @@ CREATE TABLE orders (
   customerNumber number(10) NOT NULL,
   PRIMARY KEY (orderNumber),
   details XMLType,
-  CONSTRAINT orders_ibfk_1 FOREIGN KEY (customerNumber) REFERENCES customers (customerNumber)
+  CONSTRAINT orders_ibfk_1 FOREIGN KEY (customerNumber) REFERENCES customers (customerNumber) ON delete cascade
 );
 
 
