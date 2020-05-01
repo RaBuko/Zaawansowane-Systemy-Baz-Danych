@@ -1,7 +1,0 @@
-->offices
-->employees
-->customers
-->payments
-->productlines
-->products
-->orders
