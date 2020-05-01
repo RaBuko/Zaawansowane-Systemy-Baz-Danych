@@ -10,21 +10,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>0</id>	
 		<productCode>S18_2248</productCode>
 		<quantityOrdered>50</quantityOrdered>
-		<priceEach>55,09</priceEach>
+		<priceEach>55.09</priceEach>
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>0</id>	
 		<productCode>S18_4409</productCode>
 		<quantityOrdered>22</quantityOrdered>
-		<priceEach>75,46</priceEach>
+		<priceEach>75.46</priceEach>
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>0</id>	
 		<productCode>S24_3969</productCode>
 		<quantityOrdered>49</quantityOrdered>
-		<priceEach>35,29</priceEach>
+		<priceEach>35.29</priceEach>
 		<orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -33,28 +33,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>1</id>		
 		<productCode>S18_2325</productCode>
 		<quantityOrdered>25</quantityOrdered>
-		<priceEach>108,06</priceEach>
+		<priceEach>108.06</priceEach>
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>1</id>	
 		<productCode>S18_2795</productCode>
 		<quantityOrdered>26</quantityOrdered>
-		<priceEach>167,06</priceEach>
+		<priceEach>167.06</priceEach>
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>1</id>	
 		<productCode>S24_1937</productCode>
 		<quantityOrdered>45</quantityOrdered>
-		<priceEach>32,53</priceEach>
+		<priceEach>32.53</priceEach>
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>1</id>	
 		<productCode>S24_2022</productCode>
 		<quantityOrdered>46</quantityOrdered>
-		<priceEach>44,35</priceEach>
+		<priceEach>44.35</priceEach>
 		<orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -63,14 +63,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>2</id>
 		<productCode>S18_1342</productCode>
 		<quantityOrdered>39</quantityOrdered>
-		<priceEach>95,55</priceEach>
+		<priceEach>95.55</priceEach>
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>2</id>
 		<productCode>S18_1367</productCode>
 		<quantityOrdered>41</quantityOrdered>
-		<priceEach>43,13</priceEach>
+		<priceEach>43.13</priceEach>
 		<orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -79,112 +79,112 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>3</id>
 		<productCode>S10_1949</productCode>
 		<quantityOrdered>26</quantityOrdered>
-		<priceEach>214,3</priceEach>
+		<priceEach>214.3</priceEach>
 		<orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>3</id>
 		<productCode>S10_4962</productCode>
 		<quantityOrdered>42</quantityOrdered>
-		<priceEach>119,67</priceEach>
+		<priceEach>119.67</priceEach>
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>3</id>
 		<productCode>S12_1666</productCode>
 		<quantityOrdered>27</quantityOrdered>
-		<priceEach>121,64</priceEach>
+		<priceEach>121.64</priceEach>
 		<orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>3</id>
 		<productCode>S18_1097</productCode>
 		<quantityOrdered>35</quantityOrdered>
-		<priceEach>94,5</priceEach>
+		<priceEach>94.5</priceEach>
 		<orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>3</id>
 		<productCode>S18_2432</productCode>
 		<quantityOrdered>22</quantityOrdered>
-		<priceEach>58,34</priceEach>
+		<priceEach>58.34</priceEach>
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>3</id>
 		<productCode>S18_2949</productCode>
 		<quantityOrdered>27</quantityOrdered>
-		<priceEach>92,19</priceEach>
+		<priceEach>92.19</priceEach>
 		<orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>3</id>
 		<productCode>S18_2957</productCode>
 		<quantityOrdered>35</quantityOrdered>
-		<priceEach>61,84</priceEach>
+		<priceEach>61.84</priceEach>
 		<orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>3</id>
 		<productCode>S18_3136</productCode>
 		<quantityOrdered>25</quantityOrdered>
-		<priceEach>86,92</priceEach>
+		<priceEach>86.92</priceEach>
 		<orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>3</id>
 		<productCode>S18_3320</productCode>
 		<quantityOrdered>46</quantityOrdered>
-		<priceEach>86,31</priceEach>
+		<priceEach>86.31</priceEach>
 		<orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>3</id>
 		<productCode>S18_4600</productCode>
 		<quantityOrdered>36</quantityOrdered>
-		<priceEach>98,07</priceEach>
+		<priceEach>98.07</priceEach>
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>3</id>
 		<productCode>S18_4668</productCode>
 		<quantityOrdered>41</quantityOrdered>
-		<priceEach>40,75</priceEach>
+		<priceEach>40.75</priceEach>
 		<orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>3</id>
 		<productCode>S24_2300</productCode>
 		<quantityOrdered>36</quantityOrdered>
-		<priceEach>107,34</priceEach>
+		<priceEach>107.34</priceEach>
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>3</id>
 		<productCode>S24_4258</productCode>
 		<quantityOrdered>25</quantityOrdered>
-		<priceEach>88,62</priceEach>
+		<priceEach>88.62</priceEach>
 		<orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>3</id>
 		<productCode>S32_1268</productCode>
 		<quantityOrdered>31</quantityOrdered>
-		<priceEach>92,46</priceEach>
+		<priceEach>92.46</priceEach>
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>3</id>
 		<productCode>S32_3522</productCode>
 		<quantityOrdered>45</quantityOrdered>
-		<priceEach>63,35</priceEach>
+		<priceEach>63.35</priceEach>
 		<orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>3</id>
 		<productCode>S700_2824</productCode>
 		<quantityOrdered>42</quantityOrdered>
-		<priceEach>94,07</priceEach>
+		<priceEach>94.07</priceEach>
 		<orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -193,91 +193,91 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>4</id>
 		<productCode>S12_3148</productCode>
 		<quantityOrdered>34</quantityOrdered>
-		<priceEach>131,44</priceEach>
+		<priceEach>131.44</priceEach>
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>4</id>
 		<productCode>S12_4473</productCode>
 		<quantityOrdered>41</quantityOrdered>
-		<priceEach>111,39</priceEach>
+		<priceEach>111.39</priceEach>
 		<orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>4</id>
 		<productCode>S18_2238</productCode>
 		<quantityOrdered>24</quantityOrdered>
-		<priceEach>135,9</priceEach>
+		<priceEach>135.9</priceEach>
 		<orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>4</id>
 		<productCode>S18_2319</productCode>
 		<quantityOrdered>29</quantityOrdered>
-		<priceEach>122,73</priceEach>
+		<priceEach>122.73</priceEach>
 		<orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>4</id>
 		<productCode>S18_3232</productCode>
 		<quantityOrdered>23</quantityOrdered>
-		<priceEach>165,95</priceEach>
+		<priceEach>165.95</priceEach>
 		<orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>4</id>
 		<productCode>S18_4027</productCode>
 		<quantityOrdered>38</quantityOrdered>
-		<priceEach>119,2</priceEach>
+		<priceEach>119.2</priceEach>
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>4</id>
 		<productCode>S24_1444</productCode>
 		<quantityOrdered>35</quantityOrdered>
-		<priceEach>52,02</priceEach>
+		<priceEach>52.02</priceEach>
 		<orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>4</id>
 		<productCode>S24_2840</productCode>
 		<quantityOrdered>44</quantityOrdered>
-		<priceEach>30,41</priceEach>
+		<priceEach>30.41</priceEach>
 		<orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>4</id>
 		<productCode>S24_4048</productCode>
 		<quantityOrdered>26</quantityOrdered>
-		<priceEach>106,45</priceEach>
+		<priceEach>106.45</priceEach>
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>4</id>
 		<productCode>S32_2509</productCode>
 		<quantityOrdered>35</quantityOrdered>
-		<priceEach>51,95</priceEach>
+		<priceEach>51.95</priceEach>
 		<orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>4</id>
 		<productCode>S32_3207</productCode>
 		<quantityOrdered>49</quantityOrdered>
-		<priceEach>56,55</priceEach>
+		<priceEach>56.55</priceEach>
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>4</id>
 		<productCode>S50_1392</productCode>
 		<quantityOrdered>33</quantityOrdered>
-		<priceEach>114,59</priceEach>
+		<priceEach>114.59</priceEach>
 		<orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>4</id>
 		<productCode>S50_1514</productCode>
 		<quantityOrdered>32</quantityOrdered>
-		<priceEach>53,31</priceEach>
+		<priceEach>53.31</priceEach>
 		<orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -286,63 +286,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>5</id>
 		<productCode>S10_4757</productCode>
 		<quantityOrdered>50</quantityOrdered>
-		<priceEach>127,84</priceEach>
+		<priceEach>127.84</priceEach>
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>5</id>
 		<productCode>S12_1108</productCode>
 		<quantityOrdered>41</quantityOrdered>
-		<priceEach>205,72</priceEach>
+		<priceEach>205.72</priceEach>
 		<orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>5</id>
 		<productCode>S12_3891</productCode>
 		<quantityOrdered>29</quantityOrdered>
-		<priceEach>141,88</priceEach>
+		<priceEach>141.88</priceEach>
 		<orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>5</id>
 		<productCode>S18_3140</productCode>
 		<quantityOrdered>22</quantityOrdered>
-		<priceEach>136,59</priceEach>
+		<priceEach>136.59</priceEach>
 		<orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>5</id>
 		<productCode>S18_3259</productCode>
 		<quantityOrdered>38</quantityOrdered>
-		<priceEach>87,73</priceEach>
+		<priceEach>87.73</priceEach>
 		<orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>5</id>
 		<productCode>S18_4522</productCode>
 		<quantityOrdered>41</quantityOrdered>
-		<priceEach>75,48</priceEach>
+		<priceEach>75.48</priceEach>
 		<orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>5</id>
 		<productCode>S24_2011</productCode>
 		<quantityOrdered>43</quantityOrdered>
-		<priceEach>117,97</priceEach>
+		<priceEach>117.97</priceEach>
 		<orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>5</id>
 		<productCode>S24_3151</productCode>
 		<quantityOrdered>44</quantityOrdered>
-		<priceEach>73,46</priceEach>
+		<priceEach>73.46</priceEach>
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>5</id>
 		<productCode>S24_3816</productCode>
 		<quantityOrdered>50</quantityOrdered>
-		<priceEach>75,47</priceEach>
+		<priceEach>75.47</priceEach>
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
@@ -356,35 +356,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>5</id>
 		<productCode>S700_1938</productCode>
 		<quantityOrdered>29</quantityOrdered>
-		<priceEach>86,61</priceEach>
+		<priceEach>86.61</priceEach>
 		<orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>5</id>
 		<productCode>S700_2610</productCode>
 		<quantityOrdered>31</quantityOrdered>
-		<priceEach>60,72</priceEach>
+		<priceEach>60.72</priceEach>
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>5</id>
 		<productCode>S700_3505</productCode>
 		<quantityOrdered>39</quantityOrdered>
-		<priceEach>92,16</priceEach>
+		<priceEach>92.16</priceEach>
 		<orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>5</id>
 		<productCode>S700_3962</productCode>
 		<quantityOrdered>22</quantityOrdered>
-		<priceEach>99,31</priceEach>
+		<priceEach>99.31</priceEach>
 		<orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>5</id>
 		<productCode>S72_3212</productCode>
 		<quantityOrdered>25</quantityOrdered>
-		<priceEach>44,77</priceEach>
+		<priceEach>44.77</priceEach>
 		<orderLineNumber>8</orderLineNumber>
 	</element>
 </details>');
@@ -394,56 +394,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>6</id>
 		<productCode>S18_1662</productCode>
 		<quantityOrdered>36</quantityOrdered>
-		<priceEach>134,04</priceEach>
+		<priceEach>134.04</priceEach>
 		<orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>6</id>
 		<productCode>S18_2581</productCode>
 		<quantityOrdered>34</quantityOrdered>
-		<priceEach>81,1</priceEach>
+		<priceEach>81.1</priceEach>
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>6</id>
 		<productCode>S18_3029</productCode>
 		<quantityOrdered>41</quantityOrdered>
-		<priceEach>80,86</priceEach>
+		<priceEach>80.86</priceEach>
 		<orderLineNumber>18</orderLineNumber>
 	</element>
 	<element>
 		<id>6</id>
 		<productCode>S18_3856</productCode>
 		<quantityOrdered>41</quantityOrdered>
-		<priceEach>94,22</priceEach>
+		<priceEach>94.22</priceEach>
 		<orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>6</id>
 		<productCode>S24_1785</productCode>
 		<quantityOrdered>28</quantityOrdered>
-		<priceEach>107,23</priceEach>
+		<priceEach>107.23</priceEach>
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>6</id>
 		<productCode>S24_2841</productCode>
 		<quantityOrdered>49</quantityOrdered>
-		<priceEach>65,77</priceEach>
+		<priceEach>65.77</priceEach>
 		<orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>6</id>
 		<productCode>S24_3420</productCode>
 		<quantityOrdered>31</quantityOrdered>
-		<priceEach>55,89</priceEach>
+		<priceEach>55.89</priceEach>
 		<orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>6</id>
 		<productCode>S24_3949</productCode>
 		<quantityOrdered>50</quantityOrdered>
-		<priceEach>55,96</priceEach>
+		<priceEach>55.96</priceEach>
 		<orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
@@ -457,42 +457,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>6</id>
 		<productCode>S32_4289</productCode>
 		<quantityOrdered>33</quantityOrdered>
-		<priceEach>65,35</priceEach>
+		<priceEach>65.35</priceEach>
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>6</id>
 		<productCode>S50_1341</productCode>
 		<quantityOrdered>39</quantityOrdered>
-		<priceEach>35,78</priceEach>
+		<priceEach>35.78</priceEach>
 		<orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>6</id>
 		<productCode>S700_1691</productCode>
 		<quantityOrdered>31</quantityOrdered>
-		<priceEach>91,34</priceEach>
+		<priceEach>91.34</priceEach>
 		<orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>6</id>
 		<productCode>S700_2047</productCode>
 		<quantityOrdered>30</quantityOrdered>
-		<priceEach>85,09</priceEach>
+		<priceEach>85.09</priceEach>
 		<orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>6</id>
 		<productCode>S700_2466</productCode>
 		<quantityOrdered>34</quantityOrdered>
-		<priceEach>99,72</priceEach>
+		<priceEach>99.72</priceEach>
 		<orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>6</id>
 		<productCode>S700_2834</productCode>
 		<quantityOrdered>32</quantityOrdered>
-		<priceEach>113,9</priceEach>
+		<priceEach>113.9</priceEach>
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
@@ -506,14 +506,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>6</id>
 		<productCode>S700_4002</productCode>
 		<quantityOrdered>48</quantityOrdered>
-		<priceEach>70,33</priceEach>
+		<priceEach>70.33</priceEach>
 		<orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>6</id>
 		<productCode>S72_1253</productCode>
 		<quantityOrdered>48</quantityOrdered>
-		<priceEach>43,7</priceEach>
+		<priceEach>43.7</priceEach>
 		<orderLineNumber>15</orderLineNumber>
 	</element>
  </details>');
@@ -523,21 +523,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>7</id> 
 		<productCode>S10_1678</productCode>
 		<quantityOrdered>30</quantityOrdered>
-		<priceEach>81,35</priceEach>
+		<priceEach>81.35</priceEach>
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>7</id> 
 		<productCode>S10_2016</productCode>
 		<quantityOrdered>39</quantityOrdered>
-		<priceEach>105,86</priceEach>
+		<priceEach>105.86</priceEach>
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>7</id> 
 		<productCode>S10_4698</productCode>
 		<quantityOrdered>27</quantityOrdered>
-		<priceEach>172,36</priceEach>
+		<priceEach>172.36</priceEach>
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
@@ -551,28 +551,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>7</id> 
 		<productCode>S18_2625</productCode>
 		<quantityOrdered>29</quantityOrdered>
-		<priceEach>52,7</priceEach>
+		<priceEach>52.7</priceEach>
 		<orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>7</id> 
 		<productCode>S24_1578</productCode>
 		<quantityOrdered>25</quantityOrdered>
-		<priceEach>96,92</priceEach>
+		<priceEach>96.92</priceEach>
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>7</id> 
 		<productCode>S24_2000</productCode>
 		<quantityOrdered>38</quantityOrdered>
-		<priceEach>73,12</priceEach>
+		<priceEach>73.12</priceEach>
 		<orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>7</id> 
 		<productCode>S32_1374</productCode>
 		<quantityOrdered>20</quantityOrdered>
-		<priceEach>88,9</priceEach>
+		<priceEach>88.9</priceEach>
 		<orderLineNumber>8</orderLineNumber>
 	</element> </details>');
 
@@ -581,77 +581,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>8</id> 
 		<productCode>S12_1099</productCode>
 		<quantityOrdered>33</quantityOrdered>
-		<priceEach>165,38</priceEach>
+		<priceEach>165.38</priceEach>
 		<orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>8</id>
 		<productCode>S12_3380</productCode>
 		<quantityOrdered>45</quantityOrdered>
-		<priceEach>96,3</priceEach>
+		<priceEach>96.3</priceEach>
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>8</id>
 		<productCode>S12_3990</productCode>
 		<quantityOrdered>39</quantityOrdered>
-		<priceEach>75,81</priceEach>
+		<priceEach>75.81</priceEach>
 		<orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>8</id>
 		<productCode>S12_4675</productCode>
 		<quantityOrdered>36</quantityOrdered>
-		<priceEach>107,1</priceEach>
+		<priceEach>107.1</priceEach>
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>8</id>
 		<productCode>S18_1889</productCode>
 		<quantityOrdered>38</quantityOrdered>
-		<priceEach>67,76</priceEach>
+		<priceEach>67.76</priceEach>
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>8</id>
 		<productCode>S18_3278</productCode>
 		<quantityOrdered>26</quantityOrdered>
-		<priceEach>73,17</priceEach>
+		<priceEach>73.17</priceEach>
 		<orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>8</id>
 		<productCode>S18_3482</productCode>
 		<quantityOrdered>29</quantityOrdered>
-		<priceEach>132,29</priceEach>
+		<priceEach>132.29</priceEach>
 		<orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>8</id>
 		<productCode>S18_3782</productCode>
 		<quantityOrdered>43</quantityOrdered>
-		<priceEach>52,84</priceEach>
+		<priceEach>52.84</priceEach>
 		<orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>8</id>
 		<productCode>S18_4721</productCode>
 		<quantityOrdered>44</quantityOrdered>
-		<priceEach>139,87</priceEach>
+		<priceEach>139.87</priceEach>
 		<orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>8</id>
 		<productCode>S24_2360</productCode>
 		<quantityOrdered>35</quantityOrdered>
-		<priceEach>64,41</priceEach>
+		<priceEach>64.41</priceEach>
 		<orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>8</id>
 		<productCode>S24_3371</productCode>
 		<quantityOrdered>30</quantityOrdered>
-		<priceEach>60,01</priceEach>
+		<priceEach>60.01</priceEach>
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
@@ -665,28 +665,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>8</id>
 		<productCode>S24_4620</productCode>
 		<quantityOrdered>31</quantityOrdered>
-		<priceEach>67,1</priceEach>
+		<priceEach>67.1</priceEach>
 		<orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>8</id>
 		<productCode>S32_2206</productCode>
 		<quantityOrdered>27</quantityOrdered>
-		<priceEach>36,21</priceEach>
+		<priceEach>36.21</priceEach>
 		<orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>8</id>
 		<productCode>S32_4485</productCode>
 		<quantityOrdered>31</quantityOrdered>
-		<priceEach>87,76</priceEach>
+		<priceEach>87.76</priceEach>
 		<orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>8</id>
 		<productCode>S50_4713</productCode>
 		<quantityOrdered>34</quantityOrdered>
-		<priceEach>74,85</priceEach>
+		<priceEach>74.85</priceEach>
 		<orderLineNumber>14</orderLineNumber>
 	</element> </details>');
 
@@ -695,42 +695,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>9</id>
 		<productCode>S18_1129</productCode>
 		<quantityOrdered>26</quantityOrdered>
-		<priceEach>117,48</priceEach>
+		<priceEach>117.48</priceEach>
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>9</id>
 		<productCode>S18_1984</productCode>
 		<quantityOrdered>38</quantityOrdered>
-		<priceEach>137,98</priceEach>
+		<priceEach>137.98</priceEach>
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>9</id>
 		<productCode>S18_2870</productCode>
 		<quantityOrdered>26</quantityOrdered>
-		<priceEach>126,72</priceEach>
+		<priceEach>126.72</priceEach>
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>9</id>
 		<productCode>S18_3232</productCode>
 		<quantityOrdered>46</quantityOrdered>
-		<priceEach>160,87</priceEach>
+		<priceEach>160.87</priceEach>
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>9</id>
 		<productCode>S18_3685</productCode>
 		<quantityOrdered>47</quantityOrdered>
-		<priceEach>125,74</priceEach>
+		<priceEach>125.74</priceEach>
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>9</id>
 		<productCode>S24_2972</productCode>
 		<quantityOrdered>29</quantityOrdered>
-		<priceEach>32,1</priceEach>
+		<priceEach>32.1</priceEach>
 		<orderLineNumber>6</orderLineNumber>
 	</element>	</details>');
 
@@ -739,7 +739,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>10</id>
 		<productCode>S18_1589</productCode>
 		<quantityOrdered>37</quantityOrdered>
-		<priceEach>118,22</priceEach>
+		<priceEach>118.22</priceEach>
 		<orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
@@ -753,28 +753,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>10</id>
 		<productCode>S18_2248</productCode>
 		<quantityOrdered>32</quantityOrdered>
-		<priceEach>51,46</priceEach>
+		<priceEach>51.46</priceEach>
 		<orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>10</id>
 		<productCode>S18_2325</productCode>
 		<quantityOrdered>33</quantityOrdered>
-		<priceEach>115,69</priceEach>
+		<priceEach>115.69</priceEach>
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>10</id>
 		<productCode>S18_2795</productCode>
 		<quantityOrdered>31</quantityOrdered>
-		<priceEach>163,69</priceEach>
+		<priceEach>163.69</priceEach>
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>10</id>
 		<productCode>S18_4409</productCode>
 		<quantityOrdered>28</quantityOrdered>
-		<priceEach>81,91</priceEach>
+		<priceEach>81.91</priceEach>
 		<orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
@@ -788,63 +788,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>10</id>
 		<productCode>S24_1046</productCode>
 		<quantityOrdered>36</quantityOrdered>
-		<priceEach>72,02</priceEach>
+		<priceEach>72.02</priceEach>
 		<orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>10</id>
 		<productCode>S24_1628</productCode>
 		<quantityOrdered>29</quantityOrdered>
-		<priceEach>43,27</priceEach>
+		<priceEach>43.27</priceEach>
 		<orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>10</id>
 		<productCode>S24_1937</productCode>
 		<quantityOrdered>20</quantityOrdered>
-		<priceEach>28,88</priceEach>
+		<priceEach>28.88</priceEach>
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>10</id>
 		<productCode>S24_2022</productCode>
 		<quantityOrdered>39</quantityOrdered>
-		<priceEach>40,77</priceEach>
+		<priceEach>40.77</priceEach>
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>10</id>
 		<productCode>S24_2766</productCode>
 		<quantityOrdered>43</quantityOrdered>
-		<priceEach>82,69</priceEach>
+		<priceEach>82.69</priceEach>
 		<orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>10</id>
 		<productCode>S24_2887</productCode>
 		<quantityOrdered>46</quantityOrdered>
-		<priceEach>112,74</priceEach>
+		<priceEach>112.74</priceEach>
 		<orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>10</id>
 		<productCode>S24_3191</productCode>
 		<quantityOrdered>27</quantityOrdered>
-		<priceEach>80,47</priceEach>
+		<priceEach>80.47</priceEach>
 		<orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>10</id>
 		<productCode>S24_3432</productCode>
 		<quantityOrdered>37</quantityOrdered>
-		<priceEach>96,37</priceEach>
+		<priceEach>96.37</priceEach>
 		<orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>10</id>
 		<productCode>S24_3969</productCode>
 		<quantityOrdered>48</quantityOrdered>
-		<priceEach>35,29</priceEach>
+		<priceEach>35.29</priceEach>
 		<orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -853,42 +853,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>11</id>
 		<productCode>S18_1342</productCode>
 		<quantityOrdered>33</quantityOrdered>
-		<priceEach>87,33</priceEach>
+		<priceEach>87.33</priceEach>
 		<orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>11</id>
 		<productCode>S18_1367</productCode>
 		<quantityOrdered>48</quantityOrdered>
-		<priceEach>48,52</priceEach>
+		<priceEach>48.52</priceEach>
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>11</id>
 		<productCode>S18_2957</productCode>
 		<quantityOrdered>28</quantityOrdered>
-		<priceEach>53,09</priceEach>
+		<priceEach>53.09</priceEach>
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>11</id>
 		<productCode>S18_3136</productCode>
 		<quantityOrdered>43</quantityOrdered>
-		<priceEach>94,25</priceEach>
+		<priceEach>94.25</priceEach>
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>11</id>
 		<productCode>S18_3320</productCode>
 		<quantityOrdered>39</quantityOrdered>
-		<priceEach>91,27</priceEach>
+		<priceEach>91.27</priceEach>
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>11</id>
 		<productCode>S24_4258</productCode>
 		<quantityOrdered>26</quantityOrdered>
-		<priceEach>85,7</priceEach>
+		<priceEach>85.7</priceEach>
 		<orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -897,14 +897,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>12</id>
 		<productCode>S10_1949</productCode>
 		<quantityOrdered>29</quantityOrdered>
-		<priceEach>197,16</priceEach>
+		<priceEach>197.16</priceEach>
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>12</id>
 		<productCode>S18_2949</productCode>
 		<quantityOrdered>23</quantityOrdered> 
-		<priceEach>85,1</priceEach>  
+		<priceEach>85.1</priceEach>  
 		<orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -913,28 +913,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>13</id>
 		<productCode>S12_1666</productCode>
 		<quantityOrdered>21</quantityOrdered>
-		<priceEach>121,64</priceEach>
+		<priceEach>121.64</priceEach>
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>13</id>
 		<productCode>S18_1097</productCode>
 		<quantityOrdered>49</quantityOrdered>
-		<priceEach>101,5</priceEach>  
+		<priceEach>101.5</priceEach>  
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>13</id>
 		<productCode>S18_4668</productCode>    
 		<quantityOrdered>50</quantityOrdered> 
-		<priceEach>43,27</priceEach>          
+		<priceEach>43.27</priceEach>          
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>13</id>
 		<productCode>S32_3522</productCode>    
 		<quantityOrdered>23</quantityOrdered>  
-		<priceEach>58,82</priceEach>      
+		<priceEach>58.82</priceEach>      
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -943,70 +943,70 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>14</id>
 		<productCode>S10_4962</productCode>
 		<quantityOrdered>31</quantityOrdered>  
-		<priceEach>128,53</priceEach>          
+		<priceEach>128.53</priceEach>          
 		<orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>14</id>
 		<productCode>S18_2319</productCode>  
 		<quantityOrdered>39</quantityOrdered>  
-		<priceEach>106,78</priceEach>          
+		<priceEach>106.78</priceEach>          
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>14</id>
 		<productCode>S18_2432</productCode>    
 		<quantityOrdered>45</quantityOrdered>  
-		<priceEach>53,48</priceEach>           
+		<priceEach>53.48</priceEach>           
 		<orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>14</id>
 		<productCode>S18_3232</productCode>  
 		<quantityOrdered>48</quantityOrdered>    
-		<priceEach>169,34</priceEach>         
+		<priceEach>169.34</priceEach>         
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>14</id>
 		<productCode>S18_4600</productCode>  
 		<quantityOrdered>41</quantityOrdered> 
-		<priceEach>105,34</priceEach>         
+		<priceEach>105.34</priceEach>         
 		<orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>14</id>
 		<productCode>S24_2300</productCode>  
 		<quantityOrdered>21</quantityOrdered> 
-		<priceEach>102,23</priceEach>          
+		<priceEach>102.23</priceEach>          
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>14</id>
 		<productCode>S24_2840</productCode>  
 		<quantityOrdered>24</quantityOrdered> 
-		<priceEach>28,64</priceEach>         
+		<priceEach>28.64</priceEach>         
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>14</id>
 		<productCode>S32_1268</productCode>  
 		<quantityOrdered>32</quantityOrdered>     
-		<priceEach>88,61</priceEach>         
+		<priceEach>88.61</priceEach>         
 		<orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>14</id>
 		<productCode>S32_2509</productCode>  
 		<quantityOrdered>28</quantityOrdered> 
-		<priceEach>43,83</priceEach>       
+		<priceEach>43.83</priceEach>       
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>14</id>
 		<productCode>S700_2824</productCode>  
 		<quantityOrdered>42</quantityOrdered>  
-		<priceEach>82,94</priceEach>     
+		<priceEach>82.94</priceEach>     
 		<orderLineNumber>10</orderLineNumber>
 	</element> </details>');
 
@@ -1015,35 +1015,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>15</id>
 		<productCode>S12_4473</productCode>  
 		<quantityOrdered>46</quantityOrdered>
-		<priceEach>111,39</priceEach>     
+		<priceEach>111.39</priceEach>     
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>15</id>
 		<productCode>S18_2238</productCode>  
 		<quantityOrdered>46</quantityOrdered>   
-		<priceEach>140,81</priceEach>          
+		<priceEach>140.81</priceEach>          
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>15</id>
 		<productCode>S24_1444</productCode> 
 		<quantityOrdered>47</quantityOrdered>   
-		<priceEach>56,64</priceEach>         
+		<priceEach>56.64</priceEach>         
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>15</id>
 		<productCode>S24_4048</productCode>  
 		<quantityOrdered>44</quantityOrdered> 
-		<priceEach>106,45</priceEach>        
+		<priceEach>106.45</priceEach>        
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>15</id>
 		<productCode>S50_1392</productCode>   
 		<quantityOrdered>27</quantityOrdered>  
-		<priceEach>100,7</priceEach>         
+		<priceEach>100.7</priceEach>         
 		<orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -1052,7 +1052,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>16</id>
 		<productCode>S32_3207</productCode>
 		<quantityOrdered>27</quantityOrdered> 
-		<priceEach>60,28</priceEach>       
+		<priceEach>60.28</priceEach>       
 		<orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -1062,84 +1062,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>17</id> 
 		<productCode>S12_1108</productCode>  
 		<quantityOrdered>33</quantityOrdered>   
-		<priceEach>195,33</priceEach>          
+		<priceEach>195.33</priceEach>          
 		<orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>17</id> 
 		<productCode>S12_3148</productCode>     
 		<quantityOrdered>43</quantityOrdered>  
-		<priceEach>148,06</priceEach>         
+		<priceEach>148.06</priceEach>         
 		<orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>17</id> 
 		<productCode>S12_3891</productCode>  
 		<quantityOrdered>39</quantityOrdered>  
-		<priceEach>173,02</priceEach>           
+		<priceEach>173.02</priceEach>           
 		<orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>17</id> 
 		<productCode>S18_3140</productCode>     
 		<quantityOrdered>26</quantityOrdered>   
-		<priceEach>121,57</priceEach>         
+		<priceEach>121.57</priceEach>         
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>17</id> 
 		<productCode>S18_3259</productCode>   
 		<quantityOrdered>21</quantityOrdered>   
-		<priceEach>81,68</priceEach>         
+		<priceEach>81.68</priceEach>         
 		<orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>17</id> 
 		<productCode>S18_4027</productCode>   
 		<quantityOrdered>22</quantityOrdered> 
-		<priceEach>122,08</priceEach>         
+		<priceEach>122.08</priceEach>         
 		<orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>17</id> 
 		<productCode>S18_4522</productCode>     
 		<quantityOrdered>23</quantityOrdered>  
-		<priceEach>73,73</priceEach>          
+		<priceEach>73.73</priceEach>          
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>17</id> 
 		<productCode>S24_2011</productCode>   
 		<quantityOrdered>41</quantityOrdered> 
-		<priceEach>119,2</priceEach>        
+		<priceEach>119.2</priceEach>        
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>17</id> 
 		<productCode>S50_1514</productCode>  
 		<quantityOrdered>21</quantityOrdered> 
-		<priceEach>55,65</priceEach>         
+		<priceEach>55.65</priceEach>         
 		<orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>17</id> 
 		<productCode>S700_1938</productCode> 
 		<quantityOrdered>38</quantityOrdered>  
-		<priceEach>75,35</priceEach>         
+		<priceEach>75.35</priceEach>         
 		<orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>17</id> 
 		<productCode>S700_3962</productCode>   
 		<quantityOrdered>45</quantityOrdered>  
-		<priceEach>89,38</priceEach>         
+		<priceEach>89.38</priceEach>         
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>17</id> 
 		<productCode>S72_3212</productCode>  
 		<quantityOrdered>50</quantityOrdered> 
-		<priceEach>52,42</priceEach>        
+		<priceEach>52.42</priceEach>        
 		<orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -1148,7 +1148,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>18</id> 
 		<productCode>S700_3505</productCode> 
 		<quantityOrdered>36</quantityOrdered> 
-		<priceEach>86,15</priceEach>          
+		<priceEach>86.15</priceEach>          
 		<orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -1157,98 +1157,98 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>19</id>
 		<productCode>S10_4757</productCode>   
 		<quantityOrdered>46</quantityOrdered>   
-		<priceEach>112,88</priceEach>        
+		<priceEach>112.88</priceEach>        
 		<orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>19</id>
 		<productCode>S18_1662</productCode>    
 		<quantityOrdered>43</quantityOrdered>  
-		<priceEach>151,38</priceEach>           
+		<priceEach>151.38</priceEach>           
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>19</id>
 		<productCode>S18_3029</productCode>   
 		<quantityOrdered>21</quantityOrdered>  
-		<priceEach>74,84</priceEach>           
+		<priceEach>74.84</priceEach>           
 		<orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>19</id>
 		<productCode>S18_3856</productCode>   
 		<quantityOrdered>27</quantityOrdered> 
-		<priceEach>95,28</priceEach>         
+		<priceEach>95.28</priceEach>         
 		<orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>19</id>
 		<productCode>S24_2841</productCode>   
 		<quantityOrdered>41</quantityOrdered>   
-		<priceEach>64,4</priceEach>          
+		<priceEach>64.4</priceEach>          
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>19</id>
 		<productCode>S24_3151</productCode>  
 		<quantityOrdered>35</quantityOrdered>    
-		<priceEach>72,58</priceEach>        
+		<priceEach>72.58</priceEach>        
 		<orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>19</id>
 		<productCode>S24_3420</productCode>  
 		<quantityOrdered>20</quantityOrdered>   
-		<priceEach>63,12</priceEach>        
+		<priceEach>63.12</priceEach>        
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>19</id>
 		<productCode>S24_3816</productCode>  
 		<quantityOrdered>35</quantityOrdered>  
-		<priceEach>82,18</priceEach>        
+		<priceEach>82.18</priceEach>        
 		<orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>19</id>
 		<productCode>S24_3949</productCode>    
 		<quantityOrdered>28</quantityOrdered>   
-		<priceEach>62,1</priceEach>         
+		<priceEach>62.1</priceEach>         
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>19</id>
 		<productCode>S700_1138</productCode> 
 		<quantityOrdered>25</quantityOrdered>   
-		<priceEach>57,34</priceEach>        
+		<priceEach>57.34</priceEach>        
 		<orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>19</id>
 		<productCode>S700_2047</productCode> 
 		<quantityOrdered>29</quantityOrdered>  
-		<priceEach>74,23</priceEach>        
+		<priceEach>74.23</priceEach>        
 		<orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>19</id>
 		<productCode>S700_2610</productCode>  
 		<quantityOrdered>38</quantityOrdered> 
-		<priceEach>67,22</priceEach>          
+		<priceEach>67.22</priceEach>          
 		<orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>19</id>
 		<productCode>S700_4002</productCode>  
 		<quantityOrdered>26</quantityOrdered>
-		<priceEach>63,67</priceEach>       
+		<priceEach>63.67</priceEach>       
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>19</id>
 		<productCode>S72_1253</productCode> 
 		<quantityOrdered>28</quantityOrdered>  
-		<priceEach>40,22</priceEach>          
+		<priceEach>40.22</priceEach>          
 		<orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -1257,98 +1257,98 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>20</id>
 		<productCode>S10_2016</productCode>   
 		<quantityOrdered>29</quantityOrdered>   
-		<priceEach>118,94</priceEach>          
+		<priceEach>118.94</priceEach>          
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>20</id>
 		<productCode>S10_4698</productCode>      
         <quantityOrdered>46</quantityOrdered>   
-		<priceEach>158,8</priceEach>          
+		<priceEach>158.8</priceEach>          
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>20</id>
 		<productCode>S18_2581</productCode>  
 		<quantityOrdered>29</quantityOrdered> 
-		<priceEach>82,79</priceEach>         
+		<priceEach>82.79</priceEach>         
 		<orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>20</id>
 		<productCode>S18_2625</productCode>     
 		<quantityOrdered>46</quantityOrdered> 
-		<priceEach>57,54</priceEach>         
+		<priceEach>57.54</priceEach>         
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>20</id>
 		<productCode>S24_1578</productCode>    
 		<quantityOrdered>35</quantityOrdered> 
-		<priceEach>110,45</priceEach>         
+		<priceEach>110.45</priceEach>         
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>20</id>
 		<productCode>S24_1785</productCode>    
 		<quantityOrdered>39</quantityOrdered>  
-		<priceEach>93,01</priceEach>         
+		<priceEach>93.01</priceEach>         
 		<orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>20</id>
 		<productCode>S24_2000</productCode>    
 		<quantityOrdered>34</quantityOrdered>  
-		<priceEach>72,36</priceEach>         
+		<priceEach>72.36</priceEach>         
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>20</id>
 		<productCode>S24_4278</productCode>    
 		<quantityOrdered>29</quantityOrdered> 
-		<priceEach>71,73</priceEach>         
+		<priceEach>71.73</priceEach>         
 		<orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>20</id>
 		<productCode>S32_1374</productCode>   
 		<quantityOrdered>22</quantityOrdered>  
-		<priceEach>94,9</priceEach>           
+		<priceEach>94.9</priceEach>           
 		<orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>20</id>
 		<productCode>S32_4289</productCode>   
 		<quantityOrdered>29</quantityOrdered> 
-		<priceEach>68,79</priceEach>          
+		<priceEach>68.79</priceEach>          
 		<orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>20</id>
 		<productCode>S50_1341</productCode>   
 		<quantityOrdered>49</quantityOrdered>  
-		<priceEach>41,46</priceEach>         
+		<priceEach>41.46</priceEach>         
 		<orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>20</id>
 		<productCode>S700_1691</productCode>   
 		<quantityOrdered>47</quantityOrdered>  
-		<priceEach>91,34</priceEach>         
+		<priceEach>91.34</priceEach>         
 		<orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>20</id>
 		<productCode>S700_2466</productCode>  
 		<quantityOrdered>24</quantityOrdered>  
-		<priceEach>81,77</priceEach>           
+		<priceEach>81.77</priceEach>           
 		<orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>20</id>
 		<productCode>S700_2834</productCode>   
 		<quantityOrdered>24</quantityOrdered> 
-		<priceEach>106,79</priceEach>          
+		<priceEach>106.79</priceEach>          
 		<orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
@@ -1364,35 +1364,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>21</id>
 		<productCode>S10_1678</productCode> 
 		<quantityOrdered>34</quantityOrdered>   
-		<priceEach>86,13</priceEach>           
+		<priceEach>86.13</priceEach>           
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>21</id>
 		<productCode>S12_2823</productCode>  
 		<quantityOrdered>50</quantityOrdered> 
-		<priceEach>126,52</priceEach>         
+		<priceEach>126.52</priceEach>         
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>21</id>
 		<productCode>S24_2360</productCode>   
 		<quantityOrdered>32</quantityOrdered> 
-		<priceEach>58,18</priceEach>     
+		<priceEach>58.18</priceEach>     
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>21</id>
 		<productCode>S32_4485</productCode>   
 		<quantityOrdered>25</quantityOrdered>  
-		<priceEach>95,93</priceEach>         
+		<priceEach>95.93</priceEach>         
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>21</id>
 		<productCode>S50_4713</productCode>  
 		<quantityOrdered>44</quantityOrdered>  
-		<priceEach>72,41</priceEach>         
+		<priceEach>72.41</priceEach>         
 		<orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -1401,119 +1401,119 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>22</id>
 		<productCode>S12_1099</productCode> 
 		<quantityOrdered>42</quantityOrdered>     
-		<priceEach>155,66</priceEach>         
+		<priceEach>155.66</priceEach>         
 		<orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>22</id>
 		<productCode>S12_3380</productCode>    
 		<quantityOrdered>37</quantityOrdered> 
-		<priceEach>113,92</priceEach>         
+		<priceEach>113.92</priceEach>         
 		<orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>22</id>
 		<productCode>S12_3990</productCode>  
 		<quantityOrdered>32</quantityOrdered>
-		<priceEach>65,44</priceEach>         
+		<priceEach>65.44</priceEach>         
 		<orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>22</id>
 		<productCode>S12_4675</productCode>    
 		<quantityOrdered>20</quantityOrdered>  
-		<priceEach>104,8</priceEach>         
+		<priceEach>104.8</priceEach>         
 		<orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>22</id>
 		<productCode>S18_1129</productCode> 
 		<quantityOrdered>34</quantityOrdered>  
-		<priceEach>114,65</priceEach>       
+		<priceEach>114.65</priceEach>       
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>22</id>
 		<productCode>S18_1889</productCode>   
 		<quantityOrdered>43</quantityOrdered> 
-		<priceEach>62,37</priceEach>          
+		<priceEach>62.37</priceEach>          
 		<orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>22</id>
 		<productCode>S18_1984</productCode>  
 		<quantityOrdered>31</quantityOrdered>  
-		<priceEach>113,8</priceEach>       
+		<priceEach>113.8</priceEach>       
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>22</id>
 		<productCode>S18_3232</productCode>  
 		<quantityOrdered>25</quantityOrdered>
-		<priceEach>137,17</priceEach>       
+		<priceEach>137.17</priceEach>       
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>22</id>
 		<productCode>S18_3278</productCode>   
 		<quantityOrdered>21</quantityOrdered> 
-		<priceEach>69,15</priceEach>      
+		<priceEach>69.15</priceEach>      
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>22</id>
 		<productCode>S18_3482</productCode>  
 		<quantityOrdered>21</quantityOrdered>  
-		<priceEach>133,76</priceEach>        
+		<priceEach>133.76</priceEach>        
 		<orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>22</id>
 		<productCode>S18_3782</productCode>   
 		<quantityOrdered>35</quantityOrdered> 
-		<priceEach>59,06</priceEach>          
+		<priceEach>59.06</priceEach>          
 		<orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>22</id>
 		<productCode>S18_4721</productCode>  
 		<quantityOrdered>28</quantityOrdered>  
-		<priceEach>145,82</priceEach>       
+		<priceEach>145.82</priceEach>       
 		<orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>22</id>
 		<productCode>S24_2972</productCode>   
 		<quantityOrdered>39</quantityOrdered> 
-		<priceEach>34,74</priceEach>        
+		<priceEach>34.74</priceEach>        
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>22</id>
 		<productCode>S24_3371</productCode>   
 		<quantityOrdered>34</quantityOrdered>     
-		<priceEach>50,82</priceEach>           
+		<priceEach>50.82</priceEach>           
 		<orderLineNumber>9</orderLineNumber>
 	</element>	
 	<element>
 		<id>22</id>
 		<productCode>S24_3856</productCode>   
 		<quantityOrdered>43</quantityOrdered>  
-		<priceEach>136,22</priceEach>       
+		<priceEach>136.22</priceEach>       
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>22</id>
 		<productCode>S24_4620</productCode>  
 		<quantityOrdered>29</quantityOrdered> 
-		<priceEach>67,1</priceEach>          
+		<priceEach>67.1</priceEach>          
 		<orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>22</id>
 		<productCode>S32_2206</productCode>   
 		<quantityOrdered>31</quantityOrdered>  
-		<priceEach>33,79</priceEach>        
+		<priceEach>33.79</priceEach>        
 		<orderLineNumber>17</orderLineNumber>
 	</element> </details>');
 
@@ -1522,28 +1522,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>23</id>
 		<productCode>S18_1589</productCode>    
 		<quantityOrdered>26</quantityOrdered>   
-		<priceEach>120,71</priceEach>          
+		<priceEach>120.71</priceEach>          
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>23</id>
 		<productCode>S18_2870</productCode>    
 		<quantityOrdered>46</quantityOrdered> 
-		<priceEach>114,84</priceEach>       
+		<priceEach>114.84</priceEach>       
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>23</id>
 		<productCode>S18_3685</productCode>   
 		<quantityOrdered>34</quantityOrdered> 
-		<priceEach>117,26</priceEach>         
+		<priceEach>117.26</priceEach>         
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>23</id>
 		<productCode>S24_1628</productCode>  
 		<quantityOrdered>50</quantityOrdered>
-		<priceEach>43,27</priceEach>        
+		<priceEach>43.27</priceEach>        
 		<orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -1559,84 +1559,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>24</id>
 		<productCode>S18_2248</productCode>    
 		<quantityOrdered>42</quantityOrdered>  
-		<priceEach>58,12</priceEach>       
+		<priceEach>58.12</priceEach>       
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>24</id>
 		<productCode>S18_2325</productCode>
 		<quantityOrdered>42</quantityOrdered>   
-		<priceEach>111,87</priceEach>        
+		<priceEach>111.87</priceEach>        
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>24</id>
 		<productCode>S18_4409</productCode>   
 		<quantityOrdered>36</quantityOrdered> 
-		<priceEach>75,46</priceEach>          
+		<priceEach>75.46</priceEach>          
 		<orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>24</id>
 		<productCode>S18_4933</productCode>  
 		<quantityOrdered>23</quantityOrdered>  
-		<priceEach>66,28</priceEach>         
+		<priceEach>66.28</priceEach>         
 		<orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>24</id>
 		<productCode>S24_1046</productCode>  
 		<quantityOrdered>22</quantityOrdered> 
-		<priceEach>62,47</priceEach>         
+		<priceEach>62.47</priceEach>         
 		<orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>24</id>
 		<productCode>S24_1937</productCode>  
 		<quantityOrdered>45</quantityOrdered> 
-		<priceEach>30,53</priceEach>         
+		<priceEach>30.53</priceEach>         
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>24</id>
 		<productCode>S24_2022</productCode>  
 		<quantityOrdered>22</quantityOrdered> 
-		<priceEach>36,29</priceEach>         
+		<priceEach>36.29</priceEach>         
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>24</id>
 		<productCode>S24_2766</productCode> 
 		<quantityOrdered>32</quantityOrdered>   
-		<priceEach>74,51</priceEach>         
+		<priceEach>74.51</priceEach>         
 		<orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>24</id>
 		<productCode>S24_2887</productCode>   
 		<quantityOrdered>25</quantityOrdered>  
-		<priceEach>93,95</priceEach>        
+		<priceEach>93.95</priceEach>        
 		<orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>24</id>
 		<productCode>S24_3191</productCode>   
 		<quantityOrdered>49</quantityOrdered>  
-		<priceEach>76,19</priceEach>         
+		<priceEach>76.19</priceEach>         
 		<orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>24</id>
 		<productCode>S24_3432</productCode>  
 		<quantityOrdered>43</quantityOrdered>  
-		<priceEach>101,73</priceEach>     
+		<priceEach>101.73</priceEach>     
 		<orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>24</id>
 		<productCode>S24_3969</productCode> 
 		<quantityOrdered>46</quantityOrdered> 
-		<priceEach>36,11</priceEach>        
+		<priceEach>36.11</priceEach>        
 		<orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -1645,14 +1645,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>25</id>
 		<productCode>S18_1342</productCode> 
 		<quantityOrdered>32</quantityOrdered>  
-		<priceEach>89,38</priceEach>         
+		<priceEach>89.38</priceEach>         
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>25</id>
 		<productCode>S18_2795</productCode>   
 		<quantityOrdered>34</quantityOrdered> 
-		<priceEach>138,38</priceEach>         
+		<priceEach>138.38</priceEach>         
 		<orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -1661,119 +1661,119 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>26</id>
 		<productCode>S10_1949</productCode> 
 		<quantityOrdered>38</quantityOrdered>    
-		<priceEach>205,73</priceEach>          
+		<priceEach>205.73</priceEach>          
 		<orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>26</id>
 		<productCode>S10_4962</productCode>   
 		<quantityOrdered>22</quantityOrdered>  
-		<priceEach>122,62</priceEach>          
+		<priceEach>122.62</priceEach>          
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>26</id>
 		<productCode>S12_1666</productCode>   
 		<quantityOrdered>21</quantityOrdered> 
-		<priceEach>135,3</priceEach>         
+		<priceEach>135.3</priceEach>         
 		<orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>26</id>
 		<productCode>S18_1097</productCode>    
 		<quantityOrdered>38</quantityOrdered>  
-		<priceEach>116,67</priceEach>          
+		<priceEach>116.67</priceEach>          
 		<orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>26</id>
 		<productCode>S18_1367</productCode>   
 		<quantityOrdered>42</quantityOrdered>  
-		<priceEach>51,21</priceEach>           
+		<priceEach>51.21</priceEach>           
 		<orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>26</id>
 		<productCode>S18_2432</productCode>   
 		<quantityOrdered>43</quantityOrdered>  
-		<priceEach>51,05</priceEach>           
+		<priceEach>51.05</priceEach>           
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>26</id>
 		<productCode>S18_2949</productCode>   
 		<quantityOrdered>31</quantityOrdered> 
-		<priceEach>93,21</priceEach>          
+		<priceEach>93.21</priceEach>          
 		<orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>26</id>
 		<productCode>S18_2957</productCode>   
 		<quantityOrdered>46</quantityOrdered> 
-		<priceEach>61,84</priceEach>          
+		<priceEach>61.84</priceEach>          
 		<orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>26</id>
 		<productCode>S18_3136</productCode>  
 		<quantityOrdered>30</quantityOrdered> 
-		<priceEach>93,2</priceEach>         
+		<priceEach>93.2</priceEach>         
 		<orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>26</id>
 		<productCode>S18_3320</productCode>    
 		<quantityOrdered>38</quantityOrdered> 
-		<priceEach>94,25</priceEach>         
+		<priceEach>94.25</priceEach>         
 		<orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>26</id>
 		<productCode>S18_4600</productCode>  
 		<quantityOrdered>50</quantityOrdered>
-		<priceEach>102,92</priceEach>         
+		<priceEach>102.92</priceEach>         
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>26</id>
 		<productCode>S18_4668</productCode>   
 		<quantityOrdered>43</quantityOrdered>  
-		<priceEach>47,29</priceEach>          
+		<priceEach>47.29</priceEach>          
 		<orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>26</id>
 		<productCode>S24_2300</productCode>   
 		<quantityOrdered>27</quantityOrdered> 
-		<priceEach>122,68</priceEach>       
+		<priceEach>122.68</priceEach>       
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>26</id>
 		<productCode>S24_4258</productCode>  
 		<quantityOrdered>34</quantityOrdered> 
-		<priceEach>83,76</priceEach>          
+		<priceEach>83.76</priceEach>          
 		<orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>26</id>
 		<productCode>S32_1268</productCode>  
 		<quantityOrdered>43</quantityOrdered>  
-		<priceEach>82,83</priceEach>         
+		<priceEach>82.83</priceEach>         
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>26</id>
 		<productCode>S32_3522</productCode>  
 		<quantityOrdered>26</quantityOrdered>   
-		<priceEach>62,05</priceEach>         
+		<priceEach>62.05</priceEach>         
 		<orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>26</id>
 		<productCode>S700_2824</productCode>    
 		<quantityOrdered>45</quantityOrdered>  
-		<priceEach>97,1</priceEach>          
+		<priceEach>97.1</priceEach>          
 		<orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -1782,105 +1782,105 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>27</id>
 		<productCode>S12_1108</productCode>  
 		<quantityOrdered>46</quantityOrdered>    
-		<priceEach>193,25</priceEach>           
+		<priceEach>193.25</priceEach>           
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>27</id>
 		<productCode>S12_3148</productCode>   
 		<quantityOrdered>46</quantityOrdered> 
-		<priceEach>140,5</priceEach>          
+		<priceEach>140.5</priceEach>          
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>27</id>
 		<productCode>S12_3891</productCode>  
 		<quantityOrdered>42</quantityOrdered> 
-		<priceEach>169,56</priceEach>         
+		<priceEach>169.56</priceEach>         
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>27</id>
 		<productCode>S12_4473</productCode>   
 		<quantityOrdered>24</quantityOrdered>  
-		<priceEach>100,73</priceEach>          
+		<priceEach>100.73</priceEach>          
 		<orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>27</id>
 		<productCode>S18_2238</productCode>   
 		<quantityOrdered>45</quantityOrdered>  
-		<priceEach>140,81</priceEach>          
+		<priceEach>140.81</priceEach>          
 		<orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>27</id>
 		<productCode>S18_2319</productCode>   
 		<quantityOrdered>45</quantityOrdered> 
-		<priceEach>114,14</priceEach>         
+		<priceEach>114.14</priceEach>         
 		<orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>27</id>
 		<productCode>S18_3232</productCode>  
 		<quantityOrdered>22</quantityOrdered> 
-		<priceEach>149,02</priceEach>       
+		<priceEach>149.02</priceEach>       
 		<orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>27</id>
 		<productCode>S18_4027</productCode>    
 		<quantityOrdered>25</quantityOrdered> 
-		<priceEach>126,39</priceEach>         
+		<priceEach>126.39</priceEach>         
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>27</id>
 		<productCode>S24_1444</productCode>   
 		<quantityOrdered>20</quantityOrdered> 
-		<priceEach>50,86</priceEach>          
+		<priceEach>50.86</priceEach>          
 		<orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>27</id>
 		<productCode>S24_2840</productCode>   
 		<quantityOrdered>39</quantityOrdered>
-		<priceEach>34,3</priceEach>           
+		<priceEach>34.3</priceEach>           
 		<orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>27</id>
 		<productCode>S24_4048</productCode>  
 		<quantityOrdered>20</quantityOrdered>  
-		<priceEach>107,63</priceEach>         
+		<priceEach>107.63</priceEach>         
 		<orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>27</id>
 		<productCode>S32_2509</productCode>   
 		<quantityOrdered>45</quantityOrdered> 
-		<priceEach>46,53</priceEach>          
+		<priceEach>46.53</priceEach>          
 		<orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>27</id>
 		<productCode>S32_3207</productCode>  
 		<quantityOrdered>29</quantityOrdered> 
-		<priceEach>60,9</priceEach>         
+		<priceEach>60.9</priceEach>         
 		<orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>27</id>
 		<productCode>S50_1392</productCode>   
 		<quantityOrdered>46</quantityOrdered> 
-		<priceEach>111,12</priceEach>       
+		<priceEach>111.12</priceEach>       
 		<orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>27</id>
 		<productCode>S50_1514</productCode>    
 		<quantityOrdered>46</quantityOrdered> 
-		<priceEach>55,65</priceEach>        
+		<priceEach>55.65</priceEach>        
 		<orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -1889,28 +1889,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>28</id>
 		<productCode>S18_3140</productCode>  
 		<quantityOrdered>41</quantityOrdered> 
-		<priceEach>120,2</priceEach>       
+		<priceEach>120.2</priceEach>       
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>28</id>
 		<productCode>S18_3259</productCode>  
 		<quantityOrdered>41</quantityOrdered> 
-		<priceEach>80,67</priceEach>         
+		<priceEach>80.67</priceEach>         
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>28</id>
 		<productCode>S18_4522</productCode>    
 		<quantityOrdered>43</quantityOrdered>  
-		<priceEach>77,24</priceEach>          
+		<priceEach>77.24</priceEach>          
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>28</id>
 		<productCode>S700_1938</productCode>  
 		<quantityOrdered>32</quantityOrdered>  
-		<priceEach>72,75</priceEach>          
+		<priceEach>72.75</priceEach>          
 		<orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -1919,63 +1919,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>29</id>
 		<productCode>S10_4757</productCode>      
         <quantityOrdered>33</quantityOrdered>   
-		<priceEach>123,76</priceEach>         
+		<priceEach>123.76</priceEach>         
 		<orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>29</id>
 		<productCode>S24_2011</productCode>  
 		<quantityOrdered>45</quantityOrdered>  
-		<priceEach>113,06</priceEach>         
+		<priceEach>113.06</priceEach>         
 		<orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>29</id>
 		<productCode>S24_3151</productCode>      
         <quantityOrdered>41</quantityOrdered>    
-		<priceEach>81,43</priceEach>            
+		<priceEach>81.43</priceEach>            
 		<orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>29</id>
 		<productCode>S24_3816</productCode>     
 		<quantityOrdered>50</quantityOrdered> 
-		<priceEach>76,31</priceEach>         
+		<priceEach>76.31</priceEach>         
 		<orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>29</id>
 		<productCode>S700_1138</productCode>  
 		<quantityOrdered>31</quantityOrdered>  
-		<priceEach>58,67</priceEach>           
+		<priceEach>58.67</priceEach>           
 		<orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>29</id>
 		<productCode>S700_2610</productCode>   
 		<quantityOrdered>45</quantityOrdered> 
-		<priceEach>72,28</priceEach>        
+		<priceEach>72.28</priceEach>        
 		<orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>29</id>
 		<productCode>S700_3505</productCode> 
 		<quantityOrdered>42</quantityOrdered> 
-		<priceEach>90,15</priceEach>          
+		<priceEach>90.15</priceEach>          
 		<orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>29</id>
 		<productCode>S700_3962</productCode>  
 		<quantityOrdered>30</quantityOrdered>  
-		<priceEach>94,34</priceEach>          
+		<priceEach>94.34</priceEach>          
 		<orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>29</id>
 		<productCode>S72_3212</productCode>   
 		<quantityOrdered>32</quantityOrdered> 
-		<priceEach>44,23</priceEach>         
+		<priceEach>44.23</priceEach>         
 		<orderLineNumber>8</orderLineNumber>
 	</element> </details>');
 
@@ -1984,14 +1984,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>30</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>68,82</priceEach>
+        <priceEach>68.82</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>30</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>99,52</priceEach>
+        <priceEach>99.52</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -2000,56 +2000,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>31</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>141,92</priceEach>
+        <priceEach>141.92</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>31</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>60,97</priceEach>
+        <priceEach>60.97</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>31</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>52,6</priceEach>
+        <priceEach>52.6</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>31</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>54,59</priceEach>
+        <priceEach>54.59</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>31</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>76,94</priceEach>
+        <priceEach>76.94</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>31</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>86,76</priceEach>
+        <priceEach>86.76</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>31</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>63,67</priceEach>
+        <priceEach>63.67</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>31</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>40,22</priceEach>
+        <priceEach>40.22</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element> </details>');
 
@@ -2067,56 +2067,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>33</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>80,26</priceEach>
+        <priceEach>80.26</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>33</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>109,42</priceEach>
+        <priceEach>109.42</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>33</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>61,58</priceEach>
+        <priceEach>61.58</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>33</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>80,91</priceEach>
+        <priceEach>80.91</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>33</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>67,41</priceEach>
+        <priceEach>67.41</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>33</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>37,09</priceEach>
+        <priceEach>37.09</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>33</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>76,73</priceEach>
+        <priceEach>76.73</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>33</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>115,09</priceEach>
+        <priceEach>115.09</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -2125,49 +2125,49 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>34</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>90,92</priceEach>
+        <priceEach>90.92</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>34</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>116,56</priceEach>
+        <priceEach>116.56</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>34</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>187,85</priceEach>
+        <priceEach>187.85</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>34</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>131,04</priceEach>
+        <priceEach>131.04</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>34</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>51,48</priceEach>
+        <priceEach>51.48</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>34</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>94,67</priceEach>
+        <priceEach>94.67</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>34</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>75,41</priceEach>
+        <priceEach>75.41</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element> </details>');
 
@@ -2176,119 +2176,119 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>35</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>173,17</priceEach>
+        <priceEach>173.17</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>35</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>110,39</priceEach>
+        <priceEach>110.39</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>35</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>72,62</priceEach>
+        <priceEach>72.62</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>35</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>103,64</priceEach>
+        <priceEach>103.64</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>35</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>66,99</priceEach>
+        <priceEach>66.99</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>35</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>65,94</priceEach>
+        <priceEach>65.94</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>35</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>139,64</priceEach>
+        <priceEach>139.64</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>35</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>49,74</priceEach>
+        <priceEach>49.74</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>35</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>133,92</priceEach>
+        <priceEach>133.92</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>35</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>67,18</priceEach>
+        <priceEach>67.18</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>35</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>34,36</priceEach>
+        <priceEach>34.36</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>35</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>52,05</priceEach>
+        <priceEach>52.05</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>35</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>139,03</priceEach>
+        <priceEach>139.03</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>35</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>76,8</priceEach>
+        <priceEach>76.8</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>35</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>38,62</priceEach>
+        <priceEach>38.62</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>35</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>91,85</priceEach>
+        <priceEach>91.85</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>35</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>78,92</priceEach>
+        <priceEach>78.92</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element> </details>');
 
@@ -2297,21 +2297,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>36</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>117,48</priceEach>
+        <priceEach>117.48</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>36</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>120,91</priceEach>
+        <priceEach>120.91</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>36</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>169,34</priceEach>
+        <priceEach>169.34</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -2320,28 +2320,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>37</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>115,73</priceEach>
+        <priceEach>115.73</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>37</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>110,88</priceEach>
+        <priceEach>110.88</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>37</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>118,68</priceEach>
+        <priceEach>118.68</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>37</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>40,25</priceEach>
+        <priceEach>40.25</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -2350,91 +2350,91 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>38</id>
 		<productCode>S18_1749</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>149,6</priceEach>
+        <priceEach>149.6</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>38</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>51,46</priceEach>
+        <priceEach>51.46</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>38</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>114,42</priceEach>
+        <priceEach>114.42</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>38</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>79,15</priceEach>
+        <priceEach>79.15</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>38</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>64,86</priceEach>
+        <priceEach>64.86</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>38</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>59,53</priceEach>
+        <priceEach>59.53</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>38</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>33,19</priceEach>
+        <priceEach>33.19</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>38</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>38,53</priceEach>
+        <priceEach>38.53</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>38</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>73,6</priceEach>
+        <priceEach>73.6</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>38</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>96,3</priceEach>
+        <priceEach>96.3</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>38</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>77,05</priceEach>
+        <priceEach>77.05</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>38</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>99,58</priceEach>
+        <priceEach>99.58</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>38</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>32,82</priceEach>
+        <priceEach>32.82</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -2443,56 +2443,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>39</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>89,38</priceEach>
+        <priceEach>89.38</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>39</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>52,83</priceEach>
+        <priceEach>52.83</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>39</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>151,88</priceEach>
+        <priceEach>151.88</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>39</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>91,18</priceEach>
+        <priceEach>91.18</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>39</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>52,47</priceEach>
+        <priceEach>52.47</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>39</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>101,58</priceEach>
+        <priceEach>101.58</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>39</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>81,35</priceEach>
+        <priceEach>81.35</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>39</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>93,49</priceEach>
+        <priceEach>93.49</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -2501,77 +2501,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>40</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>186,44</priceEach>
+        <priceEach>186.44</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>40</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>131,49</priceEach>
+        <priceEach>131.49</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>40</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>118,9</priceEach>
+        <priceEach>118.9</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>40</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>95,67</priceEach>
+        <priceEach>95.67</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>40</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>51,05</priceEach>
+        <priceEach>51.05</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>40</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>100,5</priceEach>
+        <priceEach>100.5</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>40</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>40,25</priceEach>
+        <priceEach>40.25</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>40</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>118,84</priceEach>
+        <priceEach>118.84</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>40</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>87,64</priceEach>
+        <priceEach>87.64</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>40</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>62,05</priceEach>
+        <priceEach>62.05</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>40</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>101,15</priceEach>
+        <priceEach>101.15</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -2580,63 +2580,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>41</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>114,95</priceEach>
+        <priceEach>114.95</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>41</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>160,46</priceEach>
+        <priceEach>160.46</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>41</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>103,09</priceEach>
+        <priceEach>103.09</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>41</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>143,94</priceEach>
+        <priceEach>143.94</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>41</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>50,86</priceEach>
+        <priceEach>50.86</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>41</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>32,18</priceEach>
+        <priceEach>32.18</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>41</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>104,09</priceEach>
+        <priceEach>104.09</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>41</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>53,03</priceEach>
+        <priceEach>53.03</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>41</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>94,92</priceEach>
+        <priceEach>94.92</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -2645,112 +2645,112 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>42</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>166,24</priceEach>
+        <priceEach>166.24</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>42</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>140,5</priceEach>
+        <priceEach>140.5</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>42</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>167,83</priceEach>
+        <priceEach>167.83</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>42</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>129,76</priceEach>
+        <priceEach>129.76</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>42</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>95,8</priceEach>
+        <priceEach>95.8</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>42</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>122,08</priceEach>
+        <priceEach>122.08</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>42</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>79,87</priceEach>
+        <priceEach>79.87</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>42</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>114,29</priceEach>
+        <priceEach>114.29</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>42</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>74,35</priceEach>
+        <priceEach>74.35</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>42</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>60,9</priceEach>
+        <priceEach>60.9</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>42</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>56,24</priceEach>
+        <priceEach>56.24</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>42</id>
 		<productCode>S700_1138</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>55,34</priceEach>
+        <priceEach>55.34</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>42</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>77,08</priceEach>
+        <priceEach>77.08</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>42</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>92,16</priceEach>
+        <priceEach>92.16</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>42</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>91,37</priceEach>
+        <priceEach>91.37</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>42</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>46,96</priceEach>
+        <priceEach>46.96</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -2759,112 +2759,112 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>43</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>133,28</priceEach>
+        <priceEach>133.28</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>43</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>126,15</priceEach>
+        <priceEach>126.15</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>43</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>70,54</priceEach>
+        <priceEach>70.54</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>43</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>99,52</priceEach>
+        <priceEach>99.52</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>43</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>63,71</priceEach>
+        <priceEach>63.71</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>43</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>59,83</priceEach>
+        <priceEach>59.83</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>43</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>74,64</priceEach>
+        <priceEach>74.64</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>43</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>55,96</priceEach>
+        <priceEach>55.96</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>43</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>34,91</priceEach>
+        <priceEach>34.91</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>43</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>86,77</priceEach>
+        <priceEach>86.77</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>43</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>87,8</priceEach>
+        <priceEach>87.8</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>43</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>79,78</priceEach>
+        <priceEach>79.78</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>43</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>69,39</priceEach>
+        <priceEach>69.39</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>43</id>
 		<productCode>S700_3167</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>70,4</priceEach>
+        <priceEach>70.4</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>43</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>65,15</priceEach>
+        <priceEach>65.15</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>43</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>49,66</priceEach>
+        <priceEach>49.66</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element> </details>');
 
@@ -2873,7 +2873,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>44</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>56,41</priceEach>
+        <priceEach>56.41</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -2882,112 +2882,112 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>45</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>76,56</priceEach>
+        <priceEach>76.56</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>45</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>104,67</priceEach>
+        <priceEach>104.67</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>45</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>154,93</priceEach>
+        <priceEach>154.93</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>45</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>146,1</priceEach>
+        <priceEach>146.1</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>45</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>71,81</priceEach>
+        <priceEach>71.81</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>45</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>52,7</priceEach>
+        <priceEach>52.7</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>45</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>103,68</priceEach>
+        <priceEach>103.68</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>45</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>87,54</priceEach>
+        <priceEach>87.54</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>45</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>63,98</priceEach>
+        <priceEach>63.98</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>45</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>56,1</priceEach>
+        <priceEach>56.1</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>45</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>71,73</priceEach>
+        <priceEach>71.73</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>45</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>99,89</priceEach>
+        <priceEach>99.89</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>45</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>39,43</priceEach>
+        <priceEach>39.43</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>45</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>95,93</priceEach>
+        <priceEach>95.93</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>45</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>73,22</priceEach>
+        <priceEach>73.22</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>45</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>113,9</priceEach>
+        <priceEach>113.9</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element> </details>');
 
@@ -2996,14 +2996,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>46</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>60,3</priceEach>
+        <priceEach>60.3</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>46</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>130,94</priceEach>
+        <priceEach>130.94</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -3012,77 +3012,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>47</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>161,49</priceEach>
+        <priceEach>161.49</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>47</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>110,39</priceEach>
+        <priceEach>110.39</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>47</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>74,21</priceEach>
+        <priceEach>74.21</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>47</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>97,89</priceEach>
+        <priceEach>97.89</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>47</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>70,84</priceEach>
+        <priceEach>70.84</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>47</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>74,78</priceEach>
+        <priceEach>74.78</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>47</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>129,35</priceEach>
+        <priceEach>129.35</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>47</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>33,23</priceEach>
+        <priceEach>33.23</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>47</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>48,98</priceEach>
+        <priceEach>48.98</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>47</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>123,58</priceEach>
+        <priceEach>123.58</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>47</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>72,76</priceEach>
+        <priceEach>72.76</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element> </details>');
 
@@ -3091,98 +3091,98 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>48</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>114,65</priceEach>
+        <priceEach>114.65</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>48</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>108,26</priceEach>
+        <priceEach>108.26</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>48</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>136,56</priceEach>
+        <priceEach>136.56</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>48</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>113,52</priceEach>
+        <priceEach>113.52</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>48</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>143,94</priceEach>
+        <priceEach>143.94</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>48</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>135,63</priceEach>
+        <priceEach>135.63</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>48</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>83,75</priceEach>
+        <priceEach>83.75</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>48</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>66,28</priceEach>
+        <priceEach>66.28</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>48</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>65,41</priceEach>
+        <priceEach>65.41</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>48</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>46,29</priceEach>
+        <priceEach>46.29</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>48</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>77,24</priceEach>
+        <priceEach>77.24</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>48</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>115,09</priceEach>
+        <priceEach>115.09</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>48</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>71,91</priceEach>
+        <priceEach>71.91</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>48</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>96,37</priceEach>
+        <priceEach>96.37</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element> </details>');
 
@@ -3191,77 +3191,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>49</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>87,33</priceEach>
+        <priceEach>87.33</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>49</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>48,52</priceEach>
+        <priceEach>48.52</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>49</id>
 		<productCode>S18_1749</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>156,4</priceEach>
+        <priceEach>156.4</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>49</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>50,85</priceEach>
+        <priceEach>50.85</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>49</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>125,86</priceEach>
+        <priceEach>125.86</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>49</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>167,06</priceEach>
+        <priceEach>167.06</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>49</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>89,29</priceEach>
+        <priceEach>89.29</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>49</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>31,2</priceEach>
+        <priceEach>31.2</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>49</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>39,87</priceEach>
+        <priceEach>39.87</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>49</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>38,57</priceEach>
+        <priceEach>38.57</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>49</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>90,57</priceEach>
+        <priceEach>90.57</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -3270,77 +3270,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>50</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>182,16</priceEach>
+        <priceEach>182.16</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>50</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>121,15</priceEach>
+        <priceEach>121.15</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>50</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>135,3</priceEach>
+        <priceEach>135.3</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>50</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>95,67</priceEach>
+        <priceEach>95.67</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>50</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>93,21</priceEach>
+        <priceEach>93.21</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>50</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>56,21</priceEach>
+        <priceEach>56.21</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>50</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>97,39</priceEach>
+        <priceEach>97.39</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>50</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>111,39</priceEach>
+        <priceEach>111.39</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>50</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>47,29</priceEach>
+        <priceEach>47.29</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>50</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>62,05</priceEach>
+        <priceEach>62.05</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>50</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>95,08</priceEach>
+        <priceEach>95.08</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -3349,70 +3349,70 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>51</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>114,95</priceEach>
+        <priceEach>114.95</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>51</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>152,27</priceEach>
+        <priceEach>152.27</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>51</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>106,78</priceEach>
+        <priceEach>106.78</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>51</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>58,34</priceEach>
+        <priceEach>58.34</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>51</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>167,65</priceEach>
+        <priceEach>167.65</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>51</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>109,9</priceEach>
+        <priceEach>109.9</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>51</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>29,35</priceEach>
+        <priceEach>29.35</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>51</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>84,75</priceEach>
+        <priceEach>84.75</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>51</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>43,29</priceEach>
+        <priceEach>43.29</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>51</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>108,81</priceEach>
+        <priceEach>108.81</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -3421,28 +3421,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>52</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>117,77</priceEach>
+        <priceEach>117.77</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>52</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>49,13</priceEach>
+        <priceEach>49.13</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>52</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>112,37</priceEach>
+        <priceEach>112.37</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>52</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>57,17</priceEach>
+        <priceEach>57.17</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -3451,56 +3451,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>53</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>201,57</priceEach>
+        <priceEach>201.57</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>53</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>128,42</priceEach>
+        <priceEach>128.42</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>53</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>155,72</priceEach>
+        <priceEach>155.72</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>53</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>125,66</priceEach>
+        <priceEach>125.66</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>53</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>82,69</priceEach>
+        <priceEach>82.69</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>53</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>82,5</priceEach>
+        <priceEach>82.5</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>53</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>111,83</priceEach>
+        <priceEach>111.83</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>53</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>53,31</priceEach>
+        <priceEach>53.31</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
@@ -3514,28 +3514,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>53</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>80,55</priceEach>
+        <priceEach>80.55</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>53</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>87,15</priceEach>
+        <priceEach>87.15</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>53</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>85,41</priceEach>
+        <priceEach>85.41</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>53</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>51,87</priceEach>
+        <priceEach>51.87</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -3544,14 +3544,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>54</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>75,23</priceEach>
+        <priceEach>75.23</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>54</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>59,27</priceEach>
+        <priceEach>59.27</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -3560,91 +3560,91 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>55</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>129,2</priceEach>
+        <priceEach>129.2</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
     <element>
 		<id>55</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>138,77</priceEach>
+        <priceEach>138.77</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>55</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>83,44</priceEach>
+        <priceEach>83.44</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>55</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>105,87</priceEach>
+        <priceEach>105.87</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>55</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>62,34</priceEach>
+        <priceEach>62.34</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>55</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>56,55</priceEach>
+        <priceEach>56.55</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>55</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>76,31</priceEach>
+        <priceEach>76.31</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>55</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>58,69</priceEach>
+        <priceEach>58.69</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>55</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>89,61</priceEach>
+        <priceEach>89.61</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>55</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>87,75</priceEach>
+        <priceEach>87.75</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>55</id>
 		<productCode>S700_3167</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>76,8</priceEach>
+        <priceEach>76.8</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>55</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>70,33</priceEach>
+        <priceEach>70.33</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>55</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>49,16</priceEach>
+        <priceEach>49.16</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>	</details>');
 
@@ -3653,14 +3653,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>56</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>43,64</priceEach>
+        <priceEach>43.64</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>56</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>77,64</priceEach>
+        <priceEach>77.64</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -3669,42 +3669,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>57</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>69,27</priceEach>
+        <priceEach>69.27</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>57</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>89,72</priceEach>
+        <priceEach>89.72</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>57</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>66,65</priceEach>
+        <priceEach>66.65</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>57</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>83,91</priceEach>
+        <priceEach>83.91</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>57</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>56,41</priceEach>
+        <priceEach>56.41</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>57</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>109,16</priceEach>
+        <priceEach>109.16</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -3713,7 +3713,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>58</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>67,79</priceEach>
+        <priceEach>67.79</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -3722,126 +3722,126 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>59</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>81,35</priceEach>
+        <priceEach>81.35</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>59</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>101,1</priceEach>
+        <priceEach>101.1</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>59</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>170,42</priceEach>
+        <priceEach>170.42</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>59</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>188,73</priceEach>
+        <priceEach>188.73</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>59</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>131,04</priceEach>
+        <priceEach>131.04</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>59</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>67,03</priceEach>
+        <priceEach>67.03</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>59</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>51,48</priceEach>
+        <priceEach>51.48</priceEach>
         <orderLineNumber>18</orderLineNumber>
 	</element>
 	<element>
 		<id>59</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>66,74</priceEach>
+        <priceEach>66.74</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>59</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>129,35</priceEach>
+        <priceEach>129.35</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>59</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>54,71</priceEach>
+        <priceEach>54.71</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>59</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>142,85</priceEach>
+        <priceEach>142.85</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>59</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>100,3</priceEach>
+        <priceEach>100.3</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>59</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>67,18</priceEach>
+        <priceEach>67.18</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>59</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>49,6</priceEach>
+        <priceEach>49.6</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>59</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>80,84</priceEach>
+        <priceEach>80.84</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>59</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>39,43</priceEach>
+        <priceEach>39.43</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>59</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>86,74</priceEach>
+        <priceEach>86.74</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>59</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>78,11</priceEach>
+        <priceEach>78.11</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element> </details>');
 
@@ -3850,42 +3850,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>60</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>96,3</priceEach>
+        <priceEach>96.3</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>60</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>93,28</priceEach>
+        <priceEach>93.28</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>60</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>70,84</priceEach>
+        <priceEach>70.84</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>60</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>140,55</priceEach>
+        <priceEach>140.55</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>60</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>30,59</priceEach>
+        <priceEach>30.59</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>60</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>130,6</priceEach>
+        <priceEach>130.6</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -3894,84 +3894,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>61</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>121,72</priceEach>
+        <priceEach>121.72</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>61</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>102,04</priceEach>
+        <priceEach>102.04</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>61</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>139,41</priceEach>
+        <priceEach>139.41</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>61</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>125,4</priceEach>
+        <priceEach>125.4</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>61</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>132,8</priceEach>
+        <priceEach>132.8</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>61</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>62,72</priceEach>
+        <priceEach>62.72</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>61</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>73,49</priceEach>
+        <priceEach>73.49</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>61</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>47,29</priceEach>
+        <priceEach>47.29</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>61</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>82,69</priceEach>
+        <priceEach>82.69</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>61</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>108,04</priceEach>
+        <priceEach>108.04</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>61</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>72,77</priceEach>
+        <priceEach>72.77</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>61</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>94,23</priceEach>
+        <priceEach>94.23</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -3980,70 +3980,70 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>62</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>87,33</priceEach>
+        <priceEach>87.33</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>62</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>45,28</priceEach>
+        <priceEach>45.28</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>62</id>
 		<productCode>S18_1749</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>141,1</priceEach>
+        <priceEach>141.1</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>62</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>53,28</priceEach>
+        <priceEach>53.28</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>62</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>113,15</priceEach>
+        <priceEach>113.15</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>62</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>156,94</priceEach>
+        <priceEach>156.94</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>62</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>86,51</priceEach>
+        <priceEach>86.51</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>62</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>27,55</priceEach>
+        <priceEach>27.55</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>62</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>38,98</priceEach>
+        <priceEach>38.98</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>62</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>32,82</priceEach>
+        <priceEach>32.82</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element> </details>');
 
@@ -4052,42 +4052,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>63</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>212,16</priceEach>
+        <priceEach>212.16</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>63</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>101,31</priceEach>
+        <priceEach>101.31</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>63</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>59,96</priceEach>
+        <priceEach>59.96</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>63</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>101,58</priceEach>
+        <priceEach>101.58</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>63</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>80,36</priceEach>
+        <priceEach>80.36</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>63</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>96,42</priceEach>
+        <priceEach>96.42</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -4096,56 +4096,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>64</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>143,31</priceEach>
+        <priceEach>143.31</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>64</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>121,64</priceEach>
+        <priceEach>121.64</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>64</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>103,84</priceEach>
+        <priceEach>103.84</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>64</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>107,76</priceEach>
+        <priceEach>107.76</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>64</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>46,29</priceEach>
+        <priceEach>46.29</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>64</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>91,49</priceEach>
+        <priceEach>91.49</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>64</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>57,53</priceEach>
+        <priceEach>57.53</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>64</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>86,99</priceEach>
+        <priceEach>86.99</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -4154,126 +4154,126 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>66</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>168,32</priceEach>
+        <priceEach>168.32</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>66</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>123,89</priceEach>
+        <priceEach>123.89</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>66</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>152,26</priceEach>
+        <priceEach>152.26</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>66</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>109,02</priceEach>
+        <priceEach>109.02</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>66</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>134,26</priceEach>
+        <priceEach>134.26</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>66</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>120,28</priceEach>
+        <priceEach>120.28</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>66</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>60,77</priceEach>
+        <priceEach>60.77</priceEach>
         <orderLineNumber>18</orderLineNumber>
 	</element>
 	<element>
 		<id>66</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>154,1</priceEach>
+        <priceEach>154.1</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>66</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>84,71</priceEach>
+        <priceEach>84.71</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>66</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>123,51</priceEach>
+        <priceEach>123.51</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>66</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>46,82</priceEach>
+        <priceEach>46.82</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>66</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>117,57</priceEach>
+        <priceEach>117.57</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>66</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>31,12</priceEach>
+        <priceEach>31.12</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>66</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>106,45</priceEach>
+        <priceEach>106.45</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>66</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>50,86</priceEach>
+        <priceEach>50.86</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>66</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>55,3</priceEach>
+        <priceEach>55.3</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>66</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>106,49</priceEach>
+        <priceEach>106.49</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>66</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>49,21</priceEach>
+        <priceEach>49.21</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -4282,21 +4282,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>67</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>136,59</priceEach>
+        <priceEach>136.59</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>67</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>72,85</priceEach>
+        <priceEach>72.85</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>67</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>76,22</priceEach>
+        <priceEach>76.22</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -4305,42 +4305,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>68</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>123,76</priceEach>
+        <priceEach>123.76</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>141,92</priceEach>
+        <priceEach>141.92</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>69,68</priceEach>
+        <priceEach>69.68</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>84,7</priceEach>
+        <priceEach>84.7</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>110,6</priceEach>
+        <priceEach>110.6</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>54,81</priceEach>
+        <priceEach>54.81</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
@@ -4354,14 +4354,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>68</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>64,44</priceEach>
+        <priceEach>64.44</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>73,8</priceEach>
+        <priceEach>73.8</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
@@ -4375,42 +4375,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>68</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>87,8</priceEach>
+        <priceEach>87.8</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>62,16</priceEach>
+        <priceEach>62.16</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>85,14</priceEach>
+        <priceEach>85.14</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>83,42</priceEach>
+        <priceEach>83.42</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>42,71</priceEach>
+        <priceEach>42.71</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>43,68</priceEach>
+        <priceEach>43.68</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element> </details>');
 
@@ -4419,112 +4419,112 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>68</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>94,74</priceEach>
+        <priceEach>94.74</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>97,53</priceEach>
+        <priceEach>97.53</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>160,74</priceEach>
+        <priceEach>160.74</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>75,19</priceEach>
+        <priceEach>75.19</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>49,06</priceEach>
+        <priceEach>49.06</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>103,68</priceEach>
+        <priceEach>103.68</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>93,01</priceEach>
+        <priceEach>93.01</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>72,36</priceEach>
+        <priceEach>72.36</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>57,32</priceEach>
+        <priceEach>57.32</priceEach>
         <orderLineNumber>18</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>68,1</priceEach>
+        <priceEach>68.1</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>89,9</priceEach>
+        <priceEach>89.9</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>57,78</priceEach>
+        <priceEach>57.78</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>39,71</priceEach>
+        <priceEach>39.71</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>91,34</priceEach>
+        <priceEach>91.34</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>87,75</priceEach>
+        <priceEach>87.75</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>68</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>94,92</priceEach>
+        <priceEach>94.92</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
@@ -4538,7 +4538,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>68</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>67,37</priceEach>
+        <priceEach>67.37</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element> </details>');
 
@@ -4547,91 +4547,91 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>69</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>163,44</priceEach>
+        <priceEach>163.44</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>69</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>126,52</priceEach>
+        <priceEach>126.52</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>69</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>71,82</priceEach>
+        <priceEach>71.82</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>69</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>65,13</priceEach>
+        <priceEach>65.13</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>69</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>136,7</priceEach>
+        <priceEach>136.7</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>69</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>52,84</priceEach>
+        <priceEach>52.84</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>69</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>120,53</priceEach>
+        <priceEach>120.53</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>69</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>66,49</priceEach>
+        <priceEach>66.49</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>69</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>53,27</priceEach>
+        <priceEach>53.27</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>69</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>77,61</priceEach>
+        <priceEach>77.61</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>69</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>37,01</priceEach>
+        <priceEach>37.01</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>69</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>83,68</priceEach>
+        <priceEach>83.68</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>69</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>75,66</priceEach>
+        <priceEach>75.66</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element> </details>');
 
@@ -4640,28 +4640,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>70</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>116,27</priceEach>
+        <priceEach>116.27</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>70</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>93,28</priceEach>
+        <priceEach>93.28</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>70</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>70,07</priceEach>
+        <priceEach>70.07</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>70</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>130,6</priceEach>
+        <priceEach>130.6</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -4670,28 +4670,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>71</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>134,46</priceEach>
+        <priceEach>134.46</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>71</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>128,03</priceEach>
+        <priceEach>128.03</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>71</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>165,95</priceEach>
+        <priceEach>165.95</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>71</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>34,74</priceEach>
+        <priceEach>34.74</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -4700,21 +4700,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>72</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>109,51</priceEach>
+        <priceEach>109.51</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>72</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>117,48</priceEach>
+        <priceEach>117.48</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>72</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>139,87</priceEach>
+        <priceEach>139.87</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
@@ -4728,28 +4728,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>72</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>43,27</priceEach>
+        <priceEach>43.27</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>72</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>79,97</priceEach>
+        <priceEach>79.97</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>72</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>77,91</priceEach>
+        <priceEach>77.91</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>72</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>87,81</priceEach>
+        <priceEach>87.81</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -4758,112 +4758,112 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>73</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>101,71</priceEach>
+        <priceEach>101.71</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>73</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>51,75</priceEach>
+        <priceEach>51.75</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>73</id>
 		<productCode>S18_1749</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>168,3</priceEach>
+        <priceEach>168.3</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>73</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>55,09</priceEach>
+        <priceEach>55.09</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>73</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>127,13</priceEach>
+        <priceEach>127.13</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>73</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>140,06</priceEach>
+        <priceEach>140.06</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>73</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>56,84</priceEach>
+        <priceEach>56.84</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>73</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>86,92</priceEach>
+        <priceEach>86.92</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>73</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>90,28</priceEach>
+        <priceEach>90.28</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>73</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>77,31</priceEach>
+        <priceEach>77.31</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>73</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>58,44</priceEach>
+        <priceEach>58.44</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>73</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>29,87</priceEach>
+        <priceEach>29.87</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>73</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>39,42</priceEach>
+        <priceEach>39.42</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>73</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>98,65</priceEach>
+        <priceEach>98.65</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>73</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>35,7</priceEach>
+        <priceEach>35.7</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>73</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>93,49</priceEach>
+        <priceEach>93.49</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -4872,35 +4872,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>74</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>207,87</priceEach>
+        <priceEach>207.87</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>74</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>113,44</priceEach>
+        <priceEach>113.44</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>74</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>108,5</priceEach>
+        <priceEach>108.5</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>74</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>100,3</priceEach>
+        <priceEach>100.3</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>74</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>44,27</priceEach>
+        <priceEach>44.27</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -4909,84 +4909,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>75</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>119,67</priceEach>
+        <priceEach>119.67</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>75</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>109,02</priceEach>
+        <priceEach>109.02</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>75</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>101,87</priceEach>
+        <priceEach>101.87</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>75</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>59,55</priceEach>
+        <priceEach>59.55</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>75</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>150,71</priceEach>
+        <priceEach>150.71</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>75</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>102,92</priceEach>
+        <priceEach>102.92</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>75</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>121,4</priceEach>
+        <priceEach>121.4</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>75</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>32,18</priceEach>
+        <priceEach>32.18</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>75</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>89,57</priceEach>
+        <priceEach>89.57</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>75</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>50,86</priceEach>
+        <priceEach>50.86</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>75</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>56,24</priceEach>
+        <priceEach>56.24</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>75</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>80,92</priceEach>
+        <priceEach>80.92</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element> </details>');
 
@@ -4995,70 +4995,70 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>76</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>166,24</priceEach>
+        <priceEach>166.24</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>76</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>145,04</priceEach>
+        <priceEach>145.04</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>76</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>160,91</priceEach>
+        <priceEach>160.91</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>76</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>139,17</priceEach>
+        <priceEach>139.17</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>76</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>140,75</priceEach>
+        <priceEach>140.75</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>76</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>55,49</priceEach>
+        <priceEach>55.49</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>76</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>101,72</priceEach>
+        <priceEach>101.72</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>76</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>62,14</priceEach>
+        <priceEach>62.14</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>76</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>109,96</priceEach>
+        <priceEach>109.96</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>76</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>52,14</priceEach>
+        <priceEach>52.14</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -5067,77 +5067,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>77</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>113,37</priceEach>
+        <priceEach>113.37</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>77</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>92,77</priceEach>
+        <priceEach>92.77</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>77</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>82,5</priceEach>
+        <priceEach>82.5</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>77</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>115,52</priceEach>
+        <priceEach>115.52</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>77</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>79,66</priceEach>
+        <priceEach>79.66</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>77</id>
 		<productCode>S700_1138</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>58,67</priceEach>
+        <priceEach>58.67</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>77</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>77,95</priceEach>
+        <priceEach>77.95</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>77</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>64,33</priceEach>
+        <priceEach>64.33</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>77</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>88,15</priceEach>
+        <priceEach>88.15</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>77</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>83,42</priceEach>
+        <priceEach>83.42</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>77</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>52,96</priceEach>
+        <priceEach>52.96</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -5146,84 +5146,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>78</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>131,92</priceEach>
+        <priceEach>131.92</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>78</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>127,73</priceEach>
+        <priceEach>127.73</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>78</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>70,54</priceEach>
+        <priceEach>70.54</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>78</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>104,81</priceEach>
+        <priceEach>104.81</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>78</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>67,82</priceEach>
+        <priceEach>67.82</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>78</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>65,75</priceEach>
+        <priceEach>65.75</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>78</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>68,77</priceEach>
+        <priceEach>68.77</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>78</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>64,15</priceEach>
+        <priceEach>64.15</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>78</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>86,9</priceEach>
+        <priceEach>86.9</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>78</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>91,74</priceEach>
+        <priceEach>91.74</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>78</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>68,11</priceEach>
+        <priceEach>68.11</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>78</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>41,71</priceEach>
+        <priceEach>41.71</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element> </details>');
 
@@ -5232,56 +5232,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>79</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>82,79</priceEach>
+        <priceEach>82.79</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>79</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>105,04</priceEach>
+        <priceEach>105.04</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>79</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>66,65</priceEach>
+        <priceEach>66.65</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>79</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>86,9</priceEach>
+        <priceEach>86.9</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>79</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>63,97</priceEach>
+        <priceEach>63.97</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>79</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>43,2</priceEach>
+        <priceEach>43.2</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>79</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>75,81</priceEach>
+        <priceEach>75.81</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>79</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>98,48</priceEach>
+        <priceEach>98.48</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
@@ -5297,98 +5297,98 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>80</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>76,56</priceEach>
+        <priceEach>76.56</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>80</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>99,91</priceEach>
+        <priceEach>99.91</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>80</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>164,61</priceEach>
+        <priceEach>164.61</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>80</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>131,04</priceEach>
+        <priceEach>131.04</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>80</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>48,46</priceEach>
+        <priceEach>48.46</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>80</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>59,06</priceEach>
+        <priceEach>59.06</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>80</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>147,31</priceEach>
+        <priceEach>147.31</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>80</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>98,05</priceEach>
+        <priceEach>98.05</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>80</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>61,7</priceEach>
+        <priceEach>61.7</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>80</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>60,95</priceEach>
+        <priceEach>60.95</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>80</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>68,71</priceEach>
+        <priceEach>68.71</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>80</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>33,39</priceEach>
+        <priceEach>33.39</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>80</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>102,05</priceEach>
+        <priceEach>102.05</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>80</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>74,85</priceEach>
+        <priceEach>74.85</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -5397,119 +5397,119 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>81</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>155,66</priceEach>
+        <priceEach>155.66</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>81</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>113,92</priceEach>
+        <priceEach>113.92</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>81</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>67,03</priceEach>
+        <priceEach>67.03</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>81</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>107,1</priceEach>
+        <priceEach>107.1</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>81</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>124,56</priceEach>
+        <priceEach>124.56</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>81</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>124,44</priceEach>
+        <priceEach>124.44</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>81</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>74,69</priceEach>
+        <priceEach>74.69</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>81</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>129,45</priceEach>
+        <priceEach>129.45</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>81</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>130,68</priceEach>
+        <priceEach>130.68</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>81</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>147,33</priceEach>
+        <priceEach>147.33</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>81</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>73,17</priceEach>
+        <priceEach>73.17</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>81</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>120,53</priceEach>
+        <priceEach>120.53</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>81</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>137,04</priceEach>
+        <priceEach>137.04</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>81</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>45,28</priceEach>
+        <priceEach>45.28</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>81</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>32,85</priceEach>
+        <priceEach>32.85</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>81</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>54,49</priceEach>
+        <priceEach>54.49</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>81</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>122,17</priceEach>
+        <priceEach>122.17</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element> </details>');
 
@@ -5518,35 +5518,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>82</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>83,22</priceEach>
+        <priceEach>83.22</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>82</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>44,21</priceEach>
+        <priceEach>44.21</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>82</id>
 		<productCode>S18_1749</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>159,8</priceEach>
+        <priceEach>159.8</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>82</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>54,49</priceEach>
+        <priceEach>54.49</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>82</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>105,52</priceEach>
+        <priceEach>105.52</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
@@ -5560,77 +5560,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>82</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>86,31</priceEach>
+        <priceEach>86.31</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>82</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>88,35</priceEach>
+        <priceEach>88.35</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>82</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>61,29</priceEach>
+        <priceEach>61.29</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>82</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>63,2</priceEach>
+        <priceEach>63.2</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>82</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>31,86</priceEach>
+        <priceEach>31.86</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>82</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>39,87</priceEach>
+        <priceEach>39.87</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>82</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>87,24</priceEach>
+        <priceEach>87.24</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>82</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>116,27</priceEach>
+        <priceEach>116.27</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>82</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>73,62</priceEach>
+        <priceEach>73.62</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>82</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>95,3</priceEach>
+        <priceEach>95.3</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>82</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>34,88</priceEach>
+        <priceEach>34.88</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element> </details>');
 
@@ -5639,84 +5639,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>83</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>180,01</priceEach>
+        <priceEach>180.01</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>83</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>127,06</priceEach>
+        <priceEach>127.06</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>83</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>114,8</priceEach>
+        <priceEach>114.8</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>83</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>108,5</priceEach>
+        <priceEach>108.5</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>83</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>91,18</priceEach>
+        <priceEach>91.18</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>83</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>51,22</priceEach>
+        <priceEach>51.22</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>83</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>90,06</priceEach>
+        <priceEach>90.06</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>83</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>118,66</priceEach>
+        <priceEach>118.66</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>83</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>42,26</priceEach>
+        <priceEach>42.26</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>83</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>81,81</priceEach>
+        <priceEach>81.81</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>83</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>52,36</priceEach>
+        <priceEach>52.36</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>83</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>85,98</priceEach>
+        <priceEach>85.98</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -5725,91 +5725,91 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>84</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>105,47</priceEach>
+        <priceEach>105.47</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>84</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>145,72</priceEach>
+        <priceEach>145.72</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>84</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>119,05</priceEach>
+        <priceEach>119.05</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>84</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>60,77</priceEach>
+        <priceEach>60.77</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>84</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>165,95</priceEach>
+        <priceEach>165.95</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>84</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>57,22</priceEach>
+        <priceEach>57.22</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>84</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>117,57</priceEach>
+        <priceEach>117.57</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>84</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>30,06</priceEach>
+        <priceEach>30.06</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>84</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>114,73</priceEach>
+        <priceEach>114.73</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>84</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>84,75</priceEach>
+        <priceEach>84.75</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>84</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>52,49</priceEach>
+        <priceEach>52.49</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>84</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>59,03</priceEach>
+        <priceEach>59.03</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>84</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>92,6</priceEach>
+        <priceEach>92.6</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -5818,112 +5818,112 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>85</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>195,33</priceEach>
+        <priceEach>195.33</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>85</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>146,55</priceEach>
+        <priceEach>146.55</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>85</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>147,07</priceEach>
+        <priceEach>147.07</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>85</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>124,3</priceEach>
+        <priceEach>124.3</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>85</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>94,79</priceEach>
+        <priceEach>94.79</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>85</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>127,82</priceEach>
+        <priceEach>127.82</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>85</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>87,77</priceEach>
+        <priceEach>87.77</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>85</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>105,69</priceEach>
+        <priceEach>105.69</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>85</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>83,2</priceEach>
+        <priceEach>83.2</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>85</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>46,86</priceEach>
+        <priceEach>46.86</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>85</id>
 		<productCode>S700_1138</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>64,67</priceEach>
+        <priceEach>64.67</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>85</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>79,68</priceEach>
+        <priceEach>79.68</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>85</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>61,44</priceEach>
+        <priceEach>61.44</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>85</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>99,17</priceEach>
+        <priceEach>99.17</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>85</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>93,35</priceEach>
+        <priceEach>93.35</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>85</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>47,5</priceEach>
+        <priceEach>47.5</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -5932,63 +5932,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>86</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>108,8</priceEach>
+        <priceEach>108.8</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>86</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>137,19</priceEach>
+        <priceEach>137.19</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>86</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>73,12</priceEach>
+        <priceEach>73.12</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>86</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>98,46</priceEach>
+        <priceEach>98.46</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>86</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>60,29</priceEach>
+        <priceEach>60.29</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>86</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>59,83</priceEach>
+        <priceEach>59.83</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>86</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>68,77</priceEach>
+        <priceEach>68.77</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>86</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>80,56</priceEach>
+        <priceEach>80.56</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>86</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>42,71</priceEach>
+        <priceEach>42.71</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -5997,56 +5997,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>87</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>70,12</priceEach>
+        <priceEach>70.12</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>87</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>96,29</priceEach>
+        <priceEach>96.29</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>87</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>55,96</priceEach>
+        <priceEach>55.96</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>87</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>64,48</priceEach>
+        <priceEach>64.48</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>87</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>61,22</priceEach>
+        <priceEach>61.22</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>87</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>39,71</priceEach>
+        <priceEach>39.71</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>87</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>84,95</priceEach>
+        <priceEach>84.95</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>87</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>95,73</priceEach>
+        <priceEach>95.73</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
@@ -6060,7 +6060,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>87</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>70,33</priceEach>
+        <priceEach>70.33</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element> </details>');
 
@@ -6069,56 +6069,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>88</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>95,7</priceEach>
+        <priceEach>95.7</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>88</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>111,8</priceEach>
+        <priceEach>111.8</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>88</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>182,04</priceEach>
+        <priceEach>182.04</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>88</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>52,09</priceEach>
+        <priceEach>52.09</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>88</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>95,8</priceEach>
+        <priceEach>95.8</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>88</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>61,7</priceEach>
+        <priceEach>61.7</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>88</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>81,91</priceEach>
+        <priceEach>81.91</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>88</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>96,11</priceEach>
+        <priceEach>96.11</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element> </details>');
 
@@ -6127,7 +6127,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>89</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>138,57</priceEach>
+        <priceEach>138.57</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -6136,28 +6136,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>90</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>58,87</priceEach>
+        <priceEach>58.87</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>90</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>38,62</priceEach>
+        <priceEach>38.62</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>90</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>89,8</priceEach>
+        <priceEach>89.8</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>90</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>67,53</priceEach>
+        <priceEach>67.53</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -6166,63 +6166,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>91</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>155,66</priceEach>
+        <priceEach>155.66</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>91</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>104,52</priceEach>
+        <priceEach>104.52</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>91</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>70,22</priceEach>
+        <priceEach>70.22</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>91</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>75,59</priceEach>
+        <priceEach>75.59</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>91</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>119,06</priceEach>
+        <priceEach>119.06</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>91</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>60,93</priceEach>
+        <priceEach>60.93</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>91</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>136,9</priceEach>
+        <priceEach>136.9</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>91</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>53,27</priceEach>
+        <priceEach>53.27</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>91</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>77,61</priceEach>
+        <priceEach>77.61</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element> </details>');
 
@@ -6231,112 +6231,112 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>92</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>99,04</priceEach>
+        <priceEach>99.04</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>92</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>140,12</priceEach>
+        <priceEach>140.12</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>92</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>100,8</priceEach>
+        <priceEach>100.8</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>92</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>70,84</priceEach>
+        <priceEach>70.84</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>92</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>128,03</priceEach>
+        <priceEach>128.03</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>92</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>110,88</priceEach>
+        <priceEach>110.88</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>92</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>137,17</priceEach>
+        <priceEach>137.17</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>92</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>125,74</priceEach>
+        <priceEach>125.74</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>92</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>72,02</priceEach>
+        <priceEach>72.02</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>92</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>49,3</priceEach>
+        <priceEach>49.3</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>92</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>86,33</priceEach>
+        <priceEach>86.33</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>92</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>112,74</priceEach>
+        <priceEach>112.74</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>92</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>33,23</priceEach>
+        <priceEach>33.23</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>92</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>69,34</priceEach>
+        <priceEach>69.34</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>92</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>93,16</priceEach>
+        <priceEach>93.16</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>92</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>112,34</priceEach>
+        <priceEach>112.34</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element> </details>');
 
@@ -6345,14 +6345,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>93</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>92,47</priceEach>
+        <priceEach>92.47</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>93</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>46,36</priceEach>
+        <priceEach>46.36</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
@@ -6366,91 +6366,91 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>93</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>60,54</priceEach>
+        <priceEach>60.54</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>93</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>115,69</priceEach>
+        <priceEach>115.69</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>93</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>143,44</priceEach>
+        <priceEach>143.44</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>93</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>87,13</priceEach>
+        <priceEach>87.13</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>93</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>53,09</priceEach>
+        <priceEach>53.09</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>93</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>97,39</priceEach>
+        <priceEach>97.39</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>93</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>79,37</priceEach>
+        <priceEach>79.37</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>93</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>92,03</priceEach>
+        <priceEach>92.03</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>93</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>66,28</priceEach>
+        <priceEach>66.28</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>93</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>32,19</priceEach>
+        <priceEach>32.19</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>93</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>44,8</priceEach>
+        <priceEach>44.8</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>93</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>38,16</priceEach>
+        <priceEach>38.16</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>93</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>92,52</priceEach>
+        <priceEach>92.52</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -6459,77 +6459,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>94</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>203,59</priceEach>
+        <priceEach>203.59</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>94</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>134,44</priceEach>
+        <priceEach>134.44</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>94</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>124,37</priceEach>
+        <priceEach>124.37</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>94</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>103,84</priceEach>
+        <priceEach>103.84</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>94</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>51,05</priceEach>
+        <priceEach>51.05</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>94</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>113,82</priceEach>
+        <priceEach>113.82</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>94</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>47,79</priceEach>
+        <priceEach>47.79</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>94</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>112,46</priceEach>
+        <priceEach>112.46</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>94</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>77,05</priceEach>
+        <priceEach>77.05</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>94</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>61,41</priceEach>
+        <priceEach>61.41</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>94</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>80,92</priceEach>
+        <priceEach>80.92</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -6538,70 +6538,70 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>95</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>118,5</priceEach>
+        <priceEach>118.5</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>95</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>139,17</priceEach>
+        <priceEach>139.17</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>95</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>112,91</priceEach>
+        <priceEach>112.91</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>95</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>150,71</priceEach>
+        <priceEach>150.71</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>95</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>54,33</priceEach>
+        <priceEach>54.33</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>95</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>31,82</priceEach>
+        <priceEach>31.82</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>95</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>95,81</priceEach>
+        <priceEach>95.81</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>95</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>51,95</priceEach>
+        <priceEach>51.95</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>95</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>59,03</priceEach>
+        <priceEach>59.03</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>95</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>97,23</priceEach>
+        <priceEach>97.23</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -6610,56 +6610,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>96</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>203,64</priceEach>
+        <priceEach>203.64</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>96</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>151,08</priceEach>
+        <priceEach>151.08</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>96</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>147,07</priceEach>
+        <priceEach>147.07</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>96</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>127,03</priceEach>
+        <priceEach>127.03</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>96</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>81,68</priceEach>
+        <priceEach>81.68</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>96</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>126,39</priceEach>
+        <priceEach>126.39</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>96</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>56,82</priceEach>
+        <priceEach>56.82</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>96</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>84,88</priceEach>
+        <priceEach>84.88</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -6668,49 +6668,49 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>97</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>118,32</priceEach>
+        <priceEach>118.32</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>97</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>83,44</priceEach>
+        <priceEach>83.44</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>97</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>85,75</priceEach>
+        <priceEach>85.75</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>97</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>78,99</priceEach>
+        <priceEach>78.99</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>97</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>109,37</priceEach>
+        <priceEach>109.37</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>97</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>83,2</priceEach>
+        <priceEach>83.2</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>97</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>67,93</priceEach>
+        <priceEach>67.93</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
@@ -6724,42 +6724,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>97</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>78,75</priceEach>
+        <priceEach>78.75</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>97</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>66,5</priceEach>
+        <priceEach>66.5</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>97</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>100,17</priceEach>
+        <priceEach>100.17</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>97</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>88,39</priceEach>
+        <priceEach>88.39</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>97</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>39,73</priceEach>
+        <priceEach>39.73</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>97</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>48,59</priceEach>
+        <priceEach>48.59</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element> </details>');
 
@@ -6768,42 +6768,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>98</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>149,81</priceEach>
+        <priceEach>149.81</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>98</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>60,97</priceEach>
+        <priceEach>60.97</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>98</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>61,81</priceEach>
+        <priceEach>61.81</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>98</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>65,51</priceEach>
+        <priceEach>65.51</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>98</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>94,73</priceEach>
+        <priceEach>94.73</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>98</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>74,03</priceEach>
+        <priceEach>74.03</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -6812,21 +6812,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>99</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>37,97</priceEach>
+        <priceEach>37.97</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>99</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>81,29</priceEach>
+        <priceEach>81.29</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>99</id>
 		<productCode>S700_3167</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>70,4</priceEach>
+        <priceEach>70.4</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -6835,42 +6835,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>100</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>74,34</priceEach>
+        <priceEach>74.34</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>100</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>99,57</priceEach>
+        <priceEach>99.57</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>100</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>70,28</priceEach>
+        <priceEach>70.28</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>100</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>80,91</priceEach>
+        <priceEach>80.91</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>100</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>65,35</priceEach>
+        <priceEach>65.35</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>100</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>115,09</priceEach>
+        <priceEach>115.09</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -6879,49 +6879,49 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>101</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>82,3</priceEach>
+        <priceEach>82.3</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>101</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>116,56</priceEach>
+        <priceEach>116.56</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>101</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>191,72</priceEach>
+        <priceEach>191.72</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>101</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>126,52</priceEach>
+        <priceEach>126.52</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>101</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>48,46</priceEach>
+        <priceEach>48.46</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>101</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>93,54</priceEach>
+        <priceEach>93.54</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>101</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>66,27</priceEach>
+        <priceEach>66.27</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element> </details>');
 
@@ -6930,49 +6930,49 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>102</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>55,33</priceEach>
+        <priceEach>55.33</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>102</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>124,99</priceEach>
+        <priceEach>124.99</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>102</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>56,1</priceEach>
+        <priceEach>56.1</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>102</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>75,18</priceEach>
+        <priceEach>75.18</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>102</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>33,39</priceEach>
+        <priceEach>33.39</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>102</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>81,64</priceEach>
+        <priceEach>81.64</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>102</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>79,73</priceEach>
+        <priceEach>79.73</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -6981,77 +6981,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>103</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>161,49</priceEach>
+        <priceEach>161.49</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>103</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>111,57</priceEach>
+        <priceEach>111.57</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>103</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>63,84</priceEach>
+        <priceEach>63.84</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>103</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>115,16</priceEach>
+        <priceEach>115.16</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>103</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>73,15</priceEach>
+        <priceEach>73.15</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>103</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>157,49</priceEach>
+        <priceEach>157.49</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>103</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>66,74</priceEach>
+        <priceEach>66.74</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>103</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>127,88</priceEach>
+        <priceEach>127.88</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>103</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>33,23</priceEach>
+        <priceEach>33.23</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>103</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>56,94</priceEach>
+        <priceEach>56.94</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>103</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>140,43</priceEach>
+        <priceEach>140.43</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -7060,14 +7060,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>104</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>114,65</priceEach>
+        <priceEach>114.65</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>104</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>113,24</priceEach>
+        <priceEach>113.24</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
@@ -7081,98 +7081,98 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>104</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>133,72</priceEach>
+        <priceEach>133.72</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>104</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>59,33</priceEach>
+        <priceEach>59.33</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>104</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>119,5</priceEach>
+        <priceEach>119.5</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>104</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>106,92</priceEach>
+        <priceEach>106.92</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>104</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>132,8</priceEach>
+        <priceEach>132.8</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>104</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>83,75</priceEach>
+        <priceEach>83.75</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>104</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>69,84</priceEach>
+        <priceEach>69.84</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>104</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>69,82</priceEach>
+        <priceEach>69.82</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>104</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>46,79</priceEach>
+        <priceEach>46.79</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>104</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>79,06</priceEach>
+        <priceEach>79.06</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>104</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>112,74</priceEach>
+        <priceEach>112.74</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>104</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>84,75</priceEach>
+        <priceEach>84.75</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>104</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>104,94</priceEach>
+        <priceEach>104.94</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>104</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>34,88</priceEach>
+        <priceEach>34.88</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -7181,35 +7181,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>105</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>98,63</priceEach>
+        <priceEach>98.63</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>105</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>45,82</priceEach>
+        <priceEach>45.82</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>105</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>138,38</priceEach>
+        <priceEach>138.38</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>105</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>27,88</priceEach>
+        <priceEach>27.88</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>105</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>36,74</priceEach>
+        <priceEach>36.74</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -7218,77 +7218,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>106</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>203,59</priceEach>
+        <priceEach>203.59</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>106</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>109,34</priceEach>
+        <priceEach>109.34</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>106</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>115,5</priceEach>
+        <priceEach>115.5</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>106</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>98,27</priceEach>
+        <priceEach>98.27</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>106</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>51,84</priceEach>
+        <priceEach>51.84</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>106</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>102,63</priceEach>
+        <priceEach>102.63</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>106</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>99,21</priceEach>
+        <priceEach>99.21</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>106</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>45,78</priceEach>
+        <priceEach>45.78</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>106</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>95,44</priceEach>
+        <priceEach>95.44</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>106</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>54,94</priceEach>
+        <priceEach>54.94</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>106</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>89,01</priceEach>
+        <priceEach>89.01</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -7297,112 +7297,112 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>107</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>125,58</priceEach>
+        <priceEach>125.58</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>107</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>95,99</priceEach>
+        <priceEach>95.99</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>107</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>140,81</priceEach>
+        <priceEach>140.81</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>107</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>109,23</priceEach>
+        <priceEach>109.23</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>107</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>60,77</priceEach>
+        <priceEach>60.77</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>107</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>140,55</priceEach>
+        <priceEach>140.55</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>107</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>143,62</priceEach>
+        <priceEach>143.62</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>107</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>119,87</priceEach>
+        <priceEach>119.87</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>107</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>57,8</priceEach>
+        <priceEach>57.8</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>107</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>127,79</priceEach>
+        <priceEach>127.79</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>107</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>30,76</priceEach>
+        <priceEach>30.76</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>107</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>108,82</priceEach>
+        <priceEach>108.82</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>107</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>84,75</priceEach>
+        <priceEach>84.75</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>107</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>51,95</priceEach>
+        <priceEach>51.95</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>107</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>55,3</priceEach>
+        <priceEach>55.3</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>107</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>106,49</priceEach>
+        <priceEach>106.49</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -7411,105 +7411,105 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>108</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>176,63</priceEach>
+        <priceEach>176.63</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>108</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>128,42</priceEach>
+        <priceEach>128.42</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>108</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>152,26</priceEach>
+        <priceEach>152.26</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>108</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>117,47</priceEach>
+        <priceEach>117.47</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>108</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>96,81</priceEach>
+        <priceEach>96.81</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>108</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>72,85</priceEach>
+        <priceEach>72.85</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>108</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>122,89</priceEach>
+        <priceEach>122.89</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>108</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>80,54</priceEach>
+        <priceEach>80.54</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>108</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>57,99</priceEach>
+        <priceEach>57.99</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>108</id>
 		<productCode>S700_1138</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>56,67</priceEach>
+        <priceEach>56.67</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>108</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>73,62</priceEach>
+        <priceEach>73.62</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>108</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>63,61</priceEach>
+        <priceEach>63.61</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>108</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>95,16</priceEach>
+        <priceEach>95.16</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>108</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>95,34</priceEach>
+        <priceEach>95.34</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>108</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>48,05</priceEach>
+        <priceEach>48.05</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -7518,56 +7518,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>109</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>129,2</priceEach>
+        <priceEach>129.2</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>109</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>82,58</priceEach>
+        <priceEach>82.58</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>109</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>97,4</priceEach>
+        <priceEach>97.4</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>109</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>66,45</priceEach>
+        <priceEach>66.45</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>109</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>56,55</priceEach>
+        <priceEach>56.55</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>109</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>79,67</priceEach>
+        <priceEach>79.67</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>109</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>90,52</priceEach>
+        <priceEach>90.52</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>109</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>44,2</priceEach>
+        <priceEach>44.2</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -7576,105 +7576,105 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>110</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>112,99</priceEach>
+        <priceEach>112.99</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>110</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>189,79</priceEach>
+        <priceEach>189.79</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>110</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>141,92</priceEach>
+        <priceEach>141.92</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>110</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>68,43</priceEach>
+        <priceEach>68.43</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>110</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>51,48</priceEach>
+        <priceEach>51.48</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>110</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>100,67</priceEach>
+        <priceEach>100.67</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>110</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>63,22</priceEach>
+        <priceEach>63.22</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>110</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>56,64</priceEach>
+        <priceEach>56.64</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>110</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>68,1</priceEach>
+        <priceEach>68.1</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>110</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>84,91</priceEach>
+        <priceEach>84.91</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>110</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>57,1</priceEach>
+        <priceEach>57.1</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>110</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>43,2</priceEach>
+        <priceEach>43.2</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>110</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>87,69</priceEach>
+        <priceEach>87.69</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>110</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>93,74</priceEach>
+        <priceEach>93.74</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>110</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>98,48</priceEach>
+        <priceEach>98.48</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
@@ -7688,7 +7688,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>110</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>60,7</priceEach>
+        <priceEach>60.7</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element> </details>');
 
@@ -7697,105 +7697,105 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>111</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>90,92</priceEach>
+        <priceEach>90.92</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>111</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>171,22</priceEach>
+        <priceEach>171.22</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>111</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>126,52</priceEach>
+        <priceEach>126.52</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>111</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>79,8</priceEach>
+        <priceEach>79.8</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>111</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>73,17</priceEach>
+        <priceEach>73.17</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>111</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>138,17</priceEach>
+        <priceEach>138.17</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>111</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>60,3</priceEach>
+        <priceEach>60.3</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>111</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>148,8</priceEach>
+        <priceEach>148.8</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>111</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>109,32</priceEach>
+        <priceEach>109.32</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>111</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>62,33</priceEach>
+        <priceEach>62.33</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>111</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>52,66</priceEach>
+        <priceEach>52.66</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>111</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>80,84</priceEach>
+        <priceEach>80.84</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>111</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>39,83</priceEach>
+        <priceEach>39.83</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>111</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>94,91</priceEach>
+        <priceEach>94.91</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>111</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>70,78</priceEach>
+        <priceEach>70.78</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element> </details>');
 
@@ -7804,112 +7804,112 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>112</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>99,82</priceEach>
+        <priceEach>99.82</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>112</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>110,55</priceEach>
+        <priceEach>110.55</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>112</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>117,48</priceEach>
+        <priceEach>117.48</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>112</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>105,77</priceEach>
+        <priceEach>105.77</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>112</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>64,68</priceEach>
+        <priceEach>64.68</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>112</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>133,72</priceEach>
+        <priceEach>133.72</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>112</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>117,48</priceEach>
+        <priceEach>117.48</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>112</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>155,79</priceEach>
+        <priceEach>155.79</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>112</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>115,85</priceEach>
+        <priceEach>115.85</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>112</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>61,73</priceEach>
+        <priceEach>61.73</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>112</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>43,27</priceEach>
+        <priceEach>43.27</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>112</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>81,78</priceEach>
+        <priceEach>81.78</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>112</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>37,38</priceEach>
+        <priceEach>37.38</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>112</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>77,91</priceEach>
+        <priceEach>77.91</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>112</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>100,66</priceEach>
+        <priceEach>100.66</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>112</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>117,96</priceEach>
+        <priceEach>117.96</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element> </details>');
 
@@ -7918,21 +7918,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>113</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>84,67</priceEach>
+        <priceEach>84.67</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>113</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>58,44</priceEach>
+        <priceEach>58.44</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>113</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>97,48</priceEach>
+        <priceEach>97.48</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -7941,49 +7941,49 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>114</id>
 		<productCode>S18_1749</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>166,6</priceEach>
+        <priceEach>166.6</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>114</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>53,28</priceEach>
+        <priceEach>53.28</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>114</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>125,86</priceEach>
+        <priceEach>125.86</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>114</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>167,06</priceEach>
+        <priceEach>167.06</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>114</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>32,19</priceEach>
+        <priceEach>32.19</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>114</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>39,87</priceEach>
+        <priceEach>39.87</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>114</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>38,57</priceEach>
+        <priceEach>38.57</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -7992,70 +7992,70 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>115</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>205,73</priceEach>
+        <priceEach>205.73</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>115</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>100,34</priceEach>
+        <priceEach>100.34</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>115</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>92,47</priceEach>
+        <priceEach>92.47</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>115</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>53,91</priceEach>
+        <priceEach>53.91</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>115</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>97,26</priceEach>
+        <priceEach>97.26</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>115</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>56,21</priceEach>
+        <priceEach>56.21</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>115</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>89,01</priceEach>
+        <priceEach>89.01</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>115</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>84,33</priceEach>
+        <priceEach>84.33</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>115</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>42,76</priceEach>
+        <priceEach>42.76</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>115</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>94,47</priceEach>
+        <priceEach>94.47</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element> </details>');
 
@@ -8064,7 +8064,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>116</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>133,94</priceEach>
+        <priceEach>133.94</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -8073,49 +8073,49 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>117</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>132,97</priceEach>
+        <priceEach>132.97</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>117</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>58,34</priceEach>
+        <priceEach>58.34</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>117</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>118,66</priceEach>
+        <priceEach>118.66</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>117</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>103,51</priceEach>
+        <priceEach>103.51</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>117</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>78,97</priceEach>
+        <priceEach>78.97</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>117</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>56,24</priceEach>
+        <priceEach>56.24</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>117</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>90,02</priceEach>
+        <priceEach>90.02</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -8124,14 +8124,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>118</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>110,46</priceEach>
+        <priceEach>110.46</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>118</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>152,41</priceEach>
+        <priceEach>152.41</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -8140,28 +8140,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>119</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>94,8</priceEach>
+        <priceEach>94.8</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>119</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>132,62</priceEach>
+        <priceEach>132.62</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>119</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>31,12</priceEach>
+        <priceEach>31.12</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>119</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>47,62</priceEach>
+        <priceEach>47.62</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -8170,63 +8170,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>120</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>189,1</priceEach>
+        <priceEach>189.1</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>120</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>151,08</priceEach>
+        <priceEach>151.08</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>120</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>166,1</priceEach>
+        <priceEach>166.1</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>120</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>126,39</priceEach>
+        <priceEach>126.39</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>120</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>48,55</priceEach>
+        <priceEach>48.55</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>120</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>101,72</priceEach>
+        <priceEach>101.72</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>120</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>49,71</priceEach>
+        <priceEach>49.71</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>120</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>92,6</priceEach>
+        <priceEach>92.6</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>120</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>56,82</priceEach>
+        <priceEach>56.82</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -8235,35 +8235,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>121</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>133,86</priceEach>
+        <priceEach>133.86</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>121</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>89,75</priceEach>
+        <priceEach>89.75</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>121</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>84,26</priceEach>
+        <priceEach>84.26</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>121</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>113,06</priceEach>
+        <priceEach>113.06</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>121</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>69,29</priceEach>
+        <priceEach>69.29</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -8272,126 +8272,126 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>122</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>133,28</priceEach>
+        <priceEach>133.28</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>122</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>137,19</priceEach>
+        <priceEach>137.19</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>122</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>79,14</priceEach>
+        <priceEach>79.14</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>122</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>88,93</priceEach>
+        <priceEach>88.93</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>122</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>56,86</priceEach>
+        <priceEach>56.86</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>122</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>74,35</priceEach>
+        <priceEach>74.35</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>122</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>61,15</priceEach>
+        <priceEach>61.15</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>122</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>77,99</priceEach>
+        <priceEach>77.99</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>122</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>55,27</priceEach>
+        <priceEach>55.27</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>122</id>
 		<productCode>S700_1138</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>58,67</priceEach>
+        <priceEach>58.67</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>122</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>80,56</priceEach>
+        <priceEach>80.56</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>122</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>90,75</priceEach>
+        <priceEach>90.75</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>122</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>69,39</priceEach>
+        <priceEach>69.39</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>122</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>84,14</priceEach>
+        <priceEach>84.14</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>122</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>81,43</priceEach>
+        <priceEach>81.43</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>122</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>66,63</priceEach>
+        <priceEach>66.63</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>122</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>45,19</priceEach>
+        <priceEach>45.19</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>122</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>48,59</priceEach>
+        <priceEach>48.59</priceEach>
         <orderLineNumber>18</orderLineNumber>
 	</element> </details>');
 
@@ -8400,105 +8400,105 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>123</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>80,39</priceEach>
+        <priceEach>80.39</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>123</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>110,61</priceEach>
+        <priceEach>110.61</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>123</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>189,79</priceEach>
+        <priceEach>189.79</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>123</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>67,58</priceEach>
+        <priceEach>67.58</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>123</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>58,75</priceEach>
+        <priceEach>58.75</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>123</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>104,81</priceEach>
+        <priceEach>104.81</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>123</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>87,54</priceEach>
+        <priceEach>87.54</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>123</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>60,94</priceEach>
+        <priceEach>60.94</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>123</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>68,1</priceEach>
+        <priceEach>68.1</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>123</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>90,9</priceEach>
+        <priceEach>90.9</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>123</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>66,73</priceEach>
+        <priceEach>66.73</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>123</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>41,02</priceEach>
+        <priceEach>41.02</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>123</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>84,03</priceEach>
+        <priceEach>84.03</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>123</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>113,9</priceEach>
+        <priceEach>113.9</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>123</id>
 		<productCode>S700_3167</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>79,2</priceEach>
+        <priceEach>79.2</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element> </details>');
 
@@ -8507,42 +8507,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>124</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>141,58</priceEach>
+        <priceEach>141.58</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>124</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>57,2</priceEach>
+        <priceEach>57.2</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>124</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>60,26</priceEach>
+        <priceEach>60.26</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>124</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>37,01</priceEach>
+        <priceEach>37.01</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>124</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>94,91</priceEach>
+        <priceEach>94.91</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>124</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>81,36</priceEach>
+        <priceEach>81.36</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -8551,7 +8551,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>125</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>157,6</priceEach>
+        <priceEach>157.6</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
@@ -8565,84 +8565,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>125</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>64,64</priceEach>
+        <priceEach>64.64</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>125</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>100,19</priceEach>
+        <priceEach>100.19</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>125</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>116,06</priceEach>
+        <priceEach>116.06</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>125</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>71,61</priceEach>
+        <priceEach>71.61</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>125</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>162,57</priceEach>
+        <priceEach>162.57</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>125</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>69,96</priceEach>
+        <priceEach>69.96</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>125</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>119,06</priceEach>
+        <priceEach>119.06</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>125</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>135,41</priceEach>
+        <priceEach>135.41</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>125</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>34,74</priceEach>
+        <priceEach>34.74</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>125</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>51,43</priceEach>
+        <priceEach>51.43</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>125</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>130,6</priceEach>
+        <priceEach>130.6</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>125</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>77,61</priceEach>
+        <priceEach>77.61</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element> </details>');
 
@@ -8651,49 +8651,49 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>126</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>108,26</priceEach>
+        <priceEach>108.26</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>126</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>129,45</priceEach>
+        <priceEach>129.45</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>126</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>125,4</priceEach>
+        <priceEach>125.4</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>126</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>122,91</priceEach>
+        <priceEach>122.91</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>126</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>65,41</priceEach>
+        <priceEach>65.41</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>126</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>47,79</priceEach>
+        <priceEach>47.79</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>126</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>95,3</priceEach>
+        <priceEach>95.3</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -8702,14 +8702,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>127</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>85,27</priceEach>
+        <priceEach>85.27</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>127</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>50,14</priceEach>
+        <priceEach>50.14</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
@@ -8723,84 +8723,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>127</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>59,93</priceEach>
+        <priceEach>59.93</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>127</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>118,23</priceEach>
+        <priceEach>118.23</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>127</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>146,81</priceEach>
+        <priceEach>146.81</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>127</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>99,21</priceEach>
+        <priceEach>99.21</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>127</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>87,43</priceEach>
+        <priceEach>87.43</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>127</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>70,56</priceEach>
+        <priceEach>70.56</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>127</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>27,22</priceEach>
+        <priceEach>27.22</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>127</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>39,42</priceEach>
+        <priceEach>39.42</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>127</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>84,51</priceEach>
+        <priceEach>84.51</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>127</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>102,17</priceEach>
+        <priceEach>102.17</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>127</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>78,76</priceEach>
+        <priceEach>78.76</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>127</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>34,88</priceEach>
+        <priceEach>34.88</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element> </details>');
 
@@ -8809,42 +8809,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>128</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>214,3</priceEach>
+        <priceEach>214.3</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>128</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>100,34</priceEach>
+        <priceEach>100.34</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>128</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>101,31</priceEach>
+        <priceEach>101.31</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>128</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>57,46</priceEach>
+        <priceEach>57.46</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>128</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>100,53</priceEach>
+        <priceEach>100.53</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>128</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>84,73</priceEach>
+        <priceEach>84.73</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -8853,98 +8853,98 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>129</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>138,88</priceEach>
+        <priceEach>138.88</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>129</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>110,7</priceEach>
+        <priceEach>110.7</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>129</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>95,99</priceEach>
+        <priceEach>95.99</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>129</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>104,32</priceEach>
+        <priceEach>104.32</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 <element>
 		<id>129</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>53,48</priceEach>
+        <priceEach>53.48</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>129</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>157,49</priceEach>
+        <priceEach>157.49</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>129</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>119,87</priceEach>
+        <priceEach>119.87</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>129</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>43,77</priceEach>
+        <priceEach>43.77</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>129</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>115,01</priceEach>
+        <priceEach>115.01</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>129</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>34,65</priceEach>
+        <priceEach>34.65</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>129</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>78,97</priceEach>
+        <priceEach>78.97</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>129</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>49,78</priceEach>
+        <priceEach>49.78</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>129</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>52,36</priceEach>
+        <priceEach>52.36</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>129</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>91,04</priceEach>
+        <priceEach>91.04</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>	</details>');
 
@@ -8953,56 +8953,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>130</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>128,42</priceEach>
+        <priceEach>128.42</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>130</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>153,91</priceEach>
+        <priceEach>153.91</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>130</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>142,18</priceEach>
+        <priceEach>142.18</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>130</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>47,4</priceEach>
+        <priceEach>47.4</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>130</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>99,36</priceEach>
+        <priceEach>99.36</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>130</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>59,03</priceEach>
+        <priceEach>59.03</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>130</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>100,7</priceEach>
+        <priceEach>100.7</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>130</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>57,41</priceEach>
+        <priceEach>57.41</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -9011,14 +9011,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>131</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>193,25</priceEach>
+        <priceEach>193.25</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>131</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>147,07</priceEach>
+        <priceEach>147.07</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -9027,56 +9027,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>132</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>133,86</priceEach>
+        <priceEach>133.86</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>132</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>97,81</priceEach>
+        <priceEach>97.81</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>132</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>78,12</priceEach>
+        <priceEach>78.12</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>132</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>113,06</priceEach>
+        <priceEach>113.06</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>132</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>84,88</priceEach>
+        <priceEach>84.88</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>132</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>86,15</priceEach>
+        <priceEach>86.15</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>132</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>81,43</priceEach>
+        <priceEach>81.43</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>132</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>48,59</priceEach>
+        <priceEach>48.59</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -9085,7 +9085,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>133</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>70,81</priceEach>
+        <priceEach>70.81</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
@@ -9099,7 +9099,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>133</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>67,94</priceEach>
+        <priceEach>67.94</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -9108,63 +9108,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>134</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>118,32</priceEach>
+        <priceEach>118.32</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>134</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>146,65</priceEach>
+        <priceEach>146.65</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>134</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>84,3</priceEach>
+        <priceEach>84.3</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>134</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>85,75</priceEach>
+        <priceEach>85.75</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>134</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>67,14</priceEach>
+        <priceEach>67.14</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>134</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>65,09</priceEach>
+        <priceEach>65.09</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>134</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>78,83</priceEach>
+        <priceEach>78.83</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>134</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>83,28</priceEach>
+        <priceEach>83.28</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>134</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>45,69</priceEach>
+        <priceEach>45.69</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -9173,84 +9173,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>135</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>81,95</priceEach>
+        <priceEach>81.95</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>135</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>89,72</priceEach>
+        <priceEach>89.72</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>135</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>55,27</priceEach>
+        <priceEach>55.27</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>135</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>63,03</priceEach>
+        <priceEach>63.03</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>135</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>90,9</priceEach>
+        <priceEach>90.9</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>135</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>66,73</priceEach>
+        <priceEach>66.73</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>135</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>37,09</priceEach>
+        <priceEach>37.09</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>135</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>88,6</priceEach>
+        <priceEach>88.6</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>135</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>92,74</priceEach>
+        <priceEach>92.74</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>135</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>116,28</priceEach>
+        <priceEach>116.28</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>135</id>
 		<productCode>S700_3167</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>73,6</priceEach>
+        <priceEach>73.6</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>135</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>70,33</priceEach>
+        <priceEach>70.33</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element> </details>');
 
@@ -9259,21 +9259,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>136</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>105,86</priceEach>
+        <priceEach>105.86</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>136</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>52,7</priceEach>
+        <priceEach>52.7</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>136</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>65,51</priceEach>
+        <priceEach>65.51</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -9282,42 +9282,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>137</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>91,87</priceEach>
+        <priceEach>91.87</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>137</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>158,8</priceEach>
+        <priceEach>158.8</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>137</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>129,53</priceEach>
+        <priceEach>129.53</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>137</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>49,74</priceEach>
+        <priceEach>49.74</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>137</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>109,32</priceEach>
+        <priceEach>109.32</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>137</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>62,33</priceEach>
+        <priceEach>62.33</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
@@ -9331,14 +9331,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>137</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>94,91</priceEach>
+        <priceEach>94.91</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>137</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>78,92</priceEach>
+        <priceEach>78.92</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -9347,56 +9347,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>138</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>161,49</priceEach>
+        <priceEach>161.49</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>138</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>104,52</priceEach>
+        <priceEach>104.52</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>138</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>73,42</priceEach>
+        <priceEach>73.42</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>138</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>68,35</priceEach>
+        <priceEach>68.35</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>138</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>144,05</priceEach>
+        <priceEach>144.05</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>138</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>120,53</priceEach>
+        <priceEach>120.53</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>138</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>53,88</priceEach>
+        <priceEach>53.88</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>138</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>67,91</priceEach>
+        <priceEach>67.91</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element> </details>');
 
@@ -9405,35 +9405,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>139</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>100,19</priceEach>
+        <priceEach>100.19</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>139</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>70,07</priceEach>
+        <priceEach>70.07</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>139</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>135,47</priceEach>
+        <priceEach>135.47</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>139</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>32,47</priceEach>
+        <priceEach>32.47</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>139</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>133,41</priceEach>
+        <priceEach>133.41</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -9442,21 +9442,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>140</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>125,97</priceEach>
+        <priceEach>125.97</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>140</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>136,56</priceEach>
+        <priceEach>136.56</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>140</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>134,22</priceEach>
+        <priceEach>134.22</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -9465,7 +9465,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>141</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>119,46</priceEach>
+        <priceEach>119.46</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
@@ -9479,70 +9479,70 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>141</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>55,7</priceEach>
+        <priceEach>55.7</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>141</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>126,72</priceEach>
+        <priceEach>126.72</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>141</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>77,31</priceEach>
+        <priceEach>77.31</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>141</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>62,72</priceEach>
+        <priceEach>62.72</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>141</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>72,02</priceEach>
+        <priceEach>72.02</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>141</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>47,29</priceEach>
+        <priceEach>47.29</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>141</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>89,05</priceEach>
+        <priceEach>89.05</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>141</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>117,44</priceEach>
+        <priceEach>117.44</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>141</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>69,34</priceEach>
+        <priceEach>69.34</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>141</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>107,08</priceEach>
+        <priceEach>107.08</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element> </details>');
 
@@ -9551,7 +9551,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>142</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>36,52</priceEach>
+        <priceEach>36.52</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -9560,14 +9560,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>143</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>111,87</priceEach>
+        <priceEach>111.87</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>143</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>30,87</priceEach>
+        <priceEach>30.87</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -9576,63 +9576,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>144</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>99,66</priceEach>
+        <priceEach>99.66</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>144</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>48,52</priceEach>
+        <priceEach>48.52</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>144</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>141,75</priceEach>
+        <priceEach>141.75</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>144</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>87,13</priceEach>
+        <priceEach>87.13</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>144</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>54,96</priceEach>
+        <priceEach>54.96</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>144</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>85,87</priceEach>
+        <priceEach>85.87</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>144</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>87,3</priceEach>
+        <priceEach>87.3</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>144</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>42,11</priceEach>
+        <priceEach>42.11</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>144</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>97,39</priceEach>
+        <priceEach>97.39</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -9641,63 +9641,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>145</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>195,01</priceEach>
+        <priceEach>195.01</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>145</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>147,74</priceEach>
+        <priceEach>147.74</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>145</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>120,27</priceEach>
+        <priceEach>120.27</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>145</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>114,34</priceEach>
+        <priceEach>114.34</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>145</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>111,39</priceEach>
+        <priceEach>111.39</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>145</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>48,8</priceEach>
+        <priceEach>48.8</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>145</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>81,86</priceEach>
+        <priceEach>81.86</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>145</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>54,94</priceEach>
+        <priceEach>54.94</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>145</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>81,93</priceEach>
+        <priceEach>81.93</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -9706,77 +9706,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>146</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>99,54</priceEach>
+        <priceEach>99.54</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>146</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>144,08</priceEach>
+        <priceEach>144.08</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>146</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>100,64</priceEach>
+        <priceEach>100.64</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>146</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>57,73</priceEach>
+        <priceEach>57.73</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>146</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>145,63</priceEach>
+        <priceEach>145.63</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>146</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>46,24</priceEach>
+        <priceEach>46.24</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>146</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>118,84</priceEach>
+        <priceEach>118.84</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>146</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>34,65</priceEach>
+        <priceEach>34.65</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>146</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>100,54</priceEach>
+        <priceEach>100.54</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>146</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>45,45</priceEach>
+        <priceEach>45.45</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>146</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>113,44</priceEach>
+        <priceEach>113.44</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -9785,42 +9785,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>147</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>195,33</priceEach>
+        <priceEach>195.33</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>147</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>140,5</priceEach>
+        <priceEach>140.5</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>147</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>167,83</priceEach>
+        <priceEach>167.83</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>147</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>143,62</priceEach>
+        <priceEach>143.62</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>147</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>58,41</priceEach>
+        <priceEach>58.41</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>147</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>51,55</priceEach>
+        <priceEach>51.55</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -9829,56 +9829,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>148</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>126,48</priceEach>
+        <priceEach>126.48</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>148</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>80,86</priceEach>
+        <priceEach>80.86</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>148</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>133,86</priceEach>
+        <priceEach>133.86</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>148</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>95,8</priceEach>
+        <priceEach>95.8</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>148</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>87,77</priceEach>
+        <priceEach>87.77</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>148</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>122,89</priceEach>
+        <priceEach>122.89</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>148</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>85,85</priceEach>
+        <priceEach>85.85</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>148</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>83,02</priceEach>
+        <priceEach>83.02</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
@@ -9892,35 +9892,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>148</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>81,41</priceEach>
+        <priceEach>81.41</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>148</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>69,39</priceEach>
+        <priceEach>69.39</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>148</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>84,14</priceEach>
+        <priceEach>84.14</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>148</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>92,36</priceEach>
+        <priceEach>92.36</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>148</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>53,51</priceEach>
+        <priceEach>53.51</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element> </details>');
 
@@ -9929,35 +9929,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>149</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>88,93</priceEach>
+        <priceEach>88.93</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>149</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>54,81</priceEach>
+        <priceEach>54.81</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>149</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>65,75</priceEach>
+        <priceEach>65.75</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>149</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>85,99</priceEach>
+        <priceEach>85.99</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>149</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>49,16</priceEach>
+        <priceEach>49.16</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -9966,84 +9966,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>150</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>148,23</priceEach>
+        <priceEach>148.23</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>150</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>84,48</priceEach>
+        <priceEach>84.48</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>150</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>95,2</priceEach>
+        <priceEach>95.2</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>150</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>63,22</priceEach>
+        <priceEach>63.22</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>150</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>61,42</priceEach>
+        <priceEach>61.42</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>150</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>72,45</priceEach>
+        <priceEach>72.45</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>150</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>99,89</priceEach>
+        <priceEach>99.89</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>150</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>62,6</priceEach>
+        <priceEach>62.6</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>150</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>36,66</priceEach>
+        <priceEach>36.66</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>150</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>91,34</priceEach>
+        <priceEach>91.34</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>150</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>90,75</priceEach>
+        <priceEach>90.75</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>150</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>98,48</priceEach>
+        <priceEach>98.48</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
@@ -10057,7 +10057,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>150</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>65,89</priceEach>
+        <priceEach>65.89</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element> </details>');
 
@@ -10066,42 +10066,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>151</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>59</quantityOrdered>
-        <priceEach>93,79</priceEach>
+        <priceEach>93.79</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>151</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>115,37</priceEach>
+        <priceEach>115.37</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>151</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>172,36</priceEach>
+        <priceEach>172.36</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>151</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>129,53</priceEach>
+        <priceEach>129.53</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>151</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>58,15</priceEach>
+        <priceEach>58.15</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>151</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>91,29</priceEach>
+        <priceEach>91.29</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -10110,63 +10110,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>152</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>74,78</priceEach>
+        <priceEach>74.78</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>152</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>145,52</priceEach>
+        <priceEach>145.52</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>152</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>50,36</priceEach>
+        <priceEach>50.36</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>152</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>127,97</priceEach>
+        <priceEach>127.97</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>152</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>63,03</priceEach>
+        <priceEach>63.03</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>152</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>69,52</priceEach>
+        <priceEach>69.52</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>152</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>36,21</priceEach>
+        <priceEach>36.21</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>152</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>93,89</priceEach>
+        <priceEach>93.89</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>152</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>72,41</priceEach>
+        <priceEach>72.41</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element> </details>');
 
@@ -10175,98 +10175,98 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>153</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>157,6</priceEach>
+        <priceEach>157.6</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>153</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>102,17</priceEach>
+        <priceEach>102.17</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>153</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>67,03</priceEach>
+        <priceEach>67.03</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>153</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>109,4</priceEach>
+        <priceEach>109.4</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>153</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>130,22</priceEach>
+        <priceEach>130.22</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>153</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>103,29</priceEach>
+        <priceEach>103.29</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>153</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>67,76</priceEach>
+        <priceEach>67.76</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>153</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>130,87</priceEach>
+        <priceEach>130.87</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>153</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>114,84</priceEach>
+        <priceEach>114.84</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>153</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>145,63</priceEach>
+        <priceEach>145.63</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>153</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>139,87</priceEach>
+        <priceEach>139.87</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>153</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>34,74</priceEach>
+        <priceEach>34.74</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>153</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>50,82</priceEach>
+        <priceEach>50.82</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>153</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>115,15</priceEach>
+        <priceEach>115.15</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element> </details>');
 
@@ -10275,91 +10275,91 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>154</id>
 		<productCode>S18_1749</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>137,7</priceEach>
+        <priceEach>137.7</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>154</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>55,09</priceEach>
+        <priceEach>55.09</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>154</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>102,98</priceEach>
+        <priceEach>102.98</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>154</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>80,99</priceEach>
+        <priceEach>80.99</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>154</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>59,87</priceEach>
+        <priceEach>59.87</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>154</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>66,88</priceEach>
+        <priceEach>66.88</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>154</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>43,27</priceEach>
+        <priceEach>43.27</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>154</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>28,88</priceEach>
+        <priceEach>28.88</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>154</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>85,42</priceEach>
+        <priceEach>85.42</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>154</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>111,57</priceEach>
+        <priceEach>111.57</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>154</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>69,34</priceEach>
+        <priceEach>69.34</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>154</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>101,73</priceEach>
+        <priceEach>101.73</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>154</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>39,8</priceEach>
+        <priceEach>39.8</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -10375,7 +10375,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>155</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>37,63</priceEach>
+        <priceEach>37.63</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -10384,14 +10384,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>156</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>93,49</priceEach>
+        <priceEach>93.49</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>156</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>52,83</priceEach>
+        <priceEach>52.83</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -10400,35 +10400,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>157</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>92,19</priceEach>
+        <priceEach>92.19</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>157</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>59,34</priceEach>
+        <priceEach>59.34</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>157</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>83,78</priceEach>
+        <priceEach>83.78</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>157</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>91,27</priceEach>
+        <priceEach>91.27</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>157</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>81,81</priceEach>
+        <priceEach>81.81</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -10437,42 +10437,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>158</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>177,87</priceEach>
+        <priceEach>177.87</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>158</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>133,94</priceEach>
+        <priceEach>133.94</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>158</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>113,17</priceEach>
+        <priceEach>113.17</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>158</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>49,81</priceEach>
+        <priceEach>49.81</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>158</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>62,7</priceEach>
+        <priceEach>62.7</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>158</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>86,99</priceEach>
+        <priceEach>86.99</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -10481,91 +10481,91 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>159</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>121,15</priceEach>
+        <priceEach>121.15</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>159</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>117,32</priceEach>
+        <priceEach>117.32</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>159</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>134,26</priceEach>
+        <priceEach>134.26</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>159</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>120,28</priceEach>
+        <priceEach>120.28</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>159</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>59,55</priceEach>
+        <priceEach>59.55</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>159</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>152,41</priceEach>
+        <priceEach>152.41</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>159</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>107,76</priceEach>
+        <priceEach>107.76</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>159</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>46,82</priceEach>
+        <priceEach>46.82</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>159</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>121,4</priceEach>
+        <priceEach>121.4</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>159</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>31,47</priceEach>
+        <priceEach>31.47</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>159</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>95,35</priceEach>
+        <priceEach>95.35</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>159</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>45,99</priceEach>
+        <priceEach>45.99</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>159</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>105,33</priceEach>
+        <priceEach>105.33</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -10574,70 +10574,70 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>160</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>180,79</priceEach>
+        <priceEach>180.79</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>160</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>140,5</priceEach>
+        <priceEach>140.5</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>160</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>169,56</priceEach>
+        <priceEach>169.56</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>160</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>121,57</priceEach>
+        <priceEach>121.57</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>160</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>92,77</priceEach>
+        <priceEach>92.77</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>160</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>137,88</priceEach>
+        <priceEach>137.88</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>160</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>117,1</priceEach>
+        <priceEach>117.1</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>160</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>55,3</priceEach>
+        <priceEach>55.3</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>160</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>56,24</priceEach>
+        <priceEach>56.24</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>160</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>80,55</priceEach>
+        <priceEach>80.55</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -10646,28 +10646,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>161</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>116,96</priceEach>
+        <priceEach>116.96</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>161</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>80,75</priceEach>
+        <priceEach>80.75</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>161</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>105,69</priceEach>
+        <priceEach>105.69</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 <element>
 		<id>161</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>79,66</priceEach>
+        <priceEach>79.66</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
@@ -10681,28 +10681,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>161</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>58,55</priceEach>
+        <priceEach>58.55</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>161</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>89,15</priceEach>
+        <priceEach>89.15</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>161</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>88,39</priceEach>
+        <priceEach>88.39</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>161</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>43,68</priceEach>
+        <priceEach>43.68</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>	</details>');
 
@@ -10711,112 +10711,112 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>162</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>157,69</priceEach>
+        <priceEach>157.69</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>162</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>81,72</priceEach>
+        <priceEach>81.72</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>162</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>85,75</priceEach>
+        <priceEach>85.75</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>162</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>98,48</priceEach>
+        <priceEach>98.48</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>162</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>63,71</priceEach>
+        <priceEach>63.71</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>162</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>65,75</priceEach>
+        <priceEach>65.75</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>162</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>82,18</priceEach>
+        <priceEach>82.18</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>162</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>58,69</priceEach>
+        <priceEach>58.69</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>162</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>63,97</priceEach>
+        <priceEach>63.97</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>162</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>35,78</priceEach>
+        <priceEach>35.78</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>162</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>87,69</priceEach>
+        <priceEach>87.69</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>162</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>83,28</priceEach>
+        <priceEach>83.28</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>162</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>81,77</priceEach>
+        <priceEach>81.77</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>162</id>
 		<productCode>S700_3167</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>64,8</priceEach>
+        <priceEach>64.8</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>162</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>64,41</priceEach>
+        <priceEach>64.41</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>162</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>41,71</priceEach>
+        <priceEach>41.71</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element> </details>');
 
@@ -10832,70 +10832,70 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>163</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>107,05</priceEach>
+        <priceEach>107.05</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>163</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>193,66</priceEach>
+        <priceEach>193.66</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>163</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>123,51</priceEach>
+        <priceEach>123.51</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>163</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>67,58</priceEach>
+        <priceEach>67.58</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>163</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>50,27</priceEach>
+        <priceEach>50.27</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>163</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>109,32</priceEach>
+        <priceEach>109.32</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>163</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>67,03</priceEach>
+        <priceEach>67.03</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>163</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>59,41</priceEach>
+        <priceEach>59.41</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>163</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>93,9</priceEach>
+        <priceEach>93.9</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>163</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>117,46</priceEach>
+        <priceEach>117.46</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element> </details>');
 
@@ -10904,49 +10904,49 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>164</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>58,44</priceEach>
+        <priceEach>58.44</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>164</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>124,99</priceEach>
+        <priceEach>124.99</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>164</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>61,64</priceEach>
+        <priceEach>61.64</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>164</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>75,18</priceEach>
+        <priceEach>75.18</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>164</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>39,02</priceEach>
+        <priceEach>39.02</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>164</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>100,01</priceEach>
+        <priceEach>100.01</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>164</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>67,53</priceEach>
+        <priceEach>67.53</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -10955,14 +10955,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>165</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>74,78</priceEach>
+        <priceEach>74.78</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>165</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>123,47</priceEach>
+        <priceEach>123.47</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -10971,42 +10971,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>166</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>188,73</priceEach>
+        <priceEach>188.73</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>166</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>110,39</priceEach>
+        <priceEach>110.39</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>166</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>67,83</priceEach>
+        <priceEach>67.83</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>166</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>112,86</priceEach>
+        <priceEach>112.86</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>166</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>131,63</priceEach>
+        <priceEach>131.63</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>166</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>99,55</priceEach>
+        <priceEach>99.55</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
@@ -11020,56 +11020,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>166</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>139,41</priceEach>
+        <priceEach>139.41</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>166</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>113,52</priceEach>
+        <priceEach>113.52</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>166</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>137,17</priceEach>
+        <priceEach>137.17</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>166</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>127,15</priceEach>
+        <priceEach>127.15</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>166</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>40,25</priceEach>
+        <priceEach>40.25</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>166</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>35,12</priceEach>
+        <priceEach>35.12</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>166</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>56,33</priceEach>
+        <priceEach>56.33</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>166</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>119,37</priceEach>
+        <priceEach>119.37</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element> </details>');
 
@@ -11078,42 +11078,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>167</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>71,27</priceEach>
+        <priceEach>71.27</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>167</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>72,02</priceEach>
+        <priceEach>72.02</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>167</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>76,33</priceEach>
+        <priceEach>76.33</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>167</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>93,95</priceEach>
+        <priceEach>93.95</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>167</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>83,9</priceEach>
+        <priceEach>83.9</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>167</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>98,51</priceEach>
+        <priceEach>98.51</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -11122,77 +11122,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>168</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>93,49</priceEach>
+        <priceEach>93.49</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>168</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>45,82</priceEach>
+        <priceEach>45.82</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>168</id>
 		<productCode>S18_1749</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>164,9</priceEach>
+        <priceEach>164.9</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>168</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>60,54</priceEach>
+        <priceEach>60.54</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>168</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>124,59</priceEach>
+        <priceEach>124.59</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>168</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>148,5</priceEach>
+        <priceEach>148.5</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>168</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>96,23</priceEach>
+        <priceEach>96.23</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>168</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>84,67</priceEach>
+        <priceEach>84.67</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>168</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>31,86</priceEach>
+        <priceEach>31.86</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>168</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>36,29</priceEach>
+        <priceEach>36.29</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>168</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>37,75</priceEach>
+        <priceEach>37.75</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element> </details>');
 
@@ -11201,14 +11201,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>169</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>57,46</priceEach>
+        <priceEach>57.46</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>169</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>95,44</priceEach>
+        <priceEach>95.44</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -11217,77 +11217,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>170</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>171,44</priceEach>
+        <priceEach>171.44</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>170</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>124,1</priceEach>
+        <priceEach>124.1</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>170</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>135,3</priceEach>
+        <priceEach>135.3</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>170</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>94,5</priceEach>
+        <priceEach>94.5</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>170</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>81,05</priceEach>
+        <priceEach>81.05</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>170</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>85,87</priceEach>
+        <priceEach>85.87</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>170</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>107,76</priceEach>
+        <priceEach>107.76</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>170</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>40,25</priceEach>
+        <priceEach>40.25</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>170</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>93,42</priceEach>
+        <priceEach>93.42</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>170</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>52,36</priceEach>
+        <priceEach>52.36</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>170</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>101,15</priceEach>
+        <priceEach>101.15</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -11296,56 +11296,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>171</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>99,54</priceEach>
+        <priceEach>99.54</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>171</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>147,36</priceEach>
+        <priceEach>147.36</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>171</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>121,5</priceEach>
+        <priceEach>121.5</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>171</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>59,55</priceEach>
+        <priceEach>59.55</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>171</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>169,34</priceEach>
+        <priceEach>169.34</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>171</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>49,71</priceEach>
+        <priceEach>49.71</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>171</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>122,68</priceEach>
+        <priceEach>122.68</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>171</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>28,64</priceEach>
+        <priceEach>28.64</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
@@ -11359,14 +11359,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>171</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>51,95</priceEach>
+        <priceEach>51.95</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>171</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>93,76</priceEach>
+        <priceEach>93.76</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -11375,42 +11375,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>172</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>187,02</priceEach>
+        <priceEach>187.02</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>172</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>123,89</priceEach>
+        <priceEach>123.89</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>172</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>148,8</priceEach>
+        <priceEach>148.8</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>172</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>126,39</priceEach>
+        <priceEach>126.39</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>172</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>56,55</priceEach>
+        <priceEach>56.55</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>172</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>53,89</priceEach>
+        <priceEach>53.89</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -11426,56 +11426,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>173</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>84,3</priceEach>
+        <priceEach>84.3</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>173</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>117,47</priceEach>
+        <priceEach>117.47</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>173</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>87,73</priceEach>
+        <priceEach>87.73</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>173</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>105,87</priceEach>
+        <priceEach>105.87</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>173</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>72,85</priceEach>
+        <priceEach>72.85</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>173</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>103,23</priceEach>
+        <priceEach>103.23</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>173</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>84,08</priceEach>
+        <priceEach>84.08</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>173</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>83,86</priceEach>
+        <priceEach>83.86</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
@@ -11489,35 +11489,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>173</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>77,95</priceEach>
+        <priceEach>77.95</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>173</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>57,82</priceEach>
+        <priceEach>57.82</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>173</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>91,15</priceEach>
+        <priceEach>91.15</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>173</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>89,38</priceEach>
+        <priceEach>89.38</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>173</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>51,32</priceEach>
+        <priceEach>51.32</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element> </details>');
 
@@ -11526,35 +11526,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>174</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>129,31</priceEach>
+        <priceEach>129.31</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>174</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>56,86</priceEach>
+        <priceEach>56.86</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>174</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>65,09</priceEach>
+        <priceEach>65.09</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>174</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>75,13</priceEach>
+        <priceEach>75.13</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>174</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>49,66</priceEach>
+        <priceEach>49.66</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -11563,56 +11563,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>175</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>81,35</priceEach>
+        <priceEach>81.35</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>175</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>115,37</priceEach>
+        <priceEach>115.37</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>175</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>154,93</priceEach>
+        <priceEach>154.93</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>175</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>70,12</priceEach>
+        <priceEach>70.12</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>175</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>52,09</priceEach>
+        <priceEach>52.09</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>175</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>105,94</priceEach>
+        <priceEach>105.94</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>175</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>97,38</priceEach>
+        <priceEach>97.38</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>175</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>61,7</priceEach>
+        <priceEach>61.7</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
@@ -11626,49 +11626,49 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>175</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>67,38</priceEach>
+        <priceEach>67.38</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>175</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>89,9</priceEach>
+        <priceEach>89.9</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>175</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>58,47</priceEach>
+        <priceEach>58.47</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>175</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>40,15</priceEach>
+        <priceEach>40.15</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>175</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>85,86</priceEach>
+        <priceEach>85.86</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>175</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>82,77</priceEach>
+        <priceEach>82.77</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>175</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>102,04</priceEach>
+        <priceEach>102.04</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
@@ -11682,7 +11682,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>175</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>59,96</priceEach>
+        <priceEach>59.96</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element> </details>');
 
@@ -11691,28 +11691,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>176</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>184,84</priceEach>
+        <priceEach>184.84</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>176</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>150,62</priceEach>
+        <priceEach>150.62</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>176</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>104,52</priceEach>
+        <priceEach>104.52</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>176</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>67,83</priceEach>
+        <priceEach>67.83</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
@@ -11726,63 +11726,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>176</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>139,64</priceEach>
+        <priceEach>139.64</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>176</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>54,71</priceEach>
+        <priceEach>54.71</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>176</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>120,53</priceEach>
+        <priceEach>120.53</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>176</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>61,64</priceEach>
+        <priceEach>61.64</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>176</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>58,17</priceEach>
+        <priceEach>58.17</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>176</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>67,1</priceEach>
+        <priceEach>67.1</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>176</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>35,4</priceEach>
+        <priceEach>35.4</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>176</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>94,91</priceEach>
+        <priceEach>94.91</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>176</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>67,53</priceEach>
+        <priceEach>67.53</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element> </details>');
 
@@ -11791,7 +11791,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>177</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>93,28</priceEach>
+        <priceEach>93.28</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -11800,70 +11800,70 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>178</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>114,65</priceEach>
+        <priceEach>114.65</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>178</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>107,02</priceEach>
+        <priceEach>107.02</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>178</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>73,15</priceEach>
+        <priceEach>73.15</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>178</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>118,07</priceEach>
+        <priceEach>118.07</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>178</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>117,48</priceEach>
+        <priceEach>117.48</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>178</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>167,65</priceEach>
+        <priceEach>167.65</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>178</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>114,44</priceEach>
+        <priceEach>114.44</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>178</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>48,8</priceEach>
+        <priceEach>48.8</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>178</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>37,38</priceEach>
+        <priceEach>37.38</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>178</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>136,22</priceEach>
+        <priceEach>136.22</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element> </details>');
 
@@ -11872,42 +11872,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>179</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>68,42</priceEach>
+        <priceEach>68.42</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>179</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>68,35</priceEach>
+        <priceEach>68.35</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>179</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>76,33</priceEach>
+        <priceEach>76.33</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>179</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>106,87</priceEach>
+        <priceEach>106.87</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>179</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>78,76</priceEach>
+        <priceEach>78.76</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>179</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>95,3</priceEach>
+        <priceEach>95.3</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -11916,7 +11916,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>180</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>205,73</priceEach>
+        <priceEach>205.73</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
@@ -11930,105 +11930,105 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>180</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>87,33</priceEach>
+        <priceEach>87.33</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>180</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>47,44</priceEach>
+        <priceEach>47.44</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>180</id>
 		<productCode>S18_1749</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>161,5</priceEach>
+        <priceEach>161.5</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>180</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>53,28</priceEach>
+        <priceEach>53.28</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>180</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>109,33</priceEach>
+        <priceEach>109.33</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>180</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>158,63</priceEach>
+        <priceEach>158.63</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>180</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>82,06</priceEach>
+        <priceEach>82.06</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>180</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>54,34</priceEach>
+        <priceEach>54.34</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>180</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>102,63</priceEach>
+        <priceEach>102.63</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>180</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>99,21</priceEach>
+        <priceEach>99.21</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>180</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>77,31</priceEach>
+        <priceEach>77.31</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>180</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>29,87</priceEach>
+        <priceEach>29.87</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>180</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>36,29</priceEach>
+        <priceEach>36.29</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>180</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>35,29</priceEach>
+        <priceEach>35.29</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>180</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>79,86</priceEach>
+        <priceEach>79.86</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -12037,98 +12037,98 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>181</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>132,97</priceEach>
+        <priceEach>132.97</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>181</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>127,1</priceEach>
+        <priceEach>127.1</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>181</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>98,36</priceEach>
+        <priceEach>98.36</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>181</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>114,14</priceEach>
+        <priceEach>114.14</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>181</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>56,52</priceEach>
+        <priceEach>56.52</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>181</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>135,47</priceEach>
+        <priceEach>135.47</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>181</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>96,86</priceEach>
+        <priceEach>96.86</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>181</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>42,76</priceEach>
+        <priceEach>42.76</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>181</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>112,46</priceEach>
+        <priceEach>112.46</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>181</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>33,95</priceEach>
+        <priceEach>33.95</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>181</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>80,9</priceEach>
+        <priceEach>80.9</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>181</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>44,91</priceEach>
+        <priceEach>44.91</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>181</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>59,47</priceEach>
+        <priceEach>59.47</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>181</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>89,01</priceEach>
+        <priceEach>89.01</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element> </details>');
 
@@ -12137,91 +12137,91 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>182</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>176,63</priceEach>
+        <priceEach>176.63</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>182</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>142,02</priceEach>
+        <priceEach>142.02</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>182</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>169,56</priceEach>
+        <priceEach>169.56</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>182</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>147,36</priceEach>
+        <priceEach>147.36</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>182</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>122,93</priceEach>
+        <priceEach>122.93</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>182</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>88,74</priceEach>
+        <priceEach>88.74</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>182</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>132,13</priceEach>
+        <priceEach>132.13</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>182</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>49,71</priceEach>
+        <priceEach>49.71</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>182</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>96,99</priceEach>
+        <priceEach>96.99</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>182</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>51,58</priceEach>
+        <priceEach>51.58</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>182</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>114,59</priceEach>
+        <priceEach>114.59</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>182</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>56,24</priceEach>
+        <priceEach>56.24</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>182</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>77,95</priceEach>
+        <priceEach>77.95</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -12230,49 +12230,49 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>183</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>130,56</priceEach>
+        <priceEach>130.56</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>183</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>78,28</priceEach>
+        <priceEach>78.28</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>183</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>100,58</priceEach>
+        <priceEach>100.58</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>183</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>71,97</priceEach>
+        <priceEach>71.97</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>183</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>99,54</priceEach>
+        <priceEach>99.54</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>183</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>80,54</priceEach>
+        <priceEach>80.54</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>183</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>77,15</priceEach>
+        <priceEach>77.15</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
@@ -12286,42 +12286,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>183</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>74,23</priceEach>
+        <priceEach>74.23</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>183</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>68,67</priceEach>
+        <priceEach>68.67</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>183</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>88,15</priceEach>
+        <priceEach>88.15</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>183</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>85,41</priceEach>
+        <priceEach>85.41</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>183</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>41,22</priceEach>
+        <priceEach>41.22</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>183</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>49,14</priceEach>
+        <priceEach>49.14</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element> </details>');
 
@@ -12330,77 +12330,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>184</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>137,19</priceEach>
+        <priceEach>137.19</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>184</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>68,43</priceEach>
+        <priceEach>68.43</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>184</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>101,76</priceEach>
+        <priceEach>101.76</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>184</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>65,08</priceEach>
+        <priceEach>65.08</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>184</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>59,83</priceEach>
+        <priceEach>59.83</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>184</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>65,51</priceEach>
+        <priceEach>65.51</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>184</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>66,65</priceEach>
+        <priceEach>66.65</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>184</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>60,54</priceEach>
+        <priceEach>60.54</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>184</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>35,78</priceEach>
+        <priceEach>35.78</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>184</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>87,69</priceEach>
+        <priceEach>87.69</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>184</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>95,73</priceEach>
+        <priceEach>95.73</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
@@ -12414,7 +12414,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>184</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>73,29</priceEach>
+        <priceEach>73.29</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element> </details>');
 
@@ -12423,91 +12423,91 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>185</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>95,7</priceEach>
+        <priceEach>95.7</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>185</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>110,61</priceEach>
+        <priceEach>110.61</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>185</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>166,55</priceEach>
+        <priceEach>166.55</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 <element>
 		<id>185</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>131,04</priceEach>
+        <priceEach>131.04</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>185</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>50,88</priceEach>
+        <priceEach>50.88</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>185</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>91,29</priceEach>
+        <priceEach>91.29</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>185</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>61,7</priceEach>
+        <priceEach>61.7</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>185</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>64,41</priceEach>
+        <priceEach>64.41</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>185</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>82,91</priceEach>
+        <priceEach>82.91</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>185</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>36,61</priceEach>
+        <priceEach>36.61</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>185</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>100,01</priceEach>
+        <priceEach>100.01</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>185</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>76,48</priceEach>
+        <priceEach>76.48</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>185</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>102,04</priceEach>
+        <priceEach>102.04</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>	</details>');
 
@@ -12516,7 +12516,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>186</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>51,6</priceEach>
+        <priceEach>51.6</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -12525,119 +12525,119 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>187</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>190,68</priceEach>
+        <priceEach>190.68</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>187</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>117,44</priceEach>
+        <priceEach>117.44</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>187</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>74,21</priceEach>
+        <priceEach>74.21</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>187</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>107,1</priceEach>
+        <priceEach>107.1</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>187</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>113,23</priceEach>
+        <priceEach>113.23</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>187</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>61,6</priceEach>
+        <priceEach>61.6</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>187</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>123,76</priceEach>
+        <priceEach>123.76</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>187</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>114,84</priceEach>
+        <priceEach>114.84</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>187</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>137,17</priceEach>
+        <priceEach>137.17</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>187</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>68,35</priceEach>
+        <priceEach>68.35</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>187</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>127,88</priceEach>
+        <priceEach>127.88</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>187</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>139,87</priceEach>
+        <priceEach>139.87</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>187</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>119,04</priceEach>
+        <priceEach>119.04</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>187</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>31,34</priceEach>
+        <priceEach>31.34</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>187</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>58,17</priceEach>
+        <priceEach>58.17</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>187</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>137,62</priceEach>
+        <priceEach>137.62</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>187</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>79,22</priceEach>
+        <priceEach>79.22</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element> </details>');
 
@@ -12646,98 +12646,98 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>188</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>120,71</priceEach>
+        <priceEach>120.71</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>188</id>
 		<productCode>S18_1749</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>168,3</priceEach>
+        <priceEach>168.3</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>188</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>50,25</priceEach>
+        <priceEach>50.25</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>188</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>102,98</priceEach>
+        <priceEach>102.98</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>188</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>90,19</priceEach>
+        <priceEach>90.19</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>188</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>57,02</priceEach>
+        <priceEach>57.02</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>188</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>66,88</priceEach>
+        <priceEach>66.88</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>188</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>49,3</priceEach>
+        <priceEach>49.3</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>188</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>32,19</priceEach>
+        <priceEach>32.19</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>188</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>81,78</priceEach>
+        <priceEach>81.78</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>188</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>109,22</priceEach>
+        <priceEach>109.22</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>188</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>76,19</priceEach>
+        <priceEach>76.19</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>188</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>101,73</priceEach>
+        <priceEach>101.73</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>188</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>37,75</priceEach>
+        <priceEach>37.75</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -12746,28 +12746,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>189</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>92,47</priceEach>
+        <priceEach>92.47</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>189</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>44,75</priceEach>
+        <priceEach>44.75</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>189</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>141,75</priceEach>
+        <priceEach>141.75</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>189</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>41,22</priceEach>
+        <priceEach>41.22</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -12776,14 +12776,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>190</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>80,36</priceEach>
+        <priceEach>80.36</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>190</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>83,76</priceEach>
+        <priceEach>83.76</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -12792,14 +12792,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>191</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>210,01</priceEach>
+        <priceEach>210.01</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>191</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>141,83</priceEach>
+        <priceEach>141.83</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
@@ -12813,63 +12813,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>191</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>96,84</priceEach>
+        <priceEach>96.84</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>191</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>52,26</priceEach>
+        <priceEach>52.26</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>191</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>99,28</priceEach>
+        <priceEach>99.28</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>191</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>56,21</priceEach>
+        <priceEach>56.21</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>191</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>93,2</priceEach>
+        <priceEach>93.2</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>191</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>96,86</priceEach>
+        <priceEach>96.86</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>191</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>45,28</priceEach>
+        <priceEach>45.28</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>191</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>109,9</priceEach>
+        <priceEach>109.9</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>191</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>82,83</priceEach>
+        <priceEach>82.83</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
@@ -12883,7 +12883,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>191</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>86,99</priceEach>
+        <priceEach>86.99</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -12892,84 +12892,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>192</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>94,8</priceEach>
+        <priceEach>94.8</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>192</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>140,81</priceEach>
+        <priceEach>140.81</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>192</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>103,09</priceEach>
+        <priceEach>103.09</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>192</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>147,33</priceEach>
+        <priceEach>147.33</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>192</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>114,9</priceEach>
+        <priceEach>114.9</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>192</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>48,55</priceEach>
+        <priceEach>48.55</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>192</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>34,3</priceEach>
+        <priceEach>34.3</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>192</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>113,55</priceEach>
+        <priceEach>113.55</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>192</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>54,11</priceEach>
+        <priceEach>54.11</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>192</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>59,65</priceEach>
+        <priceEach>59.65</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>192</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>113,44</priceEach>
+        <priceEach>113.44</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>192</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>49,79</priceEach>
+        <priceEach>49.79</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -12978,63 +12978,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>193</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>187,02</priceEach>
+        <priceEach>187.02</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>193</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>129,93</priceEach>
+        <priceEach>129.93</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>193</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>171,29</priceEach>
+        <priceEach>171.29</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>193</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>110,64</priceEach>
+        <priceEach>110.64</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>193</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>91,76</priceEach>
+        <priceEach>91.76</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>193</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>72,85</priceEach>
+        <priceEach>72.85</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>193</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>111,83</priceEach>
+        <priceEach>111.83</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>193</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>77,95</priceEach>
+        <priceEach>77.95</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>193</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>51,32</priceEach>
+        <priceEach>51.32</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -13043,7 +13043,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>194</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>98,32</priceEach>
+        <priceEach>98.32</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -13059,7 +13059,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>195</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>84,08</priceEach>
+        <priceEach>84.08</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
@@ -13073,14 +13073,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>195</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>71,56</priceEach>
+        <priceEach>71.56</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>195</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>93,16</priceEach>
+        <priceEach>93.16</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -13089,98 +13089,98 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>196</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>146,65</priceEach>
+        <priceEach>146.65</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>196</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>69,68</priceEach>
+        <priceEach>69.68</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>196</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>105,87</priceEach>
+        <priceEach>105.87</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>196</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>60,97</priceEach>
+        <priceEach>60.97</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>196</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>63,78</priceEach>
+        <priceEach>63.78</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>196</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>83,02</priceEach>
+        <priceEach>83.02</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>196</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>63,46</priceEach>
+        <priceEach>63.46</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>196</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>41,02</priceEach>
+        <priceEach>41.02</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>196</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>75,81</priceEach>
+        <priceEach>75.81</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>196</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>89,61</priceEach>
+        <priceEach>89.61</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>196</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>96,73</priceEach>
+        <priceEach>96.73</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>196</id>
 		<productCode>S700_3167</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>74,4</priceEach>
+        <priceEach>74.4</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>196</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>61,44</priceEach>
+        <priceEach>61.44</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>196</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>46,68</priceEach>
+        <priceEach>46.68</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element> </details>');
 
@@ -13189,49 +13189,49 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>197</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>81,95</priceEach>
+        <priceEach>81.95</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>197</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>107,23</priceEach>
+        <priceEach>107.23</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>197</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>70,08</priceEach>
+        <priceEach>70.08</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>197</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>71,73</priceEach>
+        <priceEach>71.73</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>197</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>88,9</priceEach>
+        <priceEach>88.9</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>197</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>63,29</priceEach>
+        <priceEach>63.29</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>197</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>111,53</priceEach>
+        <priceEach>111.53</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -13240,14 +13240,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>198</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>105,86</priceEach>
+        <priceEach>105.86</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>198</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>60,57</priceEach>
+        <priceEach>60.57</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -13256,77 +13256,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>199</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>76,56</priceEach>
+        <priceEach>76.56</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>199</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>164,61</priceEach>
+        <priceEach>164.61</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>199</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>123,51</priceEach>
+        <priceEach>123.51</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>199</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>62,17</priceEach>
+        <priceEach>62.17</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>199</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>119,04</priceEach>
+        <priceEach>119.04</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>199</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>107,07</priceEach>
+        <priceEach>107.07</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>199</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>58,87</priceEach>
+        <priceEach>58.87</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>199</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>66,29</priceEach>
+        <priceEach>66.29</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>199</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>36,21</priceEach>
+        <priceEach>36.21</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>199</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>84,7</priceEach>
+        <priceEach>84.7</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>199</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>77,29</priceEach>
+        <priceEach>77.29</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -13335,56 +13335,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>200</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>184,84</priceEach>
+        <priceEach>184.84</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>200</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>116,27</priceEach>
+        <priceEach>116.27</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>200</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>76,61</priceEach>
+        <priceEach>76.61</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>200</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>95,58</priceEach>
+        <priceEach>95.58</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>200</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>63,14</priceEach>
+        <priceEach>63.14</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>200</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>65,94</priceEach>
+        <priceEach>65.94</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>200</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>144,05</priceEach>
+        <priceEach>144.05</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>200</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>52,05</priceEach>
+        <priceEach>52.05</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -13393,77 +13393,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>201</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>114,65</priceEach>
+        <priceEach>114.65</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>201</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>118,22</priceEach>
+        <priceEach>118.22</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>201</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>119,49</priceEach>
+        <priceEach>119.49</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>201</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>113,52</priceEach>
+        <priceEach>113.52</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>201</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>135,47</priceEach>
+        <priceEach>135.47</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>201</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>137,04</priceEach>
+        <priceEach>137.04</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>201</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>64,67</priceEach>
+        <priceEach>64.67</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>201</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>40,75</priceEach>
+        <priceEach>40.75</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>201</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>32,1</priceEach>
+        <priceEach>32.1</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>201</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>86,73</priceEach>
+        <priceEach>86.73</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>201</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>122,17</priceEach>
+        <priceEach>122.17</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element> </details>');
 
@@ -13472,42 +13472,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>202</id>
 		<productCode>S18_1749</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>166,6</priceEach>
+        <priceEach>166.6</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>202</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>82,83</priceEach>
+        <priceEach>82.83</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>202</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>70,56</priceEach>
+        <priceEach>70.56</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>202</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>75,42</priceEach>
+        <priceEach>75.42</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>202</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>104,52</priceEach>
+        <priceEach>104.52</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>202</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>74,48</priceEach>
+        <priceEach>74.48</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -13516,14 +13516,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>203</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>56,91</priceEach>
+        <priceEach>56.91</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>203</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>35,7</priceEach>
+        <priceEach>35.7</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -13532,119 +13532,119 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>204</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>201,44</priceEach>
+        <priceEach>201.44</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>204</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>117,54</priceEach>
+        <priceEach>117.54</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>204</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>106,17</priceEach>
+        <priceEach>106.17</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>204</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>95,55</priceEach>
+        <priceEach>95.55</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>204</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>46,9</priceEach>
+        <priceEach>46.9</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>204</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>102,98</priceEach>
+        <priceEach>102.98</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>204</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>141,75</priceEach>
+        <priceEach>141.75</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>204</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>98,27</priceEach>
+        <priceEach>98.27</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>204</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>54,34</priceEach>
+        <priceEach>54.34</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>204</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>90,06</priceEach>
+        <priceEach>90.06</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>204</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>95,24</priceEach>
+        <priceEach>95.24</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>204</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>44,27</priceEach>
+        <priceEach>44.27</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>204</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>29,21</priceEach>
+        <priceEach>29.21</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>204</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>42,11</priceEach>
+        <priceEach>42.11</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>204</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>80,83</priceEach>
+        <priceEach>80.83</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>204</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>52,36</priceEach>
+        <priceEach>52.36</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>204</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>80,92</priceEach>
+        <priceEach>80.92</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -13653,98 +13653,98 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>205</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>130,01</priceEach>
+        <priceEach>130.01</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>205</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>107,84</priceEach>
+        <priceEach>107.84</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>205</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>132,62</priceEach>
+        <priceEach>132.62</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>205</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>117,82</priceEach>
+        <priceEach>117.82</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>205</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>58,95</priceEach>
+        <priceEach>58.95</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>205</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>160,87</priceEach>
+        <priceEach>160.87</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>205</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>112,6</priceEach>
+        <priceEach>112.6</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>205</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>48,55</priceEach>
+        <priceEach>48.55</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>205</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>107,34</priceEach>
+        <priceEach>107.34</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>205</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>30,76</priceEach>
+        <priceEach>30.76</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>205</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>118,28</priceEach>
+        <priceEach>118.28</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>205</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>94,38</priceEach>
+        <priceEach>94.38</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>205</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>48,7</priceEach>
+        <priceEach>48.7</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>205</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>109,96</priceEach>
+        <priceEach>109.96</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -13753,119 +13753,119 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>206</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>182,86</priceEach>
+        <priceEach>182.86</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>206</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>145,04</priceEach>
+        <priceEach>145.04</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>206</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>145,34</priceEach>
+        <priceEach>145.34</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>206</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>114,74</priceEach>
+        <priceEach>114.74</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>206</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>83,7</priceEach>
+        <priceEach>83.7</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>206</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>126,39</priceEach>
+        <priceEach>126.39</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>206</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>85,14</priceEach>
+        <priceEach>85.14</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>206</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>109,37</priceEach>
+        <priceEach>109.37</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>206</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>76,12</priceEach>
+        <priceEach>76.12</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>206</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>60,28</priceEach>
+        <priceEach>60.28</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>206</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>51,55</priceEach>
+        <priceEach>51.55</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>206</id>
 		<productCode>S700_1138</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>61,34</priceEach>
+        <priceEach>61.34</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>206</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>73,62</priceEach>
+        <priceEach>73.62</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>206</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>62,16</priceEach>
+        <priceEach>62.16</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>206</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>99,17</priceEach>
+        <priceEach>99.17</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>206</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>87,39</priceEach>
+        <priceEach>87.39</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>206</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>48,05</priceEach>
+        <priceEach>48.05</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -13874,63 +13874,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>207</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>118,32</priceEach>
+        <priceEach>118.32</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>207</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>135,61</priceEach>
+        <priceEach>135.61</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>207</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>71,4</priceEach>
+        <priceEach>71.4</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>207</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>92,11</priceEach>
+        <priceEach>92.11</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>207</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>58,23</priceEach>
+        <priceEach>58.23</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>207</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>64,44</priceEach>
+        <priceEach>64.44</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>207</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>75,47</priceEach>
+        <priceEach>75.47</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>207</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>81,47</priceEach>
+        <priceEach>81.47</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>207</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>44,2</priceEach>
+        <priceEach>44.2</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -13939,42 +13939,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>208</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>115,37</priceEach>
+        <priceEach>115.37</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>208</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>187,85</priceEach>
+        <priceEach>187.85</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>208</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>81,95</priceEach>
+        <priceEach>81.95</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>208</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>48,46</priceEach>
+        <priceEach>48.46</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>208</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>99,57</priceEach>
+        <priceEach>99.57</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>208</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>68,55</priceEach>
+        <priceEach>68.55</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
@@ -13988,63 +13988,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>208</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>71,73</priceEach>
+        <priceEach>71.73</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>208</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>99,89</priceEach>
+        <priceEach>99.89</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>208</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>61,22</priceEach>
+        <priceEach>61.22</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>208</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>37,09</priceEach>
+        <priceEach>37.09</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>208</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>73,07</priceEach>
+        <priceEach>73.07</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>208</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>88,75</priceEach>
+        <priceEach>88.75</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>208</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>100,85</priceEach>
+        <priceEach>100.85</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>208</id>
 		<productCode>S700_3167</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>79,2</priceEach>
+        <priceEach>79.2</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>208</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>62,93</priceEach>
+        <priceEach>62.93</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element> </details>');
 
@@ -14053,42 +14053,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>209</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>94,74</priceEach>
+        <priceEach>94.74</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>209</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>144,6</priceEach>
+        <priceEach>144.6</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>209</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>96,92</priceEach>
+        <priceEach>96.92</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>209</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>59,56</priceEach>
+        <priceEach>59.56</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>209</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>93,89</priceEach>
+        <priceEach>93.89</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>209</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>74,04</priceEach>
+        <priceEach>74.04</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -14097,63 +14097,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>210</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>165,38</priceEach>
+        <priceEach>165.38</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>210</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>105,7</priceEach>
+        <priceEach>105.7</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>210</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>77,41</priceEach>
+        <priceEach>77.41</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>210</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>101,34</priceEach>
+        <priceEach>101.34</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>210</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>128,8</priceEach>
+        <priceEach>128.8</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>210</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>66,99</priceEach>
+        <priceEach>66.99</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>210</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>129,45</priceEach>
+        <priceEach>129.45</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>210</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>159,18</priceEach>
+        <priceEach>159.18</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>210</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>70,76</priceEach>
+        <priceEach>70.76</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
@@ -14167,49 +14167,49 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>210</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>59,06</priceEach>
+        <priceEach>59.06</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>210</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>133,92</priceEach>
+        <priceEach>133.92</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>210</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>33,23</priceEach>
+        <priceEach>33.23</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>210</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>50,21</priceEach>
+        <priceEach>50.21</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>210</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>139,03</priceEach>
+        <priceEach>139.03</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>210</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>75,18</priceEach>
+        <priceEach>75.18</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>210</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>38,62</priceEach>
+        <priceEach>38.62</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element> </details>');
 
@@ -14218,77 +14218,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>211</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>124,44</priceEach>
+        <priceEach>124.44</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>211</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>114,84</priceEach>
+        <priceEach>114.84</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>211</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>134,22</priceEach>
+        <priceEach>134.22</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>211</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>92,03</priceEach>
+        <priceEach>92.03</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>211</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>66,99</priceEach>
+        <priceEach>66.99</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>211</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>70,55</priceEach>
+        <priceEach>70.55</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>211</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>48,8</priceEach>
+        <priceEach>48.8</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>211</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>89,05</priceEach>
+        <priceEach>89.05</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>211</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>116,27</priceEach>
+        <priceEach>116.27</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>211</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>85,61</priceEach>
+        <priceEach>85.61</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>211</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>91,02</priceEach>
+        <priceEach>91.02</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element> </details>');
 
@@ -14297,119 +14297,119 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>212</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>214,3</priceEach>
+        <priceEach>214.3</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>212</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>101,5</priceEach>
+        <priceEach>101.5</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>212</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>102,74</priceEach>
+        <priceEach>102.74</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>212</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>43,67</priceEach>
+        <priceEach>43.67</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>212</id>
 		<productCode>S18_1749</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>146,2</priceEach>
+        <priceEach>146.2</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>212</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>48,43</priceEach>
+        <priceEach>48.43</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>212</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>111,87</priceEach>
+        <priceEach>111.87</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>212</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>150,19</priceEach>
+        <priceEach>150.19</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>212</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>91,18</priceEach>
+        <priceEach>91.18</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>212</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>54,34</priceEach>
+        <priceEach>54.34</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>212</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>93,2</priceEach>
+        <priceEach>93.2</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>212</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>84,33</priceEach>
+        <priceEach>84.33</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>212</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>44,27</priceEach>
+        <priceEach>44.27</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>212</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>27,88</priceEach>
+        <priceEach>27.88</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>212</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>43,46</priceEach>
+        <priceEach>43.46</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>212</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>40,21</priceEach>
+        <priceEach>40.21</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>212</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>96,42</priceEach>
+        <priceEach>96.42</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element> </details>');
 
@@ -14418,77 +14418,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>213</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>141,83</priceEach>
+        <priceEach>141.83</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>213</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>131,2</priceEach>
+        <priceEach>131.2</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>213</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>109,23</priceEach>
+        <priceEach>109.23</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>213</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>52,87</priceEach>
+        <priceEach>52.87</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>213</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>143,94</priceEach>
+        <priceEach>143.94</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>213</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>110,18</priceEach>
+        <priceEach>110.18</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>213</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>102,23</priceEach>
+        <priceEach>102.23</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>213</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>96,31</priceEach>
+        <priceEach>96.31</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>213</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>48,7</priceEach>
+        <priceEach>48.7</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>213</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>55,59</priceEach>
+        <priceEach>55.59</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>213</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>96,09</priceEach>
+        <priceEach>96.09</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element> </details>');
 
@@ -14497,105 +14497,105 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>214</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>176,63</priceEach>
+        <priceEach>176.63</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>214</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>125,4</priceEach>
+        <priceEach>125.4</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>214</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>169,56</priceEach>
+        <priceEach>169.56</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>214</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>95,99</priceEach>
+        <priceEach>95.99</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>214</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>135,9</priceEach>
+        <priceEach>135.9</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>214</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>129,76</priceEach>
+        <priceEach>129.76</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>214</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>84,71</priceEach>
+        <priceEach>84.71</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>214</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>129,26</priceEach>
+        <priceEach>129.26</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>214</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>51,44</priceEach>
+        <priceEach>51.44</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>214</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>31,82</priceEach>
+        <priceEach>31.82</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>214</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>111,18</priceEach>
+        <priceEach>111.18</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>214</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>58,41</priceEach>
+        <priceEach>58.41</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>214</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>115,75</priceEach>
+        <priceEach>115.75</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>214</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>50,38</priceEach>
+        <priceEach>50.38</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>214</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>83,15</priceEach>
+        <priceEach>83.15</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -14604,49 +14604,49 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>215</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>78,12</priceEach>
+        <priceEach>78.12</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>215</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>111,83</priceEach>
+        <priceEach>111.83</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>215</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>78,77</priceEach>
+        <priceEach>78.77</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>215</id>
 		<productCode>S700_1138</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>60,67</priceEach>
+        <priceEach>60.67</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>215</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>99,17</priceEach>
+        <priceEach>99.17</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>215</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>88,39</priceEach>
+        <priceEach>88.39</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>215</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>51,32</priceEach>
+        <priceEach>51.32</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -14655,126 +14655,126 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>216</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>126,48</priceEach>
+        <priceEach>126.48</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>216</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>140,34</priceEach>
+        <priceEach>140.34</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>216</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>72,26</priceEach>
+        <priceEach>72.26</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>216</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>89,99</priceEach>
+        <priceEach>89.99</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>216</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>93,01</priceEach>
+        <priceEach>93.01</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>216</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>67,14</priceEach>
+        <priceEach>67.14</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>216</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>55,23</priceEach>
+        <priceEach>55.23</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>216</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>77,15</priceEach>
+        <priceEach>77.15</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>216</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>67,56</priceEach>
+        <priceEach>67.56</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>216</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>59,16</priceEach>
+        <priceEach>59.16</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>216</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>36,66</priceEach>
+        <priceEach>36.66</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>216</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>74,9</priceEach>
+        <priceEach>74.9</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>216</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>73,32</priceEach>
+        <priceEach>73.32</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>216</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>85,76</priceEach>
+        <priceEach>85.76</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>216</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>67,22</priceEach>
+        <priceEach>67.22</priceEach>
         <orderLineNumber>18</orderLineNumber>
 	</element>
 	<element>
 		<id>216</id>
 		<productCode>S700_3167</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>77,6</priceEach>
+        <priceEach>77.6</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>216</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>68,11</priceEach>
+        <priceEach>68.11</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>216</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>43,7</priceEach>
+        <priceEach>43.7</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element> </details>');
 
@@ -14783,7 +14783,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>217</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>69,55</priceEach>
+        <priceEach>69.55</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -14792,63 +14792,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>218</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>84,22</priceEach>
+        <priceEach>84.22</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>218</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>102,29</priceEach>
+        <priceEach>102.29</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>218</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>189,79</priceEach>
+        <priceEach>189.79</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>218</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>81,95</priceEach>
+        <priceEach>81.95</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>218</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>49,67</priceEach>
+        <priceEach>49.67</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>218</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>93,54</priceEach>
+        <priceEach>93.54</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>218</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>60,94</priceEach>
+        <priceEach>60.94</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>218</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>81,91</priceEach>
+        <priceEach>81.91</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>218</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>102,04</priceEach>
+        <priceEach>102.04</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element> </details>');
 
@@ -14857,42 +14857,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>219</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>134,05</priceEach>
+        <priceEach>134.05</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>219</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>77,19</priceEach>
+        <priceEach>77.19</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>219</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>54,71</priceEach>
+        <priceEach>54.71</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>219</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>120,53</priceEach>
+        <priceEach>120.53</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>219</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>65,8</priceEach>
+        <priceEach>65.8</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>219</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>78,41</priceEach>
+        <priceEach>78.41</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
@@ -14906,14 +14906,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>219</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>96,95</priceEach>
+        <priceEach>96.95</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>219</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>79,73</priceEach>
+        <priceEach>79.73</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -14922,35 +14922,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>220</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>184,84</priceEach>
+        <priceEach>184.84</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>220</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>102,17</priceEach>
+        <priceEach>102.17</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>220</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>63,84</priceEach>
+        <priceEach>63.84</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>220</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>139,64</priceEach>
+        <priceEach>139.64</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>220</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>60,62</priceEach>
+        <priceEach>60.62</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -14959,105 +14959,105 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>221</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>105,95</priceEach>
+        <priceEach>105.95</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>221</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>123,14</priceEach>
+        <priceEach>123.14</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>221</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>120,71</priceEach>
+        <priceEach>120.71</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>221</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>73,92</priceEach>
+        <priceEach>73.92</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>221</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>142,25</priceEach>
+        <priceEach>142.25</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>221</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>126,72</priceEach>
+        <priceEach>126.72</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>221</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>164,26</priceEach>
+        <priceEach>164.26</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>221</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>138,45</priceEach>
+        <priceEach>138.45</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>221</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>68,35</priceEach>
+        <priceEach>68.35</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>221</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>42,76</priceEach>
+        <priceEach>42.76</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>221</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>74,51</priceEach>
+        <priceEach>74.51</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>221</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>31,72</priceEach>
+        <priceEach>31.72</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>221</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>81,33</priceEach>
+        <priceEach>81.33</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>221</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>103,87</priceEach>
+        <priceEach>103.87</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>221</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>137,62</priceEach>
+        <priceEach>137.62</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element> </details>');
 
@@ -15066,105 +15066,105 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>222</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>180,01</priceEach>
+        <priceEach>180.01</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>222</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>141,83</priceEach>
+        <priceEach>141.83</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>222</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>136,67</priceEach>
+        <priceEach>136.67</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>222</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>101,5</priceEach>
+        <priceEach>101.5</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>222</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>92,47</priceEach>
+        <priceEach>92.47</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>222</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>44,21</priceEach>
+        <priceEach>44.21</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>222</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>120,77</priceEach>
+        <priceEach>120.77</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>222</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>57,12</priceEach>
+        <priceEach>57.12</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>222</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>158,63</priceEach>
+        <priceEach>158.63</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>222</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>100,3</priceEach>
+        <priceEach>100.3</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>222</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>54,34</priceEach>
+        <priceEach>54.34</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>222</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>90,06</priceEach>
+        <priceEach>90.06</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>222</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>26,55</priceEach>
+        <priceEach>26.55</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>222</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>40,77</priceEach>
+        <priceEach>40.77</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>223</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>88,3</priceEach>
+        <priceEach>88.3</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -15173,7 +15173,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>223</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>96,86</priceEach>
+        <priceEach>96.86</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -15182,98 +15182,98 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>224</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>148,06</priceEach>
+        <priceEach>148.06</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>224</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>100,73</priceEach>
+        <priceEach>100.73</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>224</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>142,45</priceEach>
+        <priceEach>142.45</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>224</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>105,55</priceEach>
+        <priceEach>105.55</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>224</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>137,17</priceEach>
+        <priceEach>137.17</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>224</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>120,64</priceEach>
+        <priceEach>120.64</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>224</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>49,81</priceEach>
+        <priceEach>49.81</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>224</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>49,71</priceEach>
+        <priceEach>49.71</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>224</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>107,34</priceEach>
+        <priceEach>107.34</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>224</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>29,35</priceEach>
+        <priceEach>29.35</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>224</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>95,44</priceEach>
+        <priceEach>95.44</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>224</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>91,49</priceEach>
+        <priceEach>91.49</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>224</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>60,76</priceEach>
+        <priceEach>60.76</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>224</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>80,92</priceEach>
+        <priceEach>80.92</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -15282,63 +15282,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>225</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>111,52</priceEach>
+        <priceEach>111.52</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>225</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>193,25</priceEach>
+        <priceEach>193.25</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>225</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>166,1</priceEach>
+        <priceEach>166.1</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>225</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>114,74</priceEach>
+        <priceEach>114.74</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>225</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>114,73</priceEach>
+        <priceEach>114.73</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>225</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>44,37</priceEach>
+        <priceEach>44.37</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>225</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>55,3</priceEach>
+        <priceEach>55.3</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>225</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>99,55</priceEach>
+        <priceEach>99.55</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>225</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>56,24</priceEach>
+        <priceEach>56.24</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element> </details>');
 
@@ -15347,42 +15347,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>226</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>94,79</priceEach>
+        <priceEach>94.79</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>226</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>73,73</priceEach>
+        <priceEach>73.73</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>226</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>120,43</priceEach>
+        <priceEach>120.43</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>226</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>86,74</priceEach>
+        <priceEach>86.74</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>226</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>81,34</priceEach>
+        <priceEach>81.34</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>226</id>
 		<productCode>S700_1138</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>60,67</priceEach>
+        <priceEach>60.67</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -15391,56 +15391,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>227</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>154,54</priceEach>
+        <priceEach>154.54</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>227</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>74,34</priceEach>
+        <priceEach>74.34</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>227</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>74,84</priceEach>
+        <priceEach>74.84</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>227</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>79,68</priceEach>
+        <priceEach>79.68</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>227</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>65,05</priceEach>
+        <priceEach>65.05</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>227</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>85,14</priceEach>
+        <priceEach>85.14</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>227</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>83,42</priceEach>
+        <priceEach>83.42</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>227</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>48,05</priceEach>
+        <priceEach>48.05</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -15449,98 +15449,98 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>228</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>104,81</priceEach>
+        <priceEach>104.81</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>228</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>87,54</priceEach>
+        <priceEach>87.54</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>228</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>67,82</priceEach>
+        <priceEach>67.82</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>228</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>56,55</priceEach>
+        <priceEach>56.55</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>228</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>55,96</priceEach>
+        <priceEach>55.96</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>228</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>69,55</priceEach>
+        <priceEach>69.55</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>228</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>57,1</priceEach>
+        <priceEach>57.1</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>228</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>42,33</priceEach>
+        <priceEach>42.33</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>228</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>84,03</priceEach>
+        <priceEach>84.03</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>228</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>75,13</priceEach>
+        <priceEach>75.13</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>228</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>95,73</priceEach>
+        <priceEach>95.73</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>228</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>117,46</priceEach>
+        <priceEach>117.46</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>228</id>
 		<productCode>S700_3167</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>71,2</priceEach>
+        <priceEach>71.2</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>228</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>69,59</priceEach>
+        <priceEach>69.59</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element> </details>');
 
@@ -15549,105 +15549,105 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>229</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>80,39</priceEach>
+        <priceEach>80.39</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>229</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>109,42</priceEach>
+        <priceEach>109.42</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>229</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>164,61</priceEach>
+        <priceEach>164.61</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>229</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>182,9</priceEach>
+        <priceEach>182.9</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>229</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>128,03</priceEach>
+        <priceEach>128.03</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>229</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>117,44</priceEach>
+        <priceEach>117.44</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>229</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>74,21</priceEach>
+        <priceEach>74.21</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>229</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>102,49</priceEach>
+        <priceEach>102.49</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>229</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>66,22</priceEach>
+        <priceEach>66.22</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>229</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>55,72</priceEach>
+        <priceEach>55.72</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>229</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>65,13</priceEach>
+        <priceEach>65.13</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>229</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>104,81</priceEach>
+        <priceEach>104.81</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>229</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>71,6</priceEach>
+        <priceEach>71.6</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>229</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>80,91</priceEach>
+        <priceEach>80.91</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>229</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>41,22</priceEach>
+        <priceEach>41.22</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element> </details>');
 
@@ -15656,28 +15656,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>230</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>136,7</priceEach>
+        <priceEach>136.7</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>230</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>59,06</priceEach>
+        <priceEach>59.06</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>230</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>133,92</priceEach>
+        <priceEach>133.92</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>230</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>56,1</priceEach>
+        <priceEach>56.1</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -15686,49 +15686,49 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>231</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>120,31</priceEach>
+        <priceEach>120.31</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>231</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>99,55</priceEach>
+        <priceEach>99.55</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>231</id>
 		<productCode>S18_1749</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>154,7</priceEach>
+        <priceEach>154.7</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>231</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>135,14</priceEach>
+        <priceEach>135.14</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>231</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>130,68</priceEach>
+        <priceEach>130.68</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>231</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>169,34</priceEach>
+        <priceEach>169.34</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>231</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>132,8</priceEach>
+        <priceEach>132.8</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
@@ -15742,42 +15742,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>231</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>55,11</priceEach>
+        <priceEach>55.11</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>231</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>139,03</priceEach>
+        <priceEach>139.03</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>231</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>70,33</priceEach>
+        <priceEach>70.33</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>231</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>33,39</priceEach>
+        <priceEach>33.39</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>231</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>100,01</priceEach>
+        <priceEach>100.01</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>231</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>74,04</priceEach>
+        <priceEach>74.04</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -15786,126 +15786,126 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>232</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>89,38</priceEach>
+        <priceEach>89.38</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>232</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>51,21</priceEach>
+        <priceEach>51.21</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>232</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>53,88</priceEach>
+        <priceEach>53.88</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>232</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>116,96</priceEach>
+        <priceEach>116.96</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>232</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>138,38</priceEach>
+        <priceEach>138.38</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>232</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>53,09</priceEach>
+        <priceEach>53.09</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>232</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>100,53</priceEach>
+        <priceEach>100.53</priceEach>
         <orderLineNumber>18</orderLineNumber>
 	</element>
 	<element>
 		<id>232</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>92,03</priceEach>
+        <priceEach>92.03</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>232</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>70,56</priceEach>
+        <priceEach>70.56</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>232</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>61,73</priceEach>
+        <priceEach>61.73</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>232</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>47,29</priceEach>
+        <priceEach>47.29</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>232</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>29,87</priceEach>
+        <priceEach>29.87</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>232</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>43,01</priceEach>
+        <priceEach>43.01</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>232</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>84,51</priceEach>
+        <priceEach>84.51</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>232</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>108,04</priceEach>
+        <priceEach>108.04</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>232</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>77,91</priceEach>
+        <priceEach>77.91</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>232</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>94,23</priceEach>
+        <priceEach>94.23</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>232</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>34,47</priceEach>
+        <priceEach>34.47</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element> </details>');
 
@@ -15914,56 +15914,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>233</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>188,58</priceEach>
+        <priceEach>188.58</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>233</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>121,64</priceEach>
+        <priceEach>121.64</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>233</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>110,84</priceEach>
+        <priceEach>110.84</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>233</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>95,23</priceEach>
+        <priceEach>95.23</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>233</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>95,24</priceEach>
+        <priceEach>95.24</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>233</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>42,26</priceEach>
+        <priceEach>42.26</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>233</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>95,44</priceEach>
+        <priceEach>95.44</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>233</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>62,05</priceEach>
+        <priceEach>62.05</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -15972,7 +15972,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>234</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>130,01</priceEach>
+        <priceEach>130.01</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
@@ -15986,28 +15986,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>234</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>52,87</priceEach>
+        <priceEach>52.87</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>234</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>147,33</priceEach>
+        <priceEach>147.33</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>234</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>101,71</priceEach>
+        <priceEach>101.71</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>234</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>117,57</priceEach>
+        <priceEach>117.57</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -16016,21 +16016,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>235</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>32,88</priceEach>
+        <priceEach>32.88</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>235</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>77,05</priceEach>
+        <priceEach>77.05</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>235</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>49,78</priceEach>
+        <priceEach>49.78</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -16039,84 +16039,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>236</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>176,63</priceEach>
+        <priceEach>176.63</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>236</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>126,91</priceEach>
+        <priceEach>126.91</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>236</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>141,88</priceEach>
+        <priceEach>141.88</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>236</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>95,99</priceEach>
+        <priceEach>95.99</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>236</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>153,91</priceEach>
+        <priceEach>153.91</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>236</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>135,22</priceEach>
+        <priceEach>135.22</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>236</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>100,84</priceEach>
+        <priceEach>100.84</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>236</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>49,71</priceEach>
+        <priceEach>49.71</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>236</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>113,55</priceEach>
+        <priceEach>113.55</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>236</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>59,03</priceEach>
+        <priceEach>59.03</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>236</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>109,96</priceEach>
+        <priceEach>109.96</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>236</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>94,07</priceEach>
+        <priceEach>94.07</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -16125,63 +16125,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>237</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>131,92</priceEach>
+        <priceEach>131.92</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>237</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>140,75</priceEach>
+        <priceEach>140.75</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>237</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>76,36</priceEach>
+        <priceEach>76.36</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>237</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>119,2</priceEach>
+        <priceEach>119.2</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>237</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>54,48</priceEach>
+        <priceEach>54.48</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>237</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>73,62</priceEach>
+        <priceEach>73.62</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>237</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>84,14</priceEach>
+        <priceEach>84.14</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>237</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>83,42</priceEach>
+        <priceEach>83.42</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>237</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>49,14</priceEach>
+        <priceEach>49.14</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -16190,21 +16190,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>238</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>137,19</priceEach>
+        <priceEach>137.19</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>238</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>80,86</priceEach>
+        <priceEach>80.86</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>238</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>93,17</priceEach>
+        <priceEach>93.17</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -16213,112 +16213,112 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>239</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>117,75</priceEach>
+        <priceEach>117.75</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>239</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>178,17</priceEach>
+        <priceEach>178.17</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>239</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>79,41</priceEach>
+        <priceEach>79.41</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>239</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>48,46</priceEach>
+        <priceEach>48.46</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>239</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>96,92</priceEach>
+        <priceEach>96.92</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>239</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>106,14</priceEach>
+        <priceEach>106.14</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>239</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>55</quantityOrdered>
-        <priceEach>67,82</priceEach>
+        <priceEach>67.82</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>239</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>55</quantityOrdered>
-        <priceEach>73,46</priceEach>
+        <priceEach>73.46</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>239</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>57,86</priceEach>
+        <priceEach>57.86</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>239</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>72,96</priceEach>
+        <priceEach>72.96</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>239</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>57,32</priceEach>
+        <priceEach>57.32</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>239</id>
 		<productCode>S700_1138</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>53,34</priceEach>
+        <priceEach>53.34</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>239</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>55</quantityOrdered>
-        <priceEach>86,9</priceEach>
+        <priceEach>86.9</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>239</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>62,16</priceEach>
+        <priceEach>62.16</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>239</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>66,63</priceEach>
+        <priceEach>66.63</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>239</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>49,66</priceEach>
+        <priceEach>49.66</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -16327,56 +16327,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>240</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>55</quantityOrdered>
-        <priceEach>62,46</priceEach>
+        <priceEach>62.46</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>240</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>63,76</priceEach>
+        <priceEach>63.76</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>240</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>55</quantityOrdered>
-        <priceEach>95,89</priceEach>
+        <priceEach>95.89</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>240</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>67,41</priceEach>
+        <priceEach>67.41</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>240</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>37,09</priceEach>
+        <priceEach>37.09</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>240</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>73,99</priceEach>
+        <priceEach>73.99</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>240</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>55</quantityOrdered>
-        <priceEach>81,77</priceEach>
+        <priceEach>81.77</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>240</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>98,48</priceEach>
+        <priceEach>98.48</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -16385,70 +16385,70 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>241</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>84,22</priceEach>
+        <priceEach>84.22</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>241</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>192,62</priceEach>
+        <priceEach>192.62</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>241</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>55</quantityOrdered>
-        <priceEach>120,5</priceEach>
+        <priceEach>120.5</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>241</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>111,57</priceEach>
+        <priceEach>111.57</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>241</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>77,41</priceEach>
+        <priceEach>77.41</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>241</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>55</quantityOrdered>
-        <priceEach>109,4</priceEach>
+        <priceEach>109.4</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>241</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>63,03</priceEach>
+        <priceEach>63.03</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>241</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>95,93</priceEach>
+        <priceEach>95.93</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>241</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>78,11</priceEach>
+        <priceEach>78.11</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>241</id>
 		<productCode>S700_3167</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>70,4</priceEach>
+        <priceEach>70.4</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -16457,77 +16457,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>242</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>118,89</priceEach>
+        <priceEach>118.89</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>242</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>55</quantityOrdered>
-        <priceEach>63,14</priceEach>
+        <priceEach>63.14</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>242</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>115,22</priceEach>
+        <priceEach>115.22</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>242</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>167,65</priceEach>
+        <priceEach>167.65</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>242</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>76,39</priceEach>
+        <priceEach>76.39</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>242</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>55</quantityOrdered>
-        <priceEach>136,7</priceEach>
+        <priceEach>136.7</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>242</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>57,82</priceEach>
+        <priceEach>57.82</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>242</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>124,99</priceEach>
+        <priceEach>124.99</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>242</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>30,59</priceEach>
+        <priceEach>30.59</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>242</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>60,01</priceEach>
+        <priceEach>60.01</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>242</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>112,34</priceEach>
+        <priceEach>112.34</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -16536,42 +16536,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>243</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>109,51</priceEach>
+        <priceEach>109.51</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>243</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>118,8</priceEach>
+        <priceEach>118.8</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>243</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>127,15</priceEach>
+        <priceEach>127.15</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>243</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>44,78</priceEach>
+        <priceEach>44.78</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>243</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>76,8</priceEach>
+        <priceEach>76.8</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>243</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>37,41</priceEach>
+        <priceEach>37.41</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -16580,35 +16580,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>244</id>
 		<productCode>S18_1749</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>168,3</priceEach>
+        <priceEach>168.3</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>244</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>49,04</priceEach>
+        <priceEach>49.04</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>244</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>118,23</priceEach>
+        <priceEach>118.23</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>244</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>80,99</priceEach>
+        <priceEach>80.99</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>244</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>68,42</priceEach>
+        <priceEach>68.42</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
@@ -16622,7 +16622,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>244</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>27,88</priceEach>
+        <priceEach>27.88</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -16631,7 +16631,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>245</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>38,98</priceEach>
+        <priceEach>38.98</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -16640,42 +16640,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>246</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>88,36</priceEach>
+        <priceEach>88.36</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>246</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>87,24</priceEach>
+        <priceEach>87.24</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>246</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>117,44</priceEach>
+        <priceEach>117.44</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>246</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>80,47</priceEach>
+        <priceEach>80.47</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>246</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>103,87</priceEach>
+        <priceEach>103.87</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>246</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>38,57</priceEach>
+        <priceEach>38.57</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -16684,84 +16684,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>247</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>188,58</priceEach>
+        <priceEach>188.58</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>247</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>132,97</priceEach>
+        <priceEach>132.97</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>247</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>132,57</priceEach>
+        <priceEach>132.57</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>247</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>113,17</priceEach>
+        <priceEach>113.17</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>247</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>46,36</priceEach>
+        <priceEach>46.36</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>247</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>51,05</priceEach>
+        <priceEach>51.05</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>247</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>136,69</priceEach>
+        <priceEach>136.69</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>247</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>84,09</priceEach>
+        <priceEach>84.09</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>247</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>60,59</priceEach>
+        <priceEach>60.59</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>247</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>95,3</priceEach>
+        <priceEach>95.3</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>247</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>84,33</priceEach>
+        <priceEach>84.33</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>247</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>115,03</priceEach>
+        <priceEach>115.03</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -16770,56 +16770,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>248</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>207,8</priceEach>
+        <priceEach>207.8</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>248</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>122,37</priceEach>
+        <priceEach>122.37</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>248</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>43,77</priceEach>
+        <priceEach>43.77</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>248</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>107,34</priceEach>
+        <priceEach>107.34</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>248</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>82,78</priceEach>
+        <priceEach>82.78</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>248</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>90,53</priceEach>
+        <priceEach>90.53</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>248</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>62,7</priceEach>
+        <priceEach>62.7</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>248</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>100,14</priceEach>
+        <priceEach>100.14</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element> </details>');
 
@@ -16828,70 +16828,70 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>249</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>166,1</priceEach>
+        <priceEach>166.1</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>249</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>114,95</priceEach>
+        <priceEach>114.95</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>249</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>142,45</priceEach>
+        <priceEach>142.45</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>249</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>117,82</priceEach>
+        <priceEach>117.82</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>249</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>164,26</priceEach>
+        <priceEach>164.26</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>249</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>140,75</priceEach>
+        <priceEach>140.75</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>249</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>50,29</priceEach>
+        <priceEach>50.29</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>249</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>31,47</priceEach>
+        <priceEach>31.47</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>249</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>111,18</priceEach>
+        <priceEach>111.18</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>249</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>44,37</priceEach>
+        <priceEach>44.37</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -16900,77 +16900,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>250</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>110,16</priceEach>
+        <priceEach>110.16</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>250</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>84,3</priceEach>
+        <priceEach>84.3</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>250</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>135,22</priceEach>
+        <priceEach>135.22</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>250</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>94,79</priceEach>
+        <priceEach>94.79</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>250</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>70,22</priceEach>
+        <priceEach>70.22</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>250</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>98,31</priceEach>
+        <priceEach>98.31</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>250</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>86,74</priceEach>
+        <priceEach>86.74</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>250</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>77,15</priceEach>
+        <priceEach>77.15</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>250</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>61,52</priceEach>
+        <priceEach>61.52</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>250</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>104,18</priceEach>
+        <priceEach>104.18</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>250</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>56,82</priceEach>
+        <priceEach>56.82</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
@@ -16984,35 +16984,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>250</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>76,22</priceEach>
+        <priceEach>76.22</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>250</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>68,67</priceEach>
+        <priceEach>68.67</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>250</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>87,15</priceEach>
+        <priceEach>87.15</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>250</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>97,32</priceEach>
+        <priceEach>97.32</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>250</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>48,05</priceEach>
+        <priceEach>48.05</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element> </details>');
 
@@ -17021,35 +17021,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>251</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>143,5</priceEach>
+        <priceEach>143.5</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>251</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>104,81</priceEach>
+        <priceEach>104.81</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>251</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>64,4</priceEach>
+        <priceEach>64.4</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>251</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>53,92</priceEach>
+        <priceEach>53.92</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>251</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>68,24</priceEach>
+        <priceEach>68.24</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -17058,28 +17058,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>252</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>75,13</priceEach>
+        <priceEach>75.13</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>252</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>87,75</priceEach>
+        <priceEach>87.75</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>252</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>62,19</priceEach>
+        <priceEach>62.19</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>252</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>46,18</priceEach>
+        <priceEach>46.18</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -17088,63 +17088,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>253</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>71,81</priceEach>
+        <priceEach>71.81</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>253</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>107,23</priceEach>
+        <priceEach>107.23</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>253</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>69,55</priceEach>
+        <priceEach>69.55</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>253</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>86,9</priceEach>
+        <priceEach>86.9</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>253</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>68,1</priceEach>
+        <priceEach>68.1</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>253</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>35,78</priceEach>
+        <priceEach>35.78</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>253</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>73,07</priceEach>
+        <priceEach>73.07</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>253</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>98,48</priceEach>
+        <priceEach>98.48</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>253</id>
 		<productCode>S700_3167</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>74,4</priceEach>
+        <priceEach>74.4</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -17153,91 +17153,91 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>254</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>84,22</priceEach>
+        <priceEach>84.22</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>254</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>95,15</priceEach>
+        <priceEach>95.15</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>254</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>178,17</priceEach>
+        <priceEach>178.17</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>254</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>157,6</priceEach>
+        <priceEach>157.6</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>254</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>141,58</priceEach>
+        <priceEach>141.58</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>254</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>98,65</priceEach>
+        <priceEach>98.65</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>254</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>76,61</priceEach>
+        <priceEach>76.61</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>254</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>100,19</priceEach>
+        <priceEach>100.19</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>254</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>76,23</priceEach>
+        <priceEach>76.23</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>254</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>49,06</priceEach>
+        <priceEach>49.06</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>254</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>69,15</priceEach>
+        <priceEach>69.15</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>254</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>96,92</priceEach>
+        <priceEach>96.92</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>254</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>62,46</priceEach>
+        <priceEach>62.46</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -17246,70 +17246,70 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>255</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>117,59</priceEach>
+        <priceEach>117.59</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>255</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>60,3</priceEach>
+        <priceEach>60.3</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>255</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>124,99</priceEach>
+        <priceEach>124.99</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>255</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>56,1</priceEach>
+        <priceEach>56.1</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>255</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>37,38</priceEach>
+        <priceEach>37.38</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>255</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>60,62</priceEach>
+        <priceEach>60.62</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>255</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>137,62</priceEach>
+        <priceEach>137.62</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>255</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>75,18</priceEach>
+        <priceEach>75.18</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>255</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>32,99</priceEach>
+        <priceEach>32.99</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>255</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>93,89</priceEach>
+        <priceEach>93.89</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -17318,63 +17318,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>256</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>120,31</priceEach>
+        <priceEach>120.31</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>256</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>82,19</priceEach>
+        <priceEach>82.19</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>256</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>44,75</priceEach>
+        <priceEach>44.75</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>256</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>130,87</priceEach>
+        <priceEach>130.87</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>256</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>106,79</priceEach>
+        <priceEach>106.79</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>256</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>158,63</priceEach>
+        <priceEach>158.63</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>256</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>31,86</priceEach>
+        <priceEach>31.86</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>256</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>42,11</priceEach>
+        <priceEach>42.11</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>256</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>78,11</priceEach>
+        <priceEach>78.11</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -17383,21 +17383,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>257</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>199,3</priceEach>
+        <priceEach>199.3</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>257</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>135,92</priceEach>
+        <priceEach>135.92</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>257</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>109,34</priceEach>
+        <priceEach>109.34</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
@@ -17411,42 +17411,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>257</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>58,95</priceEach>
+        <priceEach>58.95</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>257</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>91,18</priceEach>
+        <priceEach>91.18</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>257</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>59,34</priceEach>
+        <priceEach>59.34</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>257</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>104,72</priceEach>
+        <priceEach>104.72</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>257</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>84,33</priceEach>
+        <priceEach>84.33</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>257</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>105,34</priceEach>
+        <priceEach>105.34</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -17455,98 +17455,98 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>258</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>129,93</priceEach>
+        <priceEach>129.93</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>258</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>98,36</priceEach>
+        <priceEach>98.36</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>258</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>142,45</priceEach>
+        <priceEach>142.45</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>258</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>99,41</priceEach>
+        <priceEach>99.41</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>258</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>137,17</priceEach>
+        <priceEach>137.17</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>258</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>117,77</priceEach>
+        <priceEach>117.77</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>258</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>46,29</priceEach>
+        <priceEach>46.29</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>258</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>56,07</priceEach>
+        <priceEach>56.07</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>258</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>127,79</priceEach>
+        <priceEach>127.79</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>258</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>33,59</priceEach>
+        <priceEach>33.59</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>258</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>88,62</priceEach>
+        <priceEach>88.62</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>258</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>82,83</priceEach>
+        <priceEach>82.83</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>258</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>51,71</priceEach>
+        <priceEach>51.71</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>258</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>85,98</priceEach>
+        <priceEach>85.98</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -17555,56 +17555,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>259</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>122,4</priceEach>
+        <priceEach>122.4</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>259</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>180,79</priceEach>
+        <priceEach>180.79</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>259</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>162,64</priceEach>
+        <priceEach>162.64</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>259</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>108,82</priceEach>
+        <priceEach>108.82</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>259</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>45,45</priceEach>
+        <priceEach>45.45</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>259</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>62,14</priceEach>
+        <priceEach>62.14</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>259</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>99,55</priceEach>
+        <priceEach>99.55</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>259</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>47,45</priceEach>
+        <priceEach>47.45</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -17613,126 +17613,126 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>260</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>126,15</priceEach>
+        <priceEach>126.15</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>260</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>68,43</priceEach>
+        <priceEach>68.43</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>260</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>71,4</priceEach>
+        <priceEach>71.4</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>260</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>122,93</priceEach>
+        <priceEach>122.93</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>260</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>94,79</priceEach>
+        <priceEach>94.79</priceEach>
         <orderLineNumber>18</orderLineNumber>
 	</element>
 	<element>
 		<id>260</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>101,64</priceEach>
+        <priceEach>101.64</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>260</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>76,36</priceEach>
+        <priceEach>76.36</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>260</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>106,14</priceEach>
+        <priceEach>106.14</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>260</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>100,77</priceEach>
+        <priceEach>100.77</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>260</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>55,49</priceEach>
+        <priceEach>55.49</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>260</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>70,81</priceEach>
+        <priceEach>70.81</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>260</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>78,83</priceEach>
+        <priceEach>78.83</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>260</id>
 		<productCode>S700_1138</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>64,67</priceEach>
+        <priceEach>64.67</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>260</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>86,61</priceEach>
+        <priceEach>86.61</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>260</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>70,11</priceEach>
+        <priceEach>70.11</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>260</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>83,14</priceEach>
+        <priceEach>83.14</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>260</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>92,36</priceEach>
+        <priceEach>92.36</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>260</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>54,05</priceEach>
+        <priceEach>54.05</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element> </details>');
 
@@ -17741,98 +17741,98 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>261</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>92,83</priceEach>
+        <priceEach>92.83</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>261</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>114,18</priceEach>
+        <priceEach>114.18</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>261</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>62,46</priceEach>
+        <priceEach>62.46</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>261</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>61,42</priceEach>
+        <priceEach>61.42</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>261</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>68,83</priceEach>
+        <priceEach>68.83</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>261</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>56,41</priceEach>
+        <priceEach>56.41</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>261</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>35,78</priceEach>
+        <priceEach>35.78</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>261</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>88,6</priceEach>
+        <priceEach>88.6</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>261</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>85,99</priceEach>
+        <priceEach>85.99</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>261</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>91,74</priceEach>
+        <priceEach>91.74</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>261</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>107,97</priceEach>
+        <priceEach>107.97</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>261</id>
 		<productCode>S700_3167</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>76,8</priceEach>
+        <priceEach>76.8</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>261</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>62,19</priceEach>
+        <priceEach>62.19</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>261</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>47,67</priceEach>
+        <priceEach>47.67</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element> </details>');
 
@@ -17841,28 +17841,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>262</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>182,04</priceEach>
+        <priceEach>182.04</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>262</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>131,04</priceEach>
+        <priceEach>131.04</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>262</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>53,91</priceEach>
+        <priceEach>53.91</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>262</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>91,29</priceEach>
+        <priceEach>91.29</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -17871,105 +17871,105 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>263</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>180,95</priceEach>
+        <priceEach>180.95</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>263</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>106,87</priceEach>
+        <priceEach>106.87</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>263</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>68,63</priceEach>
+        <priceEach>68.63</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>263</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>103,64</priceEach>
+        <priceEach>103.64</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>263</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>61,6</priceEach>
+        <priceEach>61.6</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>263</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>69,15</priceEach>
+        <priceEach>69.15</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>263</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>124,94</priceEach>
+        <priceEach>124.94</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>263</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>52,22</priceEach>
+        <priceEach>52.22</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>263</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>123,5</priceEach>
+        <priceEach>123.5</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>263</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>70,08</priceEach>
+        <priceEach>70.08</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>263</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>56,1</priceEach>
+        <priceEach>56.1</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>263</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>52,05</priceEach>
+        <priceEach>52.05</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>263</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>113,75</priceEach>
+        <priceEach>113.75</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>263</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>75,99</priceEach>
+        <priceEach>75.99</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>263</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>92,9</priceEach>
+        <priceEach>92.9</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -17978,7 +17978,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>264</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>38,22</priceEach>
+        <priceEach>38.22</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -17987,21 +17987,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>265</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>116,06</priceEach>
+        <priceEach>116.06</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>265</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>82,66</priceEach>
+        <priceEach>82.66</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>265</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>68,34</priceEach>
+        <priceEach>68.34</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -18010,21 +18010,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>266</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>116,65</priceEach>
+        <priceEach>116.65</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>266</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>105,6</priceEach>
+        <priceEach>105.6</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>266</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>154,1</priceEach>
+        <priceEach>154.1</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -18033,91 +18033,91 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>267</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>105,77</priceEach>
+        <priceEach>105.77</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>267</id>
 		<productCode>S18_1749</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>144,5</priceEach>
+        <priceEach>144.5</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>267</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>50,25</priceEach>
+        <priceEach>50.25</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>267</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>124,59</priceEach>
+        <priceEach>124.59</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>267</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>140,06</priceEach>
+        <priceEach>140.06</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>267</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>131,39</priceEach>
+        <priceEach>131.39</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>267</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>77,31</priceEach>
+        <priceEach>77.31</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>267</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>66,99</priceEach>
+        <priceEach>66.99</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>267</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>72,76</priceEach>
+        <priceEach>72.76</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>267</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>50,31</priceEach>
+        <priceEach>50.31</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>267</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>29,54</priceEach>
+        <priceEach>29.54</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>267</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>43,01</priceEach>
+        <priceEach>43.01</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>267</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>36,25</priceEach>
+        <priceEach>36.25</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -18126,35 +18126,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>268</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>73,6</priceEach>
+        <priceEach>73.6</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>268</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>115,09</priceEach>
+        <priceEach>115.09</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>268</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>83,04</priceEach>
+        <priceEach>83.04</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>268</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>93,16</priceEach>
+        <priceEach>93.16</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>268</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>36,52</priceEach>
+        <priceEach>36.52</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -18163,56 +18163,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>269</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>195,01</priceEach>
+        <priceEach>195.01</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>269</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>89,38</priceEach>
+        <priceEach>89.38</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>269</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>46,36</priceEach>
+        <priceEach>46.36</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>269</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>100,3</priceEach>
+        <priceEach>100.3</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>269</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>51,84</priceEach>
+        <priceEach>51.84</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>269</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>90,06</priceEach>
+        <priceEach>90.06</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>269</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>80,36</priceEach>
+        <priceEach>80.36</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>269</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>93,49</priceEach>
+        <priceEach>93.49</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -18221,63 +18221,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>270</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>128,53</priceEach>
+        <priceEach>128.53</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>270</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>128,47</priceEach>
+        <priceEach>128.47</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>270</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>100,34</priceEach>
+        <priceEach>100.34</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>270</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>101,87</priceEach>
+        <priceEach>101.87</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>270</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>60,16</priceEach>
+        <priceEach>60.16</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>270</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>167,65</priceEach>
+        <priceEach>167.65</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>270</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>105,34</priceEach>
+        <priceEach>105.34</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>270</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>41,76</priceEach>
+        <priceEach>41.76</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>270</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>63,99</priceEach>
+        <priceEach>63.99</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -18286,84 +18286,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>271</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>178,71</priceEach>
+        <priceEach>178.71</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>271</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>104,28</priceEach>
+        <priceEach>104.28</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>271</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>160,46</priceEach>
+        <priceEach>160.46</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>271</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>53,75</priceEach>
+        <priceEach>53.75</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>271</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>126,51</priceEach>
+        <priceEach>126.51</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>271</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>35,01</priceEach>
+        <priceEach>35.01</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>271</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>95,81</priceEach>
+        <priceEach>95.81</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>271</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>82,83</priceEach>
+        <priceEach>82.83</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>271</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>44,37</priceEach>
+        <priceEach>44.37</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>271</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>53,44</priceEach>
+        <priceEach>53.44</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>271</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>97,23</priceEach>
+        <priceEach>97.23</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>271</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>83,95</priceEach>
+        <priceEach>83.95</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -18372,42 +18372,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>272</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>146,55</priceEach>
+        <priceEach>146.55</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>272</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>140,15</priceEach>
+        <priceEach>140.15</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>272</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>131,13</priceEach>
+        <priceEach>131.13</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>272</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>91,76</priceEach>
+        <priceEach>91.76</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>272</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>119,2</priceEach>
+        <priceEach>119.2</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>272</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>78,99</priceEach>
+        <priceEach>78.99</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
@@ -18421,14 +18421,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>272</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>56,82</priceEach>
+        <priceEach>56.82</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>272</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>74,48</priceEach>
+        <priceEach>74.48</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -18437,63 +18437,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>273</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>118,32</priceEach>
+        <priceEach>118.32</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>273</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>143,5</priceEach>
+        <priceEach>143.5</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>273</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>75,7</priceEach>
+        <priceEach>75.7</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>273</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>99,52</priceEach>
+        <priceEach>99.52</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>273</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>58,92</priceEach>
+        <priceEach>58.92</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>273</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>82,31</priceEach>
+        <priceEach>82.31</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>273</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>53,92</priceEach>
+        <priceEach>53.92</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>273</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>83,86</priceEach>
+        <priceEach>83.86</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>273</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>62,1</priceEach>
+        <priceEach>62.1</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
@@ -18507,49 +18507,49 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>273</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>76,94</priceEach>
+        <priceEach>76.94</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>273</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>69,39</priceEach>
+        <priceEach>69.39</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>273</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>94,16</priceEach>
+        <priceEach>94.16</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>273</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>83,42</priceEach>
+        <priceEach>83.42</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>273</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>68,11</priceEach>
+        <priceEach>68.11</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>273</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>44,2</priceEach>
+        <priceEach>44.2</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>273</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>48,05</priceEach>
+        <priceEach>48.05</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -18558,42 +18558,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>274</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>115,37</priceEach>
+        <priceEach>115.37</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>274</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>158,8</priceEach>
+        <priceEach>158.8</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>274</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>75,19</priceEach>
+        <priceEach>75.19</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>274</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>48,46</priceEach>
+        <priceEach>48.46</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>274</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>112,7</priceEach>
+        <priceEach>112.7</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>274</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>107,23</priceEach>
+        <priceEach>107.23</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -18602,105 +18602,105 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>275</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>76,56</priceEach>
+        <priceEach>76.56</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>275</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>184,84</priceEach>
+        <priceEach>184.84</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>275</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>150,62</priceEach>
+        <priceEach>150.62</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>275</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>67,03</priceEach>
+        <priceEach>67.03</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>275</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>60,26</priceEach>
+        <priceEach>60.26</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>275</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>60,13</priceEach>
+        <priceEach>60.13</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>275</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>87,9</priceEach>
+        <priceEach>87.9</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>275</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>59,85</priceEach>
+        <priceEach>59.85</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>275</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>96,95</priceEach>
+        <priceEach>96.95</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>275</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>36,22</priceEach>
+        <priceEach>36.22</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>275</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>69,16</priceEach>
+        <priceEach>69.16</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>275</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>86,77</priceEach>
+        <priceEach>86.77</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>275</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>94,73</priceEach>
+        <priceEach>94.73</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>275</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>98,48</priceEach>
+        <priceEach>98.48</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>275</id>
 		<productCode>S700_3167</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>69,6</priceEach>
+        <priceEach>69.6</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element> </details>');
 
@@ -18709,7 +18709,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>276</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>98,65</priceEach>
+        <priceEach>98.65</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -18718,42 +18718,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>277</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>65,44</priceEach>
+        <priceEach>65.44</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>277</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>112,86</priceEach>
+        <priceEach>112.86</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>277</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>124,56</priceEach>
+        <priceEach>124.56</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>277</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>61,6</priceEach>
+        <priceEach>61.6</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>277</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>125,18</priceEach>
+        <priceEach>125.18</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>277</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>143,94</priceEach>
+        <priceEach>143.94</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -18762,70 +18762,70 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>278</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>121,95</priceEach>
+        <priceEach>121.95</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>278</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>66,74</priceEach>
+        <priceEach>66.74</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>278</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>146,99</priceEach>
+        <priceEach>146.99</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>278</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>60,3</priceEach>
+        <priceEach>60.3</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>278</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>122,02</priceEach>
+        <priceEach>122.02</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>278</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>30,59</priceEach>
+        <priceEach>30.59</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>278</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>52,66</priceEach>
+        <priceEach>52.66</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>278</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>129,2</priceEach>
+        <priceEach>129.2</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>278</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>80,84</priceEach>
+        <priceEach>80.84</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>278</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>35,8</priceEach>
+        <priceEach>35.8</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -18834,35 +18834,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>279</id>
 		<productCode>S18_1749</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>156,4</priceEach>
+        <priceEach>156.4</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>279</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>50,85</priceEach>
+        <priceEach>50.85</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>279</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>113,52</priceEach>
+        <priceEach>113.52</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>279</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>134,22</priceEach>
+        <priceEach>134.22</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>279</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>48,8</priceEach>
+        <priceEach>48.8</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -18871,91 +18871,91 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>280</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>88,36</priceEach>
+        <priceEach>88.36</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>280</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>119,5</priceEach>
+        <priceEach>119.5</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>280</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>156,94</priceEach>
+        <priceEach>156.94</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>280</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>78,23</priceEach>
+        <priceEach>78.23</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>280</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>66,99</priceEach>
+        <priceEach>66.99</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>280</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>66,88</priceEach>
+        <priceEach>66.88</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>280</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>29,87</priceEach>
+        <priceEach>29.87</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>280</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>37,63</priceEach>
+        <priceEach>37.63</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>280</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>77,24</priceEach>
+        <priceEach>77.24</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>280</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>111,57</priceEach>
+        <priceEach>111.57</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>280</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>77,05</priceEach>
+        <priceEach>77.05</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>280</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>91,02</priceEach>
+        <priceEach>91.02</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>280</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>32,82</priceEach>
+        <priceEach>32.82</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element> </details>');
 
@@ -18964,63 +18964,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>281</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>182,16</priceEach>
+        <priceEach>182.16</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>281</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>138,88</priceEach>
+        <priceEach>138.88</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>281</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>132,57</priceEach>
+        <priceEach>132.57</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>281</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>114,34</priceEach>
+        <priceEach>114.34</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>281</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>49,6</priceEach>
+        <priceEach>49.6</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>281</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>60,77</priceEach>
+        <priceEach>60.77</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>281</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>100,3</priceEach>
+        <priceEach>100.3</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>281</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>51,22</priceEach>
+        <priceEach>51.22</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>281</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>93,2</priceEach>
+        <priceEach>93.2</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element> </details>');
 
@@ -19029,91 +19029,91 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>282</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>166,24</priceEach>
+        <priceEach>166.24</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>282</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>145,04</priceEach>
+        <priceEach>145.04</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>282</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>143,61</priceEach>
+        <priceEach>143.61</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>282</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>103,1</priceEach>
+        <priceEach>103.1</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>282</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>160,46</priceEach>
+        <priceEach>160.46</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>282</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>84,33</priceEach>
+        <priceEach>84.33</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>282</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>115,03</priceEach>
+        <priceEach>115.03</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>282</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>46,29</priceEach>
+        <priceEach>46.29</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>282</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>120,12</priceEach>
+        <priceEach>120.12</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>282</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>97,39</priceEach>
+        <priceEach>97.39</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>282</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>85,72</priceEach>
+        <priceEach>85.72</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>282</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>57,53</priceEach>
+        <priceEach>57.53</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>282</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>101,15</priceEach>
+        <priceEach>101.15</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element> </details>');
 
@@ -19122,91 +19122,91 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>283</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>119,05</priceEach>
+        <priceEach>119.05</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>283</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>125,66</priceEach>
+        <priceEach>125.66</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>283</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>155,79</priceEach>
+        <priceEach>155.79</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>283</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>83,7</priceEach>
+        <priceEach>83.7</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>283</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>137,88</priceEach>
+        <priceEach>137.88</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>283</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>77,24</priceEach>
+        <priceEach>77.24</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>283</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>52,6</priceEach>
+        <priceEach>52.6</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>283</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>33,24</priceEach>
+        <priceEach>33.24</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>283</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>117,1</priceEach>
+        <priceEach>117.1</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>283</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>53,57</priceEach>
+        <priceEach>53.57</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>283</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>55,93</priceEach>
+        <priceEach>55.93</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>283</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>94,92</priceEach>
+        <priceEach>94.92</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>283</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>48,62</priceEach>
+        <priceEach>48.62</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element> </details>');
 
@@ -19215,28 +19215,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>284</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>129,2</priceEach>
+        <priceEach>129.2</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>284</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>114,29</priceEach>
+        <priceEach>114.29</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>284</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>71,69</priceEach>
+        <priceEach>71.69</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>284</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>71,02</priceEach>
+        <priceEach>71.02</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -19245,7 +19245,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>285</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>78,83</priceEach>
+        <priceEach>78.83</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
@@ -19261,84 +19261,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>286</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>130,88</priceEach>
+        <priceEach>130.88</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>286</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>72,65</priceEach>
+        <priceEach>72.65</priceEach>
         <orderLineNumber>18</orderLineNumber>
 	</element>
 	<element>
 		<id>286</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>73,12</priceEach>
+        <priceEach>73.12</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>286</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>100,58</priceEach>
+        <priceEach>100.58</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>286</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>101,76</priceEach>
+        <priceEach>101.76</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>286</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>56,86</priceEach>
+        <priceEach>56.86</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>286</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>54,57</priceEach>
+        <priceEach>54.57</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>286</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>55,96</priceEach>
+        <priceEach>55.96</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>286</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>71,73</priceEach>
+        <priceEach>71.73</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>286</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>85,09</priceEach>
+        <priceEach>85.09</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>286</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>90,75</priceEach>
+        <priceEach>90.75</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>286</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>67,22</priceEach>
+        <priceEach>67.22</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
@@ -19352,35 +19352,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>286</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>83,14</priceEach>
+        <priceEach>83.14</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>286</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>80,44</priceEach>
+        <priceEach>80.44</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>286</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>59,22</priceEach>
+        <priceEach>59.22</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>286</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>47,67</priceEach>
+        <priceEach>47.67</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>286</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>52,42</priceEach>
+        <priceEach>52.42</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -19389,7 +19389,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>287</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>79,91</priceEach>
+        <priceEach>79.91</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -19398,56 +19398,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>288</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>80,39</priceEach>
+        <priceEach>80.39</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>288</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>118,94</priceEach>
+        <priceEach>118.94</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>288</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>156,86</priceEach>
+        <priceEach>156.86</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>288</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>125,01</priceEach>
+        <priceEach>125.01</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>288</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>58,47</priceEach>
+        <priceEach>58.47</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>288</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>41,02</priceEach>
+        <priceEach>41.02</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>288</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>74,9</priceEach>
+        <priceEach>74.9</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>288</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>111,53</priceEach>
+        <priceEach>111.53</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -19456,56 +19456,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>289</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>182,9</priceEach>
+        <priceEach>182.9</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>289</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>95,13</priceEach>
+        <priceEach>95.13</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>289</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>76,61</priceEach>
+        <priceEach>76.61</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>289</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>102,49</priceEach>
+        <priceEach>102.49</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>289</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>63,91</priceEach>
+        <priceEach>63.91</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>289</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>52,09</priceEach>
+        <priceEach>52.09</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>289</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>112,7</priceEach>
+        <priceEach>112.7</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>289</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>61,7</priceEach>
+        <priceEach>61.7</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -19514,21 +19514,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>290</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>117,48</priceEach>
+        <priceEach>117.48</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>290</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>132,29</priceEach>
+        <priceEach>132.29</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>290</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>102,98</priceEach>
+        <priceEach>102.98</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
@@ -19542,84 +19542,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>290</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>75,59</priceEach>
+        <priceEach>75.59</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>290</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>135,23</priceEach>
+        <priceEach>135.23</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>290</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>54,09</priceEach>
+        <priceEach>54.09</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>290</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>122,02</priceEach>
+        <priceEach>122.02</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>290</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>67,87</priceEach>
+        <priceEach>67.87</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>290</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>35,87</priceEach>
+        <priceEach>35.87</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>290</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>51,43</priceEach>
+        <priceEach>51.43</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>290</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>134,81</priceEach>
+        <priceEach>134.81</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>290</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>66,29</priceEach>
+        <priceEach>66.29</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>290</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>39,02</priceEach>
+        <priceEach>39.02</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>290</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>101,03</priceEach>
+        <priceEach>101.03</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>290</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>81,36</priceEach>
+        <priceEach>81.36</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>	</details>');
 
@@ -19629,70 +19629,70 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>291</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>195,01</priceEach>
+        <priceEach>195.01</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>291</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>121,15</priceEach>
+        <priceEach>121.15</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>291</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>110,7</priceEach>
+        <priceEach>110.7</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>291</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>114,34</priceEach>
+        <priceEach>114.34</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>291</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>102,74</priceEach>
+        <priceEach>102.74</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>291</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>47,44</priceEach>
+        <priceEach>47.44</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>291</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>57,73</priceEach>
+        <priceEach>57.73</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>291</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>99,28</priceEach>
+        <priceEach>99.28</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>291</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>26,55</priceEach>
+        <priceEach>26.55</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>291</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>36,29</priceEach>
+        <priceEach>36.29</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -19701,21 +19701,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>292</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>61,21</priceEach>
+        <priceEach>61.21</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>292</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>103,67</priceEach>
+        <priceEach>103.67</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>292</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>98,22</priceEach>
+        <priceEach>98.22</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -19724,77 +19724,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>293</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>145,04</priceEach>
+        <priceEach>145.04</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>293</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>99,54</priceEach>
+        <priceEach>99.54</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>293</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>137,53</priceEach>
+        <priceEach>137.53</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>293</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>104,32</priceEach>
+        <priceEach>104.32</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>293</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>106,55</priceEach>
+        <priceEach>106.55</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>293</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>41,76</priceEach>
+        <priceEach>41.76</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>293</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>112,46</priceEach>
+        <priceEach>112.46</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>293</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>88,62</priceEach>
+        <priceEach>88.62</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>293</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>84,75</priceEach>
+        <priceEach>84.75</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>293</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>63,35</priceEach>
+        <priceEach>63.35</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>293</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>83,95</priceEach>
+        <priceEach>83.95</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element> </details>');
 
@@ -19803,49 +19803,49 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>294</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>135,47</priceEach>
+        <priceEach>135.47</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>294</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>124,95</priceEach>
+        <priceEach>124.95</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>294</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>53,18</priceEach>
+        <priceEach>53.18</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>294</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>35,36</priceEach>
+        <priceEach>35.36</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>294</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>104,09</priceEach>
+        <priceEach>104.09</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>294</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>47,08</priceEach>
+        <priceEach>47.08</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>294</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>55,93</priceEach>
+        <priceEach>55.93</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -19854,28 +19854,28 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>295</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>125,12</priceEach>
+        <priceEach>125.12</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>295</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>205,72</priceEach>
+        <priceEach>205.72</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>295</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>98,39</priceEach>
+        <priceEach>98.39</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>295</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>57,99</priceEach>
+        <priceEach>57.99</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -19884,35 +19884,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>296</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>155,72</priceEach>
+        <priceEach>155.72</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>296</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>129,76</priceEach>
+        <priceEach>129.76</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>296</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>91,76</priceEach>
+        <priceEach>91.76</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>296</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>83,38</priceEach>
+        <priceEach>83.38</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>296</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>100,77</priceEach>
+        <priceEach>100.77</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
@@ -19926,7 +19926,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>296</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>77,99</priceEach>
+        <priceEach>77.99</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
@@ -19942,35 +19942,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>297</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>69,29</priceEach>
+        <priceEach>69.29</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>297</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>62,88</priceEach>
+        <priceEach>62.88</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>297</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>86,15</priceEach>
+        <priceEach>86.15</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>297</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>80,44</priceEach>
+        <priceEach>80.44</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>297</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>52,96</priceEach>
+        <priceEach>52.96</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -19979,126 +19979,126 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>298</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>130,88</priceEach>
+        <priceEach>130.88</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>298</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>82,79</priceEach>
+        <priceEach>82.79</priceEach>
         <orderLineNumber>15</orderLineNumber>
 	</element>
 	<element>
 		<id>298</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>70,54</priceEach>
+        <priceEach>70.54</priceEach>
         <orderLineNumber>18</orderLineNumber>
 	</element>
 	<element>
 		<id>298</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>92,11</priceEach>
+        <priceEach>92.11</priceEach>
         <orderLineNumber>17</orderLineNumber>
 	</element>
 	<element>
 		<id>298</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>100,67</priceEach>
+        <priceEach>100.67</priceEach>
         <orderLineNumber>16</orderLineNumber>
 	</element>
 	<element>
 		<id>298</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>60,29</priceEach>
+        <priceEach>60.29</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>298</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>61,15</priceEach>
+        <priceEach>61.15</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>298</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>56,64</priceEach>
+        <priceEach>56.64</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>298</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>65,93</priceEach>
+        <priceEach>65.93</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>298</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>60,54</priceEach>
+        <priceEach>60.54</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>298</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>38,84</priceEach>
+        <priceEach>38.84</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>298</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>78,55</priceEach>
+        <priceEach>78.55</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>298</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>75,13</priceEach>
+        <priceEach>75.13</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>298</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>98,72</priceEach>
+        <priceEach>98.72</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>298</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>102,04</priceEach>
+        <priceEach>102.04</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>298</id>
 		<productCode>S700_3167</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>76,8</priceEach>
+        <priceEach>76.8</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>298</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>62,19</priceEach>
+        <priceEach>62.19</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>298</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>41,22</priceEach>
+        <priceEach>41.22</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -20107,56 +20107,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>299</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>77,52</priceEach>
+        <priceEach>77.52</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>299</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>51</quantityOrdered>
-        <priceEach>99,91</priceEach>
+        <priceEach>99.91</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>299</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>156,86</priceEach>
+        <priceEach>156.86</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>299</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>29</quantityOrdered>
-        <priceEach>123,51</priceEach>
+        <priceEach>123.51</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>299</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>51,48</priceEach>
+        <priceEach>51.48</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>299</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>57</quantityOrdered>
-        <priceEach>104,81</priceEach>
+        <priceEach>104.81</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>299</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>58</quantityOrdered>
-        <priceEach>75,41</priceEach>
+        <priceEach>75.41</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>299</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>97,89</priceEach>
+        <priceEach>97.89</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -20165,63 +20165,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>300</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>64</quantityOrdered>
-        <priceEach>134,64</priceEach>
+        <priceEach>134.64</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>300</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>129,31</priceEach>
+        <priceEach>129.31</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>300</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>74,84</priceEach>
+        <priceEach>74.84</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>300</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>58</quantityOrdered>
-        <priceEach>88,93</priceEach>
+        <priceEach>88.93</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>300</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>55,49</priceEach>
+        <priceEach>55.49</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>300</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>59,18</priceEach>
+        <priceEach>59.18</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>300</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>74,64</priceEach>
+        <priceEach>74.64</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>300</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>82,37</priceEach>
+        <priceEach>82.37</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>300</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>20</quantityOrdered>
-        <priceEach>41,71</priceEach>
+        <priceEach>41.71</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -20230,84 +20230,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>301</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>75,19</priceEach>
+        <priceEach>75.19</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>301</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>87,54</priceEach>
+        <priceEach>87.54</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>301</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>64</quantityOrdered>
-        <priceEach>59,37</priceEach>
+        <priceEach>59.37</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>301</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>52</quantityOrdered>
-        <priceEach>65,93</priceEach>
+        <priceEach>65.93</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>301</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>81,91</priceEach>
+        <priceEach>81.91</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>301</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>62</quantityOrdered>
-        <priceEach>62,6</priceEach>
+        <priceEach>62.6</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>301</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>56</quantityOrdered>
-        <priceEach>41,46</priceEach>
+        <priceEach>41.46</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>301</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>11</quantityOrdered>
-        <priceEach>77,64</priceEach>
+        <priceEach>77.64</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>301</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>85</quantityOrdered>
-        <priceEach>98,72</priceEach>
+        <priceEach>98.72</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>301</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>96,11</priceEach>
+        <priceEach>96.11</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>301</id>
 		<productCode>S700_3167</productCode>
         <quantityOrdered>77</quantityOrdered>
-        <priceEach>73,6</priceEach>
+        <priceEach>73.6</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>301</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>66,63</priceEach>
+        <priceEach>66.63</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element> </details>');
 
@@ -20316,21 +20316,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>302</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>118,94</priceEach>
+        <priceEach>118.94</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>302</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>55</quantityOrdered>
-        <priceEach>58,15</priceEach>
+        <priceEach>58.15</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>302</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>59</quantityOrdered>
-        <priceEach>61,7</priceEach>
+        <priceEach>61.7</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -20339,14 +20339,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>303</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>85,17</priceEach>
+        <priceEach>85.17</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>303</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>66</quantityOrdered>
-        <priceEach>174,29</priceEach>
+        <priceEach>174.29</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
@@ -20360,42 +20360,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>303</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>55,33</priceEach>
+        <priceEach>55.33</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>303</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>109,32</priceEach>
+        <priceEach>109.32</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>303</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>57,49</priceEach>
+        <priceEach>57.49</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>303</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>35,8</priceEach>
+        <priceEach>35.8</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>303</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>88,78</priceEach>
+        <priceEach>88.78</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>303</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>65,09</priceEach>
+        <priceEach>65.09</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -20404,56 +20404,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>304</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>64</quantityOrdered>
-        <priceEach>163,44</priceEach>
+        <priceEach>163.44</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>304</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>102,17</priceEach>
+        <priceEach>102.17</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>304</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>77</quantityOrdered>
-        <priceEach>67,03</priceEach>
+        <priceEach>67.03</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>304</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>90</quantityOrdered>
-        <priceEach>67,54</priceEach>
+        <priceEach>67.54</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>304</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>127,88</priceEach>
+        <priceEach>127.88</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>304</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>124,99</priceEach>
+        <priceEach>124.99</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>304</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>53,27</priceEach>
+        <priceEach>53.27</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>304</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>65,48</priceEach>
+        <priceEach>65.48</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element> </details>');
 
@@ -20462,35 +20462,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>305</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>97</quantityOrdered>
-        <priceEach>115,16</priceEach>
+        <priceEach>115.16</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>305</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>61</quantityOrdered>
-        <priceEach>72,38</priceEach>
+        <priceEach>72.38</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>305</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>55</quantityOrdered>
-        <priceEach>147,33</priceEach>
+        <priceEach>147.33</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>305</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>37,38</priceEach>
+        <priceEach>37.38</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>305</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>76</quantityOrdered>
-        <priceEach>127,79</priceEach>
+        <priceEach>127.79</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -20499,21 +20499,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>306</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>61</quantityOrdered>
-        <priceEach>124,56</priceEach>
+        <priceEach>124.56</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>306</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>133,72</priceEach>
+        <priceEach>133.72</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>306</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>65</quantityOrdered>
-        <priceEach>117,26</priceEach>
+        <priceEach>117.26</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -20522,21 +20522,21 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>307</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>59</quantityOrdered>
-        <priceEach>114,48</priceEach>
+        <priceEach>114.48</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>307</id>
 		<productCode>S18_1749</productCode>
         <quantityOrdered>76</quantityOrdered>
-        <priceEach>141,1</priceEach>
+        <priceEach>141.1</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>307</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>58,12</priceEach>
+        <priceEach>58.12</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
@@ -20550,56 +20550,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>307</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>6</quantityOrdered>
-        <priceEach>91,11</priceEach>
+        <priceEach>91.11</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>307</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>66</quantityOrdered>
-        <priceEach>64,14</priceEach>
+        <priceEach>64.14</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>307</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>68,35</priceEach>
+        <priceEach>68.35</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>307</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>64</quantityOrdered>
-        <priceEach>45,78</priceEach>
+        <priceEach>45.78</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>307</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>76</quantityOrdered>
-        <priceEach>81,78</priceEach>
+        <priceEach>81.78</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>307</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>59</quantityOrdered>
-        <priceEach>98,65</priceEach>
+        <priceEach>98.65</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>307</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>13</quantityOrdered>
-        <priceEach>77,05</priceEach>
+        <priceEach>77.05</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>307</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>101,73</priceEach>
+        <priceEach>101.73</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element> </details>');
 
@@ -20608,7 +20608,7 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>308</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>15</quantityOrdered>
-        <priceEach>41,03</priceEach>
+        <priceEach>41.03</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -20617,14 +20617,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>309</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>6</quantityOrdered>
-        <priceEach>104,25</priceEach>
+        <priceEach>104.25</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>309</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>61</quantityOrdered>
-        <priceEach>27,88</priceEach>
+        <priceEach>27.88</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -20633,63 +20633,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>310</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>65</quantityOrdered>
-        <priceEach>99,66</priceEach>
+        <priceEach>99.66</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>310</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>51,21</priceEach>
+        <priceEach>51.21</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>310</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>56</quantityOrdered>
-        <priceEach>145,13</priceEach>
+        <priceEach>145.13</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>310</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>93,21</priceEach>
+        <priceEach>93.21</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>310</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>53</quantityOrdered>
-        <priceEach>49,97</priceEach>
+        <priceEach>49.97</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>310</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>84,82</priceEach>
+        <priceEach>84.82</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>310</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>81,35</priceEach>
+        <priceEach>81.35</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>310</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>42,56</priceEach>
+        <priceEach>42.56</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>310</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>95,44</priceEach>
+        <priceEach>95.44</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -20698,63 +20698,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>311</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>205,73</priceEach>
+        <priceEach>205.73</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>311</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>144,79</priceEach>
+        <priceEach>144.79</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>311</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>110,7</priceEach>
+        <priceEach>110.7</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>311</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>109,67</priceEach>
+        <priceEach>109.67</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>311</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>106,55</priceEach>
+        <priceEach>106.55</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>311</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>41,25</priceEach>
+        <priceEach>41.25</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>311</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>78,01</priceEach>
+        <priceEach>78.01</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>311</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>60,76</priceEach>
+        <priceEach>60.76</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>311</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>89,01</priceEach>
+        <priceEach>89.01</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -20763,77 +20763,77 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>312</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>54</quantityOrdered>
-        <priceEach>100,73</priceEach>
+        <priceEach>100.73</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>312</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>150,63</priceEach>
+        <priceEach>150.63</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>312</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>56</quantityOrdered>
-        <priceEach>120,28</priceEach>
+        <priceEach>120.28</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>312</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>49,83</priceEach>
+        <priceEach>49.83</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>312</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>60</quantityOrdered>
-        <priceEach>157,49</priceEach>
+        <priceEach>157.49</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>312</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>47,4</priceEach>
+        <priceEach>47.4</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>312</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>70</quantityOrdered>
-        <priceEach>109,9</priceEach>
+        <priceEach>109.9</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>312</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>30</quantityOrdered>
-        <priceEach>32,88</priceEach>
+        <priceEach>32.88</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>312</id>
 		<productCode>S24_4048</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>108,82</priceEach>
+        <priceEach>108.82</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>312</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>19</quantityOrdered>
-        <priceEach>50,86</priceEach>
+        <priceEach>50.86</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>312</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>105,33</priceEach>
+        <priceEach>105.33</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -20842,42 +20842,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>313</id>
 		<productCode>S12_1108</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>201,57</priceEach>
+        <priceEach>201.57</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>313</id>
 		<productCode>S12_3148</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>145,04</priceEach>
+        <priceEach>145.04</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>313</id>
 		<productCode>S12_3891</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>173,02</priceEach>
+        <priceEach>173.02</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>313</id>
 		<productCode>S18_4027</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>133,57</priceEach>
+        <priceEach>133.57</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>313</id>
 		<productCode>S32_3207</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>56,55</priceEach>
+        <priceEach>56.55</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>313</id>
 		<productCode>S50_1514</productCode>
         <quantityOrdered>51</quantityOrdered>
-        <priceEach>53,31</priceEach>
+        <priceEach>53.31</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -20886,56 +20886,56 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>314</id>
 		<productCode>S10_4757</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>114,24</priceEach>
+        <priceEach>114.24</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>314</id>
 		<productCode>S18_3029</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>77,42</priceEach>
+        <priceEach>77.42</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>314</id>
 		<productCode>S18_3140</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>128,39</priceEach>
+        <priceEach>128.39</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>314</id>
 		<productCode>S18_3259</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>85,71</priceEach>
+        <priceEach>85.71</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>314</id>
 		<productCode>S18_4522</productCode>
         <quantityOrdered>56</quantityOrdered>
-        <priceEach>83,38</priceEach>
+        <priceEach>83.38</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>314</id>
 		<productCode>S24_2011</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>108,14</priceEach>
+        <priceEach>108.14</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>314</id>
 		<productCode>S24_3151</productCode>
         <quantityOrdered>60</quantityOrdered>
-        <priceEach>72,58</priceEach>
+        <priceEach>72.58</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>314</id>
 		<productCode>S24_3816</productCode>
         <quantityOrdered>51</quantityOrdered>
-        <priceEach>72,96</priceEach>
+        <priceEach>72.96</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
@@ -20949,35 +20949,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>314</id>
 		<productCode>S700_1938</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>74,48</priceEach>
+        <priceEach>74.48</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>314</id>
 		<productCode>S700_2610</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>61,44</priceEach>
+        <priceEach>61.44</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>314</id>
 		<productCode>S700_3505</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>84,14</priceEach>
+        <priceEach>84.14</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>314</id>
 		<productCode>S700_3962</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>84,41</priceEach>
+        <priceEach>84.41</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>314</id>
 		<productCode>S72_3212</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>54,6</priceEach>
+        <priceEach>54.6</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element> </details>');
 
@@ -20986,35 +20986,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>315</id>
 		<productCode>S18_3856</productCode>
         <quantityOrdered>51</quantityOrdered>
-        <priceEach>86,81</priceEach>
+        <priceEach>86.81</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>315</id>
 		<productCode>S24_2841</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>60,97</priceEach>
+        <priceEach>60.97</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>315</id>
 		<productCode>S24_3420</productCode>
         <quantityOrdered>18</quantityOrdered>
-        <priceEach>59,83</priceEach>
+        <priceEach>59.83</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>315</id>
 		<productCode>S700_2047</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>73,32</priceEach>
+        <priceEach>73.32</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>315</id>
 		<productCode>S72_1253</productCode>
         <quantityOrdered>42</quantityOrdered>
-        <priceEach>43,2</priceEach>
+        <priceEach>43.2</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -21023,98 +21023,98 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>316</id>
 		<productCode>S18_1662</productCode>
         <quantityOrdered>24</quantityOrdered>
-        <priceEach>129,31</priceEach>
+        <priceEach>129.31</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>316</id>
 		<productCode>S18_2581</productCode>
         <quantityOrdered>15</quantityOrdered>
-        <priceEach>70,96</priceEach>
+        <priceEach>70.96</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>316</id>
 		<productCode>S24_1785</productCode>
         <quantityOrdered>47</quantityOrdered>
-        <priceEach>90,82</priceEach>
+        <priceEach>90.82</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>316</id>
 		<productCode>S24_2000</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>62,46</priceEach>
+        <priceEach>62.46</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>316</id>
 		<productCode>S24_3949</productCode>
         <quantityOrdered>18</quantityOrdered>
-        <priceEach>64,83</priceEach>
+        <priceEach>64.83</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>316</id>
 		<productCode>S24_4278</productCode>
         <quantityOrdered>48</quantityOrdered>
-        <priceEach>70,28</priceEach>
+        <priceEach>70.28</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>316</id>
 		<productCode>S32_1374</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>86,9</priceEach>
+        <priceEach>86.9</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>316</id>
 		<productCode>S32_4289</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>68,1</priceEach>
+        <priceEach>68.1</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>316</id>
 		<productCode>S50_1341</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>39,71</priceEach>
+        <priceEach>39.71</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>316</id>
 		<productCode>S700_1691</productCode>
         <quantityOrdered>23</quantityOrdered>
-        <priceEach>88,6</priceEach>
+        <priceEach>88.6</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>316</id>
 		<productCode>S700_2466</productCode>
         <quantityOrdered>22</quantityOrdered>
-        <priceEach>84,76</priceEach>
+        <priceEach>84.76</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>316</id>
 		<productCode>S700_2834</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>98,48</priceEach>
+        <priceEach>98.48</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>316</id>
 		<productCode>S700_3167</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>65,6</priceEach>
+        <priceEach>65.6</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>316</id>
 		<productCode>S700_4002</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>63,67</priceEach>
+        <priceEach>63.67</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element> </details>');
 
@@ -21123,42 +21123,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>317</id>
 		<productCode>S10_1678</productCode>
         <quantityOrdered>66</quantityOrdered>
-        <priceEach>79,43</priceEach>
+        <priceEach>79.43</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>317</id>
 		<productCode>S10_2016</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>116,56</priceEach>
+        <priceEach>116.56</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>317</id>
 		<productCode>S10_4698</productCode>
         <quantityOrdered>56</quantityOrdered>
-        <priceEach>162,67</priceEach>
+        <priceEach>162.67</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>317</id>
 		<productCode>S12_2823</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>144,6</priceEach>
+        <priceEach>144.6</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>317</id>
 		<productCode>S18_2625</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>58,75</priceEach>
+        <priceEach>58.75</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>317</id>
 		<productCode>S24_1578</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>109,32</priceEach>
+        <priceEach>109.32</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -21167,63 +21167,63 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>318</id>
 		<productCode>S18_3278</productCode>
         <quantityOrdered>16</quantityOrdered>
-        <priceEach>70,76</priceEach>
+        <priceEach>70.76</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>318</id>
 		<productCode>S18_3482</productCode>
         <quantityOrdered>27</quantityOrdered>
-        <priceEach>139,64</priceEach>
+        <priceEach>139.64</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>318</id>
 		<productCode>S18_3782</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>56,57</priceEach>
+        <priceEach>56.57</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>318</id>
 		<productCode>S18_4721</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>120,53</priceEach>
+        <priceEach>120.53</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>318</id>
 		<productCode>S24_2360</productCode>
         <quantityOrdered>52</quantityOrdered>
-        <priceEach>64,41</priceEach>
+        <priceEach>64.41</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>318</id>
 		<productCode>S24_4620</productCode>
         <quantityOrdered>10</quantityOrdered>
-        <priceEach>66,29</priceEach>
+        <priceEach>66.29</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>318</id>
 		<productCode>S32_2206</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>36,61</priceEach>
+        <priceEach>36.61</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>318</id>
 		<productCode>S32_4485</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>100,01</priceEach>
+        <priceEach>100.01</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>318</id>
 		<productCode>S50_4713</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>72,41</priceEach>
+        <priceEach>72.41</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element> </details>');
 
@@ -21232,98 +21232,98 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>319</id>
 		<productCode>S12_1099</productCode>
         <quantityOrdered>12</quantityOrdered>
-        <priceEach>182,9</priceEach>
+        <priceEach>182.9</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>319</id>
 		<productCode>S12_3380</productCode>
         <quantityOrdered>10</quantityOrdered>
-        <priceEach>111,57</priceEach>
+        <priceEach>111.57</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>319</id>
 		<productCode>S12_3990</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>64,64</priceEach>
+        <priceEach>64.64</priceEach>
         <orderLineNumber>14</orderLineNumber>
 	</element>
 	<element>
 		<id>319</id>
 		<productCode>S12_4675</productCode>
         <quantityOrdered>32</quantityOrdered>
-        <priceEach>99,04</priceEach>
+        <priceEach>99.04</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>319</id>
 		<productCode>S18_1129</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>117,48</priceEach>
+        <priceEach>117.48</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>319</id>
 		<productCode>S18_1589</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>100,8</priceEach>
+        <priceEach>100.8</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>319</id>
 		<productCode>S18_1889</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>67,76</priceEach>
+        <priceEach>67.76</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>319</id>
 		<productCode>S18_1984</productCode>
         <quantityOrdered>34</quantityOrdered>
-        <priceEach>133,72</priceEach>
+        <priceEach>133.72</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>319</id>
 		<productCode>S18_2870</productCode>
         <quantityOrdered>55</quantityOrdered>
-        <priceEach>116,16</priceEach>
+        <priceEach>116.16</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>319</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>165,95</priceEach>
+        <priceEach>165.95</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>319</id>
 		<productCode>S18_3685</productCode>
         <quantityOrdered>43</quantityOrdered>
-        <priceEach>114,44</priceEach>
+        <priceEach>114.44</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>319</id>
 		<productCode>S24_2972</productCode>
         <quantityOrdered>15</quantityOrdered>
-        <priceEach>32,1</priceEach>
+        <priceEach>32.1</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>319</id>
 		<productCode>S24_3371</productCode>
         <quantityOrdered>55</quantityOrdered>
-        <priceEach>52,66</priceEach>
+        <priceEach>52.66</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>319</id>
 		<productCode>S24_3856</productCode>
         <quantityOrdered>70</quantityOrdered>
-        <priceEach>112,34</priceEach>
+        <priceEach>112.34</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element> </details>');
 
@@ -21339,84 +21339,84 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>320</id>
 		<productCode>S18_2248</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>52,06</priceEach>
+        <priceEach>52.06</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>320</id>
 		<productCode>S18_2325</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>116,96</priceEach>
+        <priceEach>116.96</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>320</id>
 		<productCode>S18_4409</productCode>
         <quantityOrdered>66</quantityOrdered>
-        <priceEach>73,62</priceEach>
+        <priceEach>73.62</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>320</id>
 		<productCode>S18_4933</productCode>
         <quantityOrdered>36</quantityOrdered>
-        <priceEach>68,42</priceEach>
+        <priceEach>68.42</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>320</id>
 		<productCode>S24_1046</productCode>
         <quantityOrdered>60</quantityOrdered>
-        <priceEach>60,26</priceEach>
+        <priceEach>60.26</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>320</id>
 		<productCode>S24_1628</productCode>
         <quantityOrdered>37</quantityOrdered>
-        <priceEach>48,8</priceEach>
+        <priceEach>48.8</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>320</id>
 		<productCode>S24_1937</productCode>
         <quantityOrdered>45</quantityOrdered>
-        <priceEach>32,19</priceEach>
+        <priceEach>32.19</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>320</id>
 		<productCode>S24_2766</productCode>
         <quantityOrdered>39</quantityOrdered>
-        <priceEach>76,33</priceEach>
+        <priceEach>76.33</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>320</id>
 		<productCode>S24_2887</productCode>
         <quantityOrdered>55</quantityOrdered>
-        <priceEach>115,09</priceEach>
+        <priceEach>115.09</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>320</id>
 		<productCode>S24_3191</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>77,05</priceEach>
+        <priceEach>77.05</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>320</id>
 		<productCode>S24_3432</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>104,94</priceEach>
+        <priceEach>104.94</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>320</id>
 		<productCode>S24_3969</productCode>
         <quantityOrdered>15</quantityOrdered>
-        <priceEach>35,29</priceEach>
+        <priceEach>35.29</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element> </details>');
 
@@ -21425,14 +21425,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>321</id>
 		<productCode>S18_2795</productCode>
         <quantityOrdered>35</quantityOrdered>
-        <priceEach>167,06</priceEach>
+        <priceEach>167.06</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>321</id>
 		<productCode>S24_2022</productCode>
         <quantityOrdered>40</quantityOrdered>
-        <priceEach>44,8</priceEach>
+        <priceEach>44.8</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
 
@@ -21441,14 +21441,14 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>322</id>
 		<productCode>S18_1342</productCode>
         <quantityOrdered>51</quantityOrdered>
-        <priceEach>91,44</priceEach>
+        <priceEach>91.44</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>322</id>
 		<productCode>S18_1367</productCode>
         <quantityOrdered>25</quantityOrdered>
-        <priceEach>47,44</priceEach>
+        <priceEach>47.44</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -21457,35 +21457,35 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>323</id>
 		<productCode>S18_2949</productCode>
         <quantityOrdered>10</quantityOrdered>
-        <priceEach>89,15</priceEach>
+        <priceEach>89.15</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>323</id>
 		<productCode>S18_2957</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>56,21</priceEach>
+        <priceEach>56.21</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>323</id>
 		<productCode>S18_3136</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>98,44</priceEach>
+        <priceEach>98.44</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>323</id>
 		<productCode>S18_3320</productCode>
         <quantityOrdered>21</quantityOrdered>
-        <priceEach>80,36</priceEach>
+        <priceEach>80.36</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>323</id>
 		<productCode>S24_4258</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>78,89</priceEach>
+        <priceEach>78.89</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element> </details>');
 
@@ -21494,42 +21494,42 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>324</id>
 		<productCode>S10_1949</productCode>
         <quantityOrdered>50</quantityOrdered>
-        <priceEach>201,44</priceEach>
+        <priceEach>201.44</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>324</id>
 		<productCode>S12_1666</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>121,64</priceEach>
+        <priceEach>121.64</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>324</id>
 		<productCode>S18_1097</productCode>
         <quantityOrdered>54</quantityOrdered>
-        <priceEach>108,5</priceEach>
+        <priceEach>108.5</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>324</id>
 		<productCode>S18_4668</productCode>
         <quantityOrdered>26</quantityOrdered>
-        <priceEach>40,25</priceEach>
+        <priceEach>40.25</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>324</id>
 		<productCode>S32_3522</productCode>
         <quantityOrdered>44</quantityOrdered>
-        <priceEach>54,94</priceEach>
+        <priceEach>54.94</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element>
 	<element>
 		<id>324</id>
 		<productCode>S700_2824</productCode>
         <quantityOrdered>46</quantityOrdered>
-        <priceEach>85,98</priceEach>
+        <priceEach>85.98</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element> </details>');
 
@@ -21538,90 +21538,90 @@ insert  into orders(orderNumber,orderDate,requiredDate,shippedDate,status,commen
 		<id>325</id>
 		<productCode>S10_4962</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>131,49</priceEach>
+        <priceEach>131.49</priceEach>
         <orderLineNumber>12</orderLineNumber>
 	</element>
 	<element>
 		<id>325</id>
 		<productCode>S12_4473</productCode>
         <quantityOrdered>33</quantityOrdered>
-        <priceEach>95,99</priceEach>
+        <priceEach>95.99</priceEach>
         <orderLineNumber>4</orderLineNumber>
 	</element>
 	<element>
 		<id>325</id>
 		<productCode>S18_2238</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>147,36</priceEach>
+        <priceEach>147.36</priceEach>
         <orderLineNumber>3</orderLineNumber>
 	</element>
 	<element>
 		<id>325</id>
 		<productCode>S18_2319</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>117,82</priceEach>
+        <priceEach>117.82</priceEach>
         <orderLineNumber>7</orderLineNumber>
 	</element>
 	<element>
 		<id>325</id>
 		<productCode>S18_2432</productCode>
         <quantityOrdered>19</quantityOrdered>
-        <priceEach>48,62</priceEach>
+        <priceEach>48.62</priceEach>
         <orderLineNumber>10</orderLineNumber>
 	</element>
 	<element>
 		<id>325</id>
 		<productCode>S18_3232</productCode>
         <quantityOrdered>28</quantityOrdered>
-        <priceEach>140,55</priceEach>
+        <priceEach>140.55</priceEach>
         <orderLineNumber>8</orderLineNumber>
 	</element>
 	<element>
 		<id>325</id>
 		<productCode>S18_4600</productCode>
         <quantityOrdered>38</quantityOrdered>
-        <priceEach>107,76</priceEach>
+        <priceEach>107.76</priceEach>
         <orderLineNumber>13</orderLineNumber>
 	</element>
 	<element>
 		<id>325</id>
 		<productCode>S24_1444</productCode>
         <quantityOrdered>55</quantityOrdered>
-        <priceEach>53,75</priceEach>
+        <priceEach>53.75</priceEach>
         <orderLineNumber>1</orderLineNumber>
 	</element>
 	<element>
 		<id>325</id>
 		<productCode>S24_2300</productCode>
         <quantityOrdered>49</quantityOrdered>
-        <priceEach>127,79</priceEach>
+        <priceEach>127.79</priceEach>
         <orderLineNumber>9</orderLineNumber>
 	</element>
 	<element>
 		<id>325</id>
 		<productCode>S24_2840</productCode>
         <quantityOrdered>31</quantityOrdered>
-        <priceEach>31,82</priceEach>
+        <priceEach>31.82</priceEach>
         <orderLineNumber>5</orderLineNumber>
 	</element>
 	<element>
 		<id>325</id>
 		<productCode>S32_1268</productCode>
         <quantityOrdered>41</quantityOrdered>
-        <priceEach>83,79</priceEach>
+        <priceEach>83.79</priceEach>
         <orderLineNumber>11</orderLineNumber>
 	</element>
 	<element>
 		<id>325</id>
 		<productCode>S32_2509</productCode>
         <quantityOrdered>11</quantityOrdered>
-        <priceEach>50,32</priceEach>
+        <priceEach>50.32</priceEach>
         <orderLineNumber>6</orderLineNumber>
 	</element>
 	<element>
 		<id>325</id>
 		<productCode>S50_1392</productCode>
         <quantityOrdered>18</quantityOrdered>
-        <priceEach>94,92</priceEach>
+        <priceEach>94.92</priceEach>
         <orderLineNumber>2</orderLineNumber>
 	</element> </details>');
