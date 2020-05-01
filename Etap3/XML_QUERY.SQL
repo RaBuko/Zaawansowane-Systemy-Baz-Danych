@@ -100,6 +100,18 @@ Insert INTO payments VALUES ('<?xml version="1.0" encoding="UTF-8"?>
 END;
 
 --4
+SELECT CAST(XMLTYPE(p.PAYMENT).EXTRACT('/payment/amount/text()').getStringVal() AS NUMBER) AS amount FROM PAYMENTS p;
+
+
+--5 POCZATEK
+SELECT  XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/checkNumber/text()').getStringVal() AS NUMER_ZAMUWIENIA, 
+XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/paymentDate/text()').getStringVal() AS DATA_ZAMUWIENIA  FROM PAYMENTS PAY
+WHERE to_date(XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/paymentDate/text()').getStringVal(), 'DD-MM-YYYY') BETWEEN  to_date('22.10.2004','DD-MM-YYYY') 
+AND to_date('31.12.2004','DD-MM-YYYY');
+
+
+
+--6
 DECLARE
 	parser xmlparser.parser;
 	xmldoc xmldom.domdocument;       
@@ -123,18 +135,6 @@ BEGIN
         xmlparser.freeparser(parser);
     END LOOP;
 END;
-
-
---5 POCZATEK
-SELECT  XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/checkNumber/text()').getStringVal() AS NUMER_ZAMUWIENIA, 
-XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/paymentDate/text()').getStringVal() AS DATA_ZAMUWIENIA  FROM PAYMENTS PAY
-WHERE to_date(XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/paymentDate/text()').getStringVal(), 'DD-MM-YYYY') BETWEEN  to_date('22.10.2004','DD-MM-YYYY') 
-AND to_date('31.12.2004','DD-MM-YYYY');
-
-
-
---6
-
 
 --7
 SELECT CST.CUSTOMERNUMBER, CST.CITY, OFC.details.extract('//office/city/text()').getstringval() AS OFFICE_CITY FROM CUSTOMERS CST
