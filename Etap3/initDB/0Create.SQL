@@ -1,8 +1,16 @@
+
+CREATE USER c##test2 IDENTIFIED BY password1 CONTAINER=ALL; 
+
+GRANT CREATE SESSION TO c##test2 CONTAINER=ALL;
+
+GRANT ALL PRIVILEGES TO c##test2;
+
+
+
 DROP INDEX salesRepEmployeeNumber;
 DROP INDEX reportsTo;
 DROP INDEX officeCode;
 DROP INDEX productLine;
-DROP INDEX productCode;
 DROP INDEX customerNumber;
 DROP TABLE orderdetails;
 DROP TABLE orders;

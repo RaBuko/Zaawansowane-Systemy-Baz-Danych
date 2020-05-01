@@ -100,7 +100,6 @@ Insert INTO payments VALUES ('<?xml version="1.0" encoding="UTF-8"?>
 END;
 
 --4
-
 DECLARE
 	parser xmlparser.parser;
 	xmldoc xmldom.domdocument;       
@@ -109,8 +108,8 @@ BEGIN
     FOR rec IN (
         SELECT CUSTOMERNUMBER 
 		FROM CUSTOMERS c 
-		JOIN EMPLOYEES e ON c.SALESREPEMPLOYEENUMBER = e.EMPLOYEENUMBER 
-		JOIN OFFICES o ON o.OFFICECODE = e.OFFICECODE 
+		INNER JOIN EMPLOYEES e ON c.SALESREPEMPLOYEENUMBER = e.EMPLOYEENUMBER 
+		INNER JOIN OFFICES o ON o.OFFICECODE = e.OFFICECODE 
 		WHERE O.DETAILS.EXTRACT('//office/country/text()').getStringVal() = 'Japan'
     ) LOOP
         mydoc := rec.customernumber;
