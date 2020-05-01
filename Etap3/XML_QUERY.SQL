@@ -100,8 +100,10 @@ END;
 
 
 --5 POCZATEK
-SELECT XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/paymentDate/text()').getStringVal() as pd ,
-XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/checkNumber/text()').getStringVal() as checkN FROM PAYMENTS PAY;
+SELECT  XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/checkNumber/text()').getStringVal() AS NUMER_ZAMUWIENIA, 
+XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/paymentDate/text()').getStringVal() AS DATA_ZAMUWIENIA  FROM PAYMENTS PAY
+WHERE to_date(XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/paymentDate/text()').getStringVal(), 'DD-MM-YYYY') BETWEEN  to_date('22.10.2004','DD-MM-YYYY') 
+AND to_date('31.12.2004','DD-MM-YYYY');
 
 
 
