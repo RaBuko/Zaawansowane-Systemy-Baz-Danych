@@ -109,8 +109,6 @@ XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/paymentDate/text()').getStringVal() AS DA
 WHERE to_date(XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/paymentDate/text()').getStringVal(), 'DD-MM-YYYY') BETWEEN  to_date('22.10.2004','DD-MM-YYYY') 
 AND to_date('31.12.2004','DD-MM-YYYY');
 
-
-
 --6
 DECLARE
 	parser xmlparser.parser;
@@ -122,7 +120,7 @@ BEGIN
 		FROM CUSTOMERS c 
 		INNER JOIN EMPLOYEES e ON c.SALESREPEMPLOYEENUMBER = e.EMPLOYEENUMBER 
 		INNER JOIN OFFICES o ON o.OFFICECODE = e.OFFICECODE 
-		WHERE O.DETAILS.EXTRACT('//office/country/text()').getStringVal() = 'Japan'
+		WHERE O.DETAILS.EXTRACT('//office/country/text()').getStringVal() = 'USA'
     ) LOOP
         mydoc := rec.customernumber;
         parser := xmlparser.newparser;
