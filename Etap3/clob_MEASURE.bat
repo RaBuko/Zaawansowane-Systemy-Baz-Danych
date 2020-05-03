@@ -1,0 +1,1 @@
+echo @CLOB.sql | sqlplus -s C##test2/password2

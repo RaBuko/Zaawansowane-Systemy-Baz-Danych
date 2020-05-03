@@ -1,0 +1,1 @@
+echo @XMLTYPE.sql | sqlplus -s C##test2/password2
