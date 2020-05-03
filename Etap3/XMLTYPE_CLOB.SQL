@@ -1,0 +1,91 @@
+CREATE TABLE offices_clob(
+ officeCode varchar2(10) NOT NULL,
+ details CLOB,
+ PRIMARY KEY (officeCode)
+);
+
+INSERT INTO offices_clob VALUES (1, '<?xml version="1.0" encoding="UTF-8"?>
+        <office>
+            <city>San Francisco</city>
+            <phone>+1 650 219 4782</phone>
+            <addressLine1>100 Market Street</addressLine1>
+            <addressLine2>Suite 300</addressLine2>
+            <state>CA</state>
+            <country>USA</country>
+            <postalCode>94080</postalCode>
+            <territory>NA</territory>
+        </office>');
+INSERT INTO offices_clob VALUES (2, '<?xml version="1.0" encoding="UTF-8"?>
+        <office>
+            <city>Boston</city>
+            <phone>+1 215 837 0825</phone>
+            <addressLine1>1550 Court Place</addressLine1>
+            <addressLine2>Suite 102</addressLine2>
+            <state>MA</state>
+            <country>USA</country>
+            <postalCode>02107</postalCode>
+            <territory>NA</territory>
+        </office>');
+INSERT INTO offices_clob VALUES (3, '<?xml version="1.0" encoding="UTF-8"?>
+        <office>
+            <city>NYC</city>
+            <phone>+1 212 555 3000</phone>
+            <addressLine1>523 East 53rd Street</addressLine1>
+            <addressLine2>apt. 5A</addressLine2>
+            <state>NY</state>
+            <country>USA</country>
+            <postalCode>10022</postalCode>
+            <territory>NA</territory>
+        </office>');
+INSERT INTO offices_clob VALUES (4, '<?xml version="1.0" encoding="UTF-8"?>
+        <office>
+            <city>Paris</city>
+            <phone>+33 14 723 4404</phone>
+            <addressLine1>43 Rue Jouffroy Dabbans</addressLine1>
+            <addressLine2>NULL</addressLine2>
+            <state>NULL</state>
+            <country>France</country>
+            <postalCode>75017</postalCode>
+            <territory>EMEA</territory>
+        </office>');
+INSERT INTO offices_clob VALUES (5, '<?xml version="1.0" encoding="UTF-8"?>
+        <office>
+            <city>Tokyo</city>
+            <phone>+81 33 224 5000</phone>
+            <addressLine1>4-1 Kioicho</addressLine1>
+            <addressLine2>NULL</addressLine2>
+            <state>Chiyoda-Ku</state>
+            <country>Japan</country>
+            <postalCode>102-8578</postalCode>
+            <territory>Japan</territory>
+        </office>');
+INSERT INTO offices_clob VALUES (6, '<?xml version="1.0" encoding="UTF-8"?>
+        <office>
+            <city>Sydney</city>
+            <phone>+61 2 9264 2451</phone>
+            <addressLine1>5-11 Wentworth Avenue</addressLine1>
+            <addressLine2>Floor #2</addressLine2>
+            <state>NULL</state>
+            <country>Australia</country>
+            <postalCode>NSW 2010</postalCode>
+            <territory>APAC</territory>
+        </office>');
+INSERT INTO offices_clob VALUES (7, '<?xml version="1.0" encoding="UTF-8"?>
+        <office>
+            <city>London</city>
+            <phone>+44 20 7877 2041</phone>
+            <addressLine1>25 Old Broad Street</addressLine1>
+            <addressLine2>Level 7</addressLine2>
+            <state>NULL</state>
+            <country>UK</country>
+            <postalCode>EC2N 1HN</postalCode>
+            <territory>EMEA</territory>
+        </office>');
+        
+--XMLTYPE        
+SELECT * FROM OFFICES OFC
+WHERE OFC.details.extract('//office/country/text()').getstringval() = 'USA';    
+
+--CLOB
+SELECT * FROM OFFICES_CLOB OFCC
+WHERE XMLTYPE(OFCC.details).EXTRACT('//office/country/text()').getstringval() = 'USA'; 
