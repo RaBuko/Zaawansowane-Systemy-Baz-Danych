@@ -83,9 +83,13 @@ INSERT INTO offices_clob VALUES (7, '<?xml version="1.0" encoding="UTF-8"?>
         </office>');
         
 --XMLTYPE        
-SELECT * FROM OFFICES OFC
-WHERE OFC.details.extract('//office/country/text()').getstringval() = 'USA';    
+SELECT CST.CUSTOMERNUMBER, CST.CITY, OFC.details.extract('//office/city/text()').getstringval() AS OFFICE_CITY FROM CUSTOMERS CST
+INNER JOIN EMPLOYEES EMP ON CST.SALESREPEMPLOYEENUMBER = EMP.EMPLOYEENUMBER
+INNER JOIN OFFICES OFC ON EMP.OFFICECODE = OFC.OFFICECODE
+WHERE CST.CITY = OFC.details.extract('//office/city/text()').getstringval();   
 
 --CLOB
-SELECT * FROM OFFICES_CLOB OFCC
-WHERE XMLTYPE(OFCC.details).EXTRACT('//office/country/text()').getstringval() = 'USA'; 
+SELECT CST.CUSTOMERNUMBER, CST.CITY, XMLTYPE(OFC.details).EXTRACT('//office/city/text()').getstringval() AS OFFICE_CITY FROM CUSTOMERS CST
+INNER JOIN EMPLOYEES EMP ON CST.SALESREPEMPLOYEENUMBER = EMP.EMPLOYEENUMBER
+INNER JOIN OFFICES_CLOB OFC ON EMP.OFFICECODE = OFC.OFFICECODE
+WHERE CST.CITY = XMLTYPE(OFC.details).EXTRACT('//office/city/text()').getstringval();
