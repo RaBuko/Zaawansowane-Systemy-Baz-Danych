@@ -100,21 +100,17 @@ Insert INTO payments VALUES ('<?xml version="1.0" encoding="UTF-8"?>
 END;
 
 --4 -- 10000/ US
-ALTER SESSION SET NLS_NUMERIC_CHARACTERS = '.,';
-DECLARE
-	parser xmlparser.parser;
-	xmldoc xmldom.domdocument;       
-	mydoc VARCHAR2(4000);   
-BEGIN
-	FOR rec IN (
-		SELECT * FROM(SELECT CAST(XMLTYPE(p.PAYMENT).EXTRACT('/payment/amount/text()').getStringVal() AS NUMBER) AS amount,  XMLTYPE(p.PAYMENT).EXTRACT('/payment/customerNumber/text()').getStringVal() AS CUSTOMER FROM PAYMENTS p) WHERE AMOUNT > 100000;
-)LOOP
-	
-END LOOP;
-END;
 
-SELECT * FROM(SELECT CAST(XMLTYPE(p.PAYMENT).EXTRACT('/payment/amount/text()').getStringVal() AS NUMBER) AS amount,  XMLTYPE(p.PAYMENT).EXTRACT('/payment/customerNumber/text()').getStringVal() AS Customer FROM PAYMENTS p) WHERE AMOUNT > 100000 AND ;
-
+UPDATE CUSTOMERS CST
+SET CST.CREDITLIMIT = CST.CREDITLIMIT + 1000
+WHERE CST.CUSTOMERNUMBER IN (
+SELECT DISTINCT Customer FROM 
+(
+    SELECT CAST(XMLTYPE(p.PAYMENT).EXTRACT('/payment/amount/text()').getStringVal() AS NUMBER) AS amount,
+    XMLTYPE(p.PAYMENT).EXTRACT('/payment/customerNumber/text()').getStringVal() AS Customer 
+    FROM PAYMENTS p
+) WHERE amount > 100000
+)
 
 --5 POCZATEK
 SELECT  XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/checkNumber/text()').getStringVal() AS NUMER_ZAMUWIENIA, 
