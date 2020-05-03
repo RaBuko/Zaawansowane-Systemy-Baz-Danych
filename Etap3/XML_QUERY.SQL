@@ -3,14 +3,18 @@
 ALTER SYSTEM FLUSH buffer_cache;
 ALTER SYSTEM FLUSH shared_pool;
 
+
 VARIABLE  START_TIME_XML NUMBER;
 EXEC :START_TIME_XML := EXTRACT(SECOND FROM SYSTIMESTAMP);
 -- START MIERZENIA CZASU
+
 --1
 DELETE FROM ORDERS ORD
 WHERE
 ORD.ORDERNUMBER IN (SELECT ORD.ORDERNUMBER AS NUMER FROM ORDERS ORD
 WHERE ORD.DETAILS.EXTRACT('//details/element/orderLineNumber/text()').getStringVal() LIKE '%7%');
+
+
 
 --2
 INSERT INTO orders (
@@ -23,52 +27,55 @@ INSERT INTO orders (
     customernumber,
     details
 )
-    SELECT
-        99999 + CST.CUSTOMERNUMBER,
-        to_date('2020-05-01','YYYY-MM-DD'),
-        to_date('2020-10-01','YYYY-MM-DD'),
-        NULL,
-        'In Process',
-        NULL,
-        CST.CUSTOMERNUMBER,
-        '<?xml version="1.0" encoding="UTF-8"?>
-        <details>
-        <element>
-                <id>0</id>
-                <productCode>vb369_375</productCode>
-                <quantityOrdered>7</quantityOrdered>
-                <priceEach>4283</priceEach>
-                <orderLineNumber>0</orderLineNumber>
-            </element><element>
-                <id>0</id>
-                <productCode>hv232_198</productCode>
-                <quantityOrdered>2</quantityOrdered>
-                <priceEach>4839</priceEach>
-                <orderLineNumber>1</orderLineNumber>
-            </element><element>
-                <id>0</id>
-                <productCode>so561_437</productCode>
-                <quantityOrdered>3</quantityOrdered>
-                <priceEach>569</priceEach>
-                <orderLineNumber>2</orderLineNumber>
-            </element><element>
-                <id>0</id>
-                <productCode>hn522_363</productCode>
-                <quantityOrdered>4</quantityOrdered>
-                <priceEach>958</priceEach>
-                <orderLineNumber>3</orderLineNumber>
-            </element><element>
-                <id>0</id>
-                <productCode>aw922_829</productCode>
-                <quantityOrdered>0</quantityOrdered>
-                <priceEach>23</priceEach>
-                <orderLineNumber>4</orderLineNumber>
-            </element>
-        </details>'
-    FROM CUSTOMERS CST
-    INNER JOIN EMPLOYEES EMP ON CST.SALESREPEMPLOYEENUMBER = EMP.EMPLOYEENUMBER        
-    WHERE
-        EMP.EMPLOYEENUMBER = 1323;
+SELECT
+	99999 + CST.CUSTOMERNUMBER,
+	to_date('2020-05-01','YYYY-MM-DD'),
+	to_date('2020-10-01','YYYY-MM-DD'),
+	NULL,
+	'In Process',
+	NULL,
+	CST.CUSTOMERNUMBER,
+	'<?xml version="1.0" encoding="UTF-8"?>
+	<details>
+	<element>
+			<id>0</id>
+			<productCode>vb369_375</productCode>
+			<quantityOrdered>7</quantityOrdered>
+			<priceEach>4283</priceEach>
+			<orderLineNumber>0</orderLineNumber>
+		</element><element>
+			<id>0</id>
+			<productCode>hv232_198</productCode>
+			<quantityOrdered>2</quantityOrdered>
+			<priceEach>4839</priceEach>
+			<orderLineNumber>1</orderLineNumber>
+		</element><element>
+			<id>0</id>
+			<productCode>so561_437</productCode>
+			<quantityOrdered>3</quantityOrdered>
+			<priceEach>569</priceEach>
+			<orderLineNumber>2</orderLineNumber>
+		</element><element>
+			<id>0</id>
+			<productCode>hn522_363</productCode>
+			<quantityOrdered>4</quantityOrdered>
+			<priceEach>958</priceEach>
+			<orderLineNumber>3</orderLineNumber>
+		</element><element>
+			<id>0</id>
+			<productCode>aw922_829</productCode>
+			<quantityOrdered>0</quantityOrdered>
+			<priceEach>23</priceEach>
+			<orderLineNumber>4</orderLineNumber>
+		</element>
+	</details>'
+FROM CUSTOMERS CST
+INNER JOIN EMPLOYEES EMP ON CST.SALESREPEMPLOYEENUMBER = EMP.EMPLOYEENUMBER        
+WHERE
+	EMP.EMPLOYEENUMBER = 1323;
+	
+	
+/*	
 --3
 DECLARE
     parser          xmlparser.parser;
@@ -86,7 +93,7 @@ BEGIN
         xmldoc := xmlparser.getdocument(parser); 
         IF rec.customernumber = 103  THEN          
             
-Insert INTO payments VALUES ('<?xml version="1.0" encoding="UTF-8"?>
+		Insert INTO payments VALUES ('<?xml version="1.0" encoding="UTF-8"?>
             <payment>
                 <customerNumber>103</customerNumber>
                 <checkNumber>ny213802</checkNumber>
@@ -98,7 +105,7 @@ Insert INTO payments VALUES ('<?xml version="1.0" encoding="UTF-8"?>
         xmlparser.freeparser(parser);
     END LOOP;
 END;
-
+*/
 --4 -- 10000/ US
 
 UPDATE CUSTOMERS CST
@@ -109,8 +116,7 @@ SELECT DISTINCT Customer FROM
     SELECT CAST(XMLTYPE(p.PAYMENT).EXTRACT('/payment/amount/text()').getStringVal() AS NUMBER) AS amount,
     XMLTYPE(p.PAYMENT).EXTRACT('/payment/customerNumber/text()').getStringVal() AS Customer 
     FROM PAYMENTS p
-) WHERE amount > 100000
-)
+) WHERE amount > 100000);
 
 --5 POCZATEK
 SELECT  XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/checkNumber/text()').getStringVal() AS NUMER_ZAMUWIENIA, 
@@ -118,6 +124,7 @@ XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/paymentDate/text()').getStringVal() AS DA
 WHERE to_date(XMLTYPE(PAY.PAYMENT).EXTRACT('/payment/paymentDate/text()').getStringVal(), 'DD-MM-YYYY') BETWEEN  to_date('22.10.2004','DD-MM-YYYY') 
 AND to_date('31.12.2004','DD-MM-YYYY');
 
+/*
 --6
 DECLARE
 	parser xmlparser.parser;
@@ -141,7 +148,7 @@ BEGIN
         xmldom.freedocument(xmldoc);
         xmlparser.freeparser(parser);
     END LOOP;
-END;
+END;*/
 
 --7
 SELECT CST.CUSTOMERNUMBER, CST.CITY, OFC.details.extract('//office/city/text()').getstringval() AS OFFICE_CITY FROM CUSTOMERS CST
