@@ -8,7 +8,7 @@ SET PRD.RECTANGLE = MDSYS.SDO_GEOMETRY(
           -- define rectangle (lower left and upper right) with
           -- Cartesian-coordinate data
   )
-WHERE PRD.PRODUCTLINE = 'Classic Cars' and PRD.PRODUCTLINE = 'Motorcycles';
+WHERE PRD.PRODUCTLINE = 'Classic Cars' or PRD.PRODUCTLINE = 'Motorcycles';
 
 UPDATE PRODUCTS PRD
 SET PRD.RECTANGLE = MDSYS.SDO_GEOMETRY(
@@ -20,7 +20,7 @@ SET PRD.RECTANGLE = MDSYS.SDO_GEOMETRY(
           -- define rectangle (lower left and upper right) with
           -- Cartesian-coordinate data
   )
-WHERE PRD.PRODUCTLINE = 'Planes' and PRD.PRODUCTLINE = 'Ships';
+WHERE PRD.PRODUCTLINE = 'Planes' or PRD.PRODUCTLINE = 'Ships';
 
 UPDATE PRODUCTS PRD
 SET PRD.RECTANGLE = MDSYS.SDO_GEOMETRY(
@@ -32,7 +32,7 @@ SET PRD.RECTANGLE = MDSYS.SDO_GEOMETRY(
           -- define rectangle (lower left and upper right) with
           -- Cartesian-coordinate data
   )
-WHERE PRD.PRODUCTLINE = 'Trains' and PRD.PRODUCTLINE = 'Trucks and Buses';
+WHERE PRD.PRODUCTLINE = 'Trains' or PRD.PRODUCTLINE = 'Trucks and Buses';
 
 UPDATE PRODUCTS PRD
 SET PRD.RECTANGLE = MDSYS.SDO_GEOMETRY(
