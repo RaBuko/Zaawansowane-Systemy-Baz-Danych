@@ -9,12 +9,20 @@ ORDER BY LINELENGHT)
 WHERE LINELENGHT < 20);
 
 --3
+UPDATE PRODUCTS PRD
+SET PRD.RECTANGLE = MDSYS.SDO_GEOMETRY(
+    2003,  -- 2 wymiary
+    NULL,
+    NULL,
+    MDSYS.SDO_ELEM_INFO_ARRAY(1,1003,3), -- jeden prostokat (1003 = zewn)
+    MDSYS.SDO_ORDINATE_ARRAY(0,0, 20,30) -- 2 punkty definiujace prostokat (lewy dolny rog i prawy forny rog)
+)
+WHERE PRD.PRODUCTNAME = '1964 Mercedes Tour Bus'
 
 --4
 SELECT cu.* FROM CUSTOMERS cu
 JOIN CITIES ci ON cu.CITY = ci.CITY 
 WHERE SDO_EQUAL(ci.LOCATION, SDO_GEOMETRY(2001,NULL, SDO_POINT_TYPE(4.732445,-74.264192, NULL),NULL,NULL)) = 'TRUE';
-
 
 
 --5
