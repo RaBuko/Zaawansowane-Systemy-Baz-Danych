@@ -1,0 +1,1 @@
+echo @crud.sql | sqlplus -s C##test3/password3

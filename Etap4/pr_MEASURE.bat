@@ -1,0 +1,1 @@
+echo @przestrzenne.sql | sqlplus -s C##test3/password3
