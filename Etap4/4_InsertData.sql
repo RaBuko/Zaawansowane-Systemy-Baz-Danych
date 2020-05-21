@@ -543,7 +543,7 @@ insert  into customers(customerNumber,customerName,contactLastName,contactFirstN
 
 insert  into customers(customerNumber,customerName,contactLastName,contactFirstName,phone,addressLine1,addressLine2,city,state,postalCode,country,salesRepEmployeeNumber,creditLimit) values (495,'Diecast Collectables','Franco','Valarie','6175552555','6251 Ingle Ln.',NULL,'Boston','MA','51003','USA',1188,85100.00);
 
-insert  into customers(customerNumber,customerName,contactLastName,contactFirstName,phone,addressLine1,addressLine2,city,state,postalCode,country,salesRepEmployeeNumber,creditLimit) values (496,'Kellys Gift Shop','Snowden','Tony','+64 9 5555500','Arenales 1938 3A',NULL,'Auckland  ',NULL,NULL,'New Zealand',1612,110000.00);
+insert  into customers(customerNumber,customerName,contactLastName,contactFirstName,phone,addressLine1,addressLine2,city,state,postalCode,country,salesRepEmployeeNumber,creditLimit) values (496,'Kellys Gift Shop','Snowden','Tony','+64 9 5555500','Arenales 1938 3A',NULL,'Auckland',NULL,NULL,'New Zealand',1612,110000.00);
 
 
 
