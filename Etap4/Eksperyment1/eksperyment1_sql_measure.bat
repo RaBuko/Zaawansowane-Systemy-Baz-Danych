@@ -1,0 +1,1 @@
+echo @eksperyment1_sql.sql | sqlplus -s C##test3/password1
