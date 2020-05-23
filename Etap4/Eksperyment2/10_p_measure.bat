@@ -1,0 +1,1 @@
+echo @10_p_select.sql | sqlplus -s C##test3/password1
