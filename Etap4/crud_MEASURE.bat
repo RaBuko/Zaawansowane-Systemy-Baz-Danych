@@ -1,1 +1,1 @@
-echo @crud.sql | sqlplus -s C##test3/password3
+echo @crud.sql | sqlplus -s C##test3/password1
