@@ -1,3 +1,7 @@
+
+ALTER SYSTEM SET SGA_TARGET=3G SCOPE=SPFILE;
+ALTER SYSTEM SET INMEMORY_SIZE=2G SCOPE=SPFILE;
+
 /*Table structure for table `productlines` */
 
 CREATE TABLE productlines (
