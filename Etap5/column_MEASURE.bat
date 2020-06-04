@@ -1,0 +1,1 @@
+echo @COLUMN_1_7.sql | sqlplus -s C##test4/password1
